@@ -1,0 +1,59 @@
+<div class="container" id="notebook-container">
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="import-modules">import modules</h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">webbrowser</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="create-dummy-dataframe"><br/>create dummy dataframe</h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#select the url you want to open</span>
+<span class="n">url</span> <span class="o">=</span> <span class="s1">'http://docs.python.org/'</span>
+
+<span class="c1">#set browser path</span>
+<span class="n">chrome_path</span> <span class="o">=</span> <span class="s1">'open -a /Applications/Google\ Chrome.app </span><span class="si">%s</span><span class="s1">'</span>
+
+<span class="c1">#open browser, search URL</span>
+<span class="n">webbrowser</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">chrome_path</span><span class="p">)</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Your browser should open after running the above.<br>
+Your Chrome path may vary so if you need to debug would start there.</br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<div class="container" id="notebook-container">
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="import-modules">import modules</h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="define-function"><br/>define function</h4>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Return the post-tax earnings of an individual,</span>
+<span class="c1">#assuming varying tax brackets depending on annual wage</span>
+    
+<span class="k">def</span> <span class="nf">calcEarnings</span><span class="p">(</span><span class="n">hours</span><span class="p">,</span> <span class="n">wage</span><span class="p">):</span>
+    <span class="n">earnings</span> <span class="o">=</span> <span class="n">hours</span><span class="o">*</span><span class="n">wage</span>
+    <span class="k">if</span> <span class="n">earnings</span> <span class="o">&gt;=</span> <span class="mi">2000</span><span class="p">:</span>
+        <span class="c1">#30% tax rate for weekly earnings above $2000</span>
+        <span class="n">earnings</span> <span class="o">=</span> <span class="n">earnings</span><span class="o">*.</span><span class="mi">70</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="c1">#15% tax rate for weekly earnings below $2000</span>
+        <span class="n">earnings</span> <span class="o">=</span> <span class="n">earnings</span><span class="o">*.</span><span class="mi">85</span>
+    <span class="k">return</span> <span class="n">earnings</span>
+
+<span class="c1">#return the raw earnings of an individual (assuming no varying rates for overtime)</span>
+<span class="k">def</span> <span class="nf">calcEarnings_pretax</span><span class="p">(</span><span class="n">hours</span><span class="p">,</span> <span class="n">wage</span><span class="p">):</span>
+    <span class="n">earnings</span> <span class="o">=</span> <span class="n">hours</span><span class="o">*</span><span class="n">wage</span>
+    <span class="k">return</span> <span class="n">earnings</span>
+
+
+<span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+    <span class="n">hours</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s1">'Enter hours worked for the week: '</span><span class="p">))</span>
+    <span class="n">wage</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s1">'Enter dollars paid per hour: '</span><span class="p">))</span>
+    <span class="n">total</span> <span class="o">=</span> <span class="n">calcEarnings</span><span class="p">(</span><span class="n">hours</span><span class="p">,</span> <span class="n">wage</span><span class="p">)</span>
+    <span class="n">total_pre_tax</span> <span class="o">=</span> <span class="n">calcEarnings_pretax</span><span class="p">(</span><span class="n">hours</span><span class="p">,</span> <span class="n">wage</span><span class="p">)</span>
+    <span class="n">taxes</span> <span class="o">=</span> <span class="n">total_pre_tax</span> <span class="o">-</span> <span class="n">total</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Pre-tax earnings for </span><span class="si">{hours}</span><span class="s1"> hours at $</span><span class="si">{wage:.2f}</span><span class="s1"> per hour are $</span><span class="si">{total_pre_tax:.2f}</span><span class="s1">.'</span>
+          <span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="o">**</span><span class="nb">locals</span><span class="p">()))</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'Post-tax earnings for </span><span class="si">{hours}</span><span class="s1"> hours at $</span><span class="si">{wage:.2f}</span><span class="s1"> per hour are $</span><span class="si">{total:.2f}</span><span class="s1">.'</span>
+          <span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="o">**</span><span class="nb">locals</span><span class="p">()))</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">'You gave uncle sam $</span><span class="si">{taxes:.2f}</span><span class="s1"> this week!'</span>
+          <span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="o">**</span><span class="nb">locals</span><span class="p">()))</span>
+
+<span class="n">main</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area"><div class="prompt"></div>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Enter hours worked for the week: 40
+Enter dollars paid per hour: 55
+Pre-tax earnings for 40.0 hours at $55.00 per hour are $2200.00.
+Post-tax earnings for 40.0 hours at $55.00 per hour are $1540.00.
+You gave uncle sam $660.00 this week!
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>You can run the above yourself if you copy/paste it into a notebook or text editor. Will ask you for two inputs (hours, wage) and calculate pre-tax earnings, post-tax earnings, and taxes paid.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

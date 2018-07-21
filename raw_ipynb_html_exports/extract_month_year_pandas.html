@@ -1,0 +1,414 @@
+<div class="container" id="notebook-container">
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="import-modules">import modules</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">datetime</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="create-dummy-dataframe">create dummy dataframe</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">raw_data</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'name'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'Willard Morris'</span><span class="p">,</span> <span class="s1">'Al Jennings'</span><span class="p">,</span> <span class="s1">'Omar Mullins'</span><span class="p">,</span> <span class="s1">'Spencer McDaniel'</span><span class="p">],</span>
+        <span class="s1">'age'</span><span class="p">:</span> <span class="p">[</span><span class="mi">20</span><span class="p">,</span> <span class="mi">19</span><span class="p">,</span> <span class="mi">22</span><span class="p">,</span> <span class="mi">21</span><span class="p">],</span>
+        <span class="s1">'favorite_color'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'blue'</span><span class="p">,</span> <span class="s1">'red'</span><span class="p">,</span> <span class="s1">'yellow'</span><span class="p">,</span> <span class="s2">"green"</span><span class="p">],</span>
+        <span class="s1">'grade'</span><span class="p">:</span> <span class="p">[</span><span class="mi">88</span><span class="p">,</span> <span class="mi">92</span><span class="p">,</span> <span class="mi">95</span><span class="p">,</span> <span class="mi">70</span><span class="p">],</span>
+        <span class="s1">'birth_date'</span><span class="p">:</span> <span class="p">[</span><span class="s1">'01-02-1996'</span><span class="p">,</span> <span class="s1">'08-05-1997'</span><span class="p">,</span> <span class="s1">'04-28-1996'</span><span class="p">,</span> <span class="s1">'12-16-1995'</span><span class="p">]}</span>
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">raw_data</span><span class="p">,</span> <span class="n">index</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'Willard Morris'</span><span class="p">,</span> <span class="s1">'Al Jennings'</span><span class="p">,</span> <span class="s1">'Omar Mullins'</span><span class="p">,</span> <span class="s1">'Spencer McDaniel'</span><span class="p">])</span>
+<span class="n">df</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>age</th>
+<th>birth_date</th>
+<th>favorite_color</th>
+<th>grade</th>
+<th>name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Willard Morris</th>
+<td>20</td>
+<td>01-02-1996</td>
+<td>blue</td>
+<td>88</td>
+<td>Willard Morris</td>
+</tr>
+<tr>
+<th>Al Jennings</th>
+<td>19</td>
+<td>08-05-1997</td>
+<td>red</td>
+<td>92</td>
+<td>Al Jennings</td>
+</tr>
+<tr>
+<th>Omar Mullins</th>
+<td>22</td>
+<td>04-28-1996</td>
+<td>yellow</td>
+<td>95</td>
+<td>Omar Mullins</td>
+</tr>
+<tr>
+<th>Spencer McDaniel</th>
+<td>21</td>
+<td>12-16-1995</td>
+<td>green</td>
+<td>70</td>
+<td>Spencer McDaniel</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="create-a-new-column-with-year-of-date-field-'birth_date'">create a new column with year of date field 'birth_date'</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#pandas datetimeindex docs: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DatetimeIndex.html</span>
+<span class="c1">#efficient way to extract year from string format date</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'year'</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DatetimeIndex</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">'birth_date'</span><span class="p">])</span><span class="o">.</span><span class="n">year</span>
+<span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>age</th>
+<th>birth_date</th>
+<th>favorite_color</th>
+<th>grade</th>
+<th>name</th>
+<th>year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Willard Morris</th>
+<td>20</td>
+<td>01-02-1996</td>
+<td>blue</td>
+<td>88</td>
+<td>Willard Morris</td>
+<td>1996</td>
+</tr>
+<tr>
+<th>Al Jennings</th>
+<td>19</td>
+<td>08-05-1997</td>
+<td>red</td>
+<td>92</td>
+<td>Al Jennings</td>
+<td>1997</td>
+</tr>
+<tr>
+<th>Omar Mullins</th>
+<td>22</td>
+<td>04-28-1996</td>
+<td>yellow</td>
+<td>95</td>
+<td>Omar Mullins</td>
+<td>1996</td>
+</tr>
+<tr>
+<th>Spencer McDaniel</th>
+<td>21</td>
+<td>12-16-1995</td>
+<td>green</td>
+<td>70</td>
+<td>Spencer McDaniel</td>
+<td>1995</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="create-a-new-column-with-month-of-date-field-'birth_date'">create a new column with month of date field 'birth_date'</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#pandas datetimeindex docs: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DatetimeIndex.html</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'month'</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DatetimeIndex</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">'birth_date'</span><span class="p">])</span><span class="o">.</span><span class="n">month</span>
+<span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>age</th>
+<th>birth_date</th>
+<th>favorite_color</th>
+<th>grade</th>
+<th>name</th>
+<th>year</th>
+<th>month</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Willard Morris</th>
+<td>20</td>
+<td>01-02-1996</td>
+<td>blue</td>
+<td>88</td>
+<td>Willard Morris</td>
+<td>1996</td>
+<td>1</td>
+</tr>
+<tr>
+<th>Al Jennings</th>
+<td>19</td>
+<td>08-05-1997</td>
+<td>red</td>
+<td>92</td>
+<td>Al Jennings</td>
+<td>1997</td>
+<td>8</td>
+</tr>
+<tr>
+<th>Omar Mullins</th>
+<td>22</td>
+<td>04-28-1996</td>
+<td>yellow</td>
+<td>95</td>
+<td>Omar Mullins</td>
+<td>1996</td>
+<td>4</td>
+</tr>
+<tr>
+<th>Spencer McDaniel</th>
+<td>21</td>
+<td>12-16-1995</td>
+<td>green</td>
+<td>70</td>
+<td>Spencer McDaniel</td>
+<td>1995</td>
+<td>12</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#if the date format comes in datetime, we can also extract the day/month/year using the to_period function</span>
+<span class="c1">#where 'D', 'M', 'Y' are inputs</span>
+<span class="n">df</span><span class="p">[</span><span class="s1">'month_year'</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">'birth_date'</span><span class="p">])</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">to_period</span><span class="p">(</span><span class="s1">'M'</span><span class="p">)</span>
+<span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="output_wrapper">
+<div class="output">
+<div class="output_area">
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>age</th>
+<th>birth_date</th>
+<th>favorite_color</th>
+<th>grade</th>
+<th>name</th>
+<th>year</th>
+<th>month</th>
+<th>month_year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Willard Morris</th>
+<td>20</td>
+<td>01-02-1996</td>
+<td>blue</td>
+<td>88</td>
+<td>Willard Morris</td>
+<td>1996</td>
+<td>1</td>
+<td>1996-01</td>
+</tr>
+<tr>
+<th>Al Jennings</th>
+<td>19</td>
+<td>08-05-1997</td>
+<td>red</td>
+<td>92</td>
+<td>Al Jennings</td>
+<td>1997</td>
+<td>8</td>
+<td>1997-08</td>
+</tr>
+<tr>
+<th>Omar Mullins</th>
+<td>22</td>
+<td>04-28-1996</td>
+<td>yellow</td>
+<td>95</td>
+<td>Omar Mullins</td>
+<td>1996</td>
+<td>4</td>
+<td>1996-04</td>
+</tr>
+<tr>
+<th>Spencer McDaniel</th>
+<td>21</td>
+<td>12-16-1995</td>
+<td>green</td>
+<td>70</td>
+<td>Spencer McDaniel</td>
+<td>1995</td>
+<td>12</td>
+<td>1995-12</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

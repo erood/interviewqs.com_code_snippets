@@ -1,0 +1,54 @@
+<div class="container" id="notebook-container">
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="import-modules">import modules</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pymongo</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">from</span> <span class="nn">pymongo</span> <span class="k">import</span> <span class="n">MongoClient</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="connect-to-mongo,-import-collection-into-Pandas-dataframe">connect to mongo, import collection into Pandas dataframe</h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+<div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">client</span> <span class="o">=</span> <span class="n">MongoClient</span><span class="p">()</span>
+
+<span class="c1">#point the client at mongo URI</span>
+<span class="n">client</span> <span class="o">=</span> <span class="n">MongoClient</span><span class="p">(</span><span class="s1">'Mongo URI'</span><span class="p">)</span>
+<span class="c1">#select database</span>
+<span class="n">db</span> <span class="o">=</span> <span class="n">client</span><span class="p">[</span><span class="s1">'database_name'</span><span class="p">]</span>
+<span class="c1">#select the collection within the database</span>
+<span class="n">test</span> <span class="o">=</span> <span class="n">db</span><span class="o">.</span><span class="n">test</span>
+<span class="c1">#convert entire collection to Pandas dataframe</span>
+<span class="n">test</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">test</span><span class="o">.</span><span class="n">find</span><span class="p">()))</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
