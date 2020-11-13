@@ -1,0 +1,2075 @@
+unitid,institution_name,state_cd,classification_name,RECRUITEXP_TOTAL,GRND_TOTAL_REVENUE,GRND_TOTAL_EXPENSE,TOTAL_OPEXP_INCLCOED_Football
+100654,Alabama A & M University,AL,NCAA Division I-FCS,144543,13790500,13626724,364748
+100663,University of Alabama at Birmingham,AL,NCAA Division I-FBS,700879,36494380,35697117,1692284
+100706,University of Alabama in Huntsville,AL,NCAA Division II without football,63330,7781027,7781027,
+100724,Alabama State University,AL,NCAA Division I-FCS,107137,11639722,11639722,459171
+100751,The University of Alabama,AL,NCAA Division I-FBS,4026525,166812799,166812799,11459340
+100760,Central Alabama Community College,AL,NJCAA Division I ,450,906077,889789,
+100830,Auburn University at Montgomery,AL,NCAA Division II without football,23901,5228809,4313051,
+100858,Auburn University,AL,NCAA Division I-FBS,2159056,152455418,132614089,4735365
+100937,Birmingham Southern College,AL,NCAA Division III with football,38893,3827423,3827423,143895
+101028,Chattahoochee Valley Community College,AL,NJCAA Division I ,0,1307390,1307390,
+101143,Enterprise State Community College,AL,NJCAA Division I ,0,808476,788639,
+101161,Coastal Alabama Community College,AL,NJCAA Division I ,0,4348946,4348946,
+101189,Faulkner University,AL,NAIA Division I ,51261,6437374,6437374,378956
+101240,Gadsden State Community College,AL,NJCAA Division I ,4671,403097,403097,
+101286,George C Wallace Community College-Dothan,AL,NJCAA Division I ,1879,759325,745480,
+101295,George C Wallace State Community College-Hanceville,AL,NJCAA Division I ,5824,1474283,1474283,
+101301,George C Wallace State Community College-Selma,AL,NJCAA Division I ,2566,378659,378659,
+101435,Huntingdon College,AL,NCAA Division III with football,55140,3661290,3661290,201072
+101480,Jacksonville State University,AL,NCAA Division I-FCS,309345,16015137,16015137,733462
+101505,Jefferson State Community College,AL,NJCAA Division I ,0,151203,151203,
+101514,John C Calhoun State Community College,AL,NJCAA Division I ,1200,704898,704898,
+101541,Judson College,AL,USCAA,4785,689726,689726,
+101569,Lawson State Community College-Birmingham Campus,AL,NJCAA Division I ,11000,1152790,1152790,
+101587,University of West Alabama,AL,NCAA Division II with football,79197,8600448,8174264,298133
+101602,Lurleen B Wallace Community College,AL,NJCAA Division I ,3369,712274,712274,
+101648,Marion Military Institute,AL,NJCAA Division I ,22950,1890826,1838493,
+101675,Miles College,AL,NCAA Division II with football,54748,4581896,4581896,401758
+101693,University of Mobile,AL,NAIA Division I ,12183,6608565,6593565,
+101709,University of Montevallo,AL,NCAA Division II without football,115478,7729985,7729985,
+101879,University of North Alabama,AL,NCAA Division I-FCS,200647,11293784,11293784,395098
+101897,Northeast Alabama Community College,AL,NJCAA Division I ,0,89322,89322,
+101912,Oakwood University,AL,USCAA,0,174514,174514,
+102030,Bishop State Community College,AL,NJCAA Division I ,10300,913982,913982,
+102049,Samford University,AL,NCAA Division I-FCS,270452,22316675,20727360,781942
+102067,Shelton State Community College,AL,NJCAA Division I ,0,1636306,1636306,
+102076,Snead State Community College,AL,NJCAA Division I ,2697,1426460,1426460,
+102094,University of South Alabama,AL,NCAA Division I-FBS,261900,25695217,25695217,1755800
+102234,Spring Hill College,AL,NCAA Division II without football,24615,4757371,4561102,
+102270,Stillman College,AL,NAIA Division I ,0,905858,905858,
+102298,Talladega College,AL,NAIA Division I ,15951,1326552,1326552,
+102368,Troy University,AL,NCAA Division I-FBS,388186,32704262,32704262,1166824
+102377,Tuskegee University,AL,NCAA Division II with football,40049,4974641,4974641,313888
+102429,Bevill State Community College,AL,NJCAA Division I ,373,906568,870962,
+102553,University of Alaska Anchorage,AK,NCAA Division II without football,173741,11502111,11502111,
+102614,University of Alaska Fairbanks,AK,NCAA Division II without football,139071,5875700,5875700,
+104151,Arizona State University-Tempe,AZ,NCAA Division I-FBS,1617133,101836361,98541911,3617364
+104160,Arizona Western College,AZ,NJCAA Division I ,26514,2696001,2696001,152457
+104179,University of Arizona,AZ,NCAA Division I-FBS,1822466,102275918,85734226,5434740
+104346,Central Arizona College,AZ,NJCAA Division I ,10380,2949386,2949386,
+104425,Cochise County Community College District,AZ,NJCAA Division I ,12446,1726430,1726430,
+104577,Eastern Arizona College,AZ,NJCAA Division I ,41217,2525509,2525509,262190
+104586,Embry-Riddle Aeronautical University-Prescott,AZ,NAIA Division I ,21531,4333118,4222326,
+104708,Glendale Community College,AZ,NJCAA Division II ,0,1444113,1444113,29363
+104717,Grand Canyon University,AZ,NCAA Division I without football,438888,23326473,23326473,
+105145,GateWay Community College,AZ,NJCAA Division II ,0,502602,477735,
+105154,Mesa Community College,AZ,NJCAA Division II ,0,2008918,2008918,95705
+105297,Dine College,AZ,Other ,0,139801,139801,
+105330,Northern Arizona University,AZ,NCAA Division I-FCS,514653,21153840,21153840,1283003
+105428,Phoenix College,AZ,NJCAA Division II ,0,1776031,1679022,55118
+105525,Pima Community College,AZ,NJCAA Division I ,0,2721461,2721461,153501
+105589,Prescott College,AZ,Other ,0,14214,14214,
+105747,Scottsdale Community College,AZ,Other ,0,1492582,1492582,44542
+105792,South Mountain Community College,AZ,NJCAA Division II ,0,1004060,882535,
+105899,Arizona Christian University,AZ,NAIA Division I ,14926,9671850,9671850,183404
+106148,Yavapai College,AZ,NJCAA Division I ,11952,1797781,1708864,
+106245,University of Arkansas at Little Rock,AR,NCAA Division I without football,315046,13109839,13032529,
+106306,Arkansas Baptist College,AR,NJCAA Division I ,0,567947,567947,19289
+106342,Lyon College,AR,NAIA Division I ,110039,10127746,10127746,169573
+106397,University of Arkansas,AR,NCAA Division I-FBS,3275057,139504649,133144771,6625162
+106412,University of Arkansas at Pine Bluff,AR,NCAA Division I-FCS,17046,8217298,8217298,552598
+106458,Arkansas State University-Main Campus,AR,NCAA Division I-FBS,520919,20708238,20708238,2474147
+106467,Arkansas Tech University,AR,NCAA Division II with football,94415,7096028,6678723,101233
+106485,University of Arkansas at Monticello,AR,NCAA Division II with football,38776,3875830,3875830,164444
+106704,University of Central Arkansas,AR,NCAA Division I-FCS,272452,13637719,13627313,439015
+106713,Central Baptist College,AR,NAIA Division I ,8220,2206914,2009031,
+106810,Crowley's Ridge College,AR,NAIA Division I ,8000,1161972,1124627,
+107044,Harding University,AR,NCAA Division II with football,52503,6263002,6263002,197850
+107071,Henderson State University,AR,NCAA Division II with football,83243,4819381,4819381,112700
+107080,Hendrix College,AR,NCAA Division III with football,108161,2996481,2996481,236959
+107141,John Brown University,AR,NAIA Division I ,13102,3144455,3081138,
+107318,Arkansas State University Mid-South,AR,NJCAA Division II ,3809,234730,234730,
+107460,North Arkansas College,AR,NJCAA Division II ,6000,315586,315586,
+107512,Ouachita Baptist University,AR,NCAA Division II with football,79571,6170977,6033697,157272
+107558,University of the Ozarks,AR,NCAA Division III without football,42195,1946586,1946586,
+107600,Philander Smith College,AR,NAIA Division I ,0,908900,908900,
+107743,University of Arkansas Community College Rich Mountain,AR,NJCAA Division I ,633,48705,48705,
+107877,Williams Baptist College,AR,NAIA Division I ,18179,3757204,3757204,
+107983,Southern Arkansas University Main Campus,AR,NCAA Division II with football,28830,5373571,5373571,133714
+107992,Southern Arkansas University Tech,AR,NJCAA Division II ,12324,443403,443403,
+108092,University of Arkansas-Fort Smith,AR,NCAA Division II without football,28014,3501034,3501034,
+108232,Academy of Art University,CA,NCAA Division II without football,97982,8256249,8256249,
+108667,College of Alameda,CA,CCCAA,0,106675,106675,
+108807,Allan Hancock College,CA,CCCAA,0,1580268,1580268,187299
+109208,American River College,CA,CCCAA,0,2665565,2530970,45082
+109350,Antelope Valley College,CA,CCCAA,0,1707537,1707537,52610
+109785,Azusa Pacific University,CA,NCAA Division II with football,36312,13481599,12138842,484569
+109819,Bakersfield College,CA,CCCAA,0,4443374,4443374,193320
+109907,Barstow Community College,CA,CCCAA,6571,624494,624494,
+110060,Bethesda University,CA,NCCAA Division I ,1000,457073,457073,
+110097,Biola University,CA,NCAA Division II without football,43318,8882867,8640652,
+110246,Butte College,CA,CCCAA,0,921339,921339,43888
+110334,Cabrillo College,CA,CCCAA,0,581846,580558,55956
+110361,California Baptist University,CA,NCAA Division I without football,303021,23525600,22596277,
+110404,California Institute of Technology,CA,NCAA Division III without football,53826,2548960,2331629,
+110413,California Lutheran University,CA,NCAA Division III with football,18635,4534157,4534157,176454
+110422,California Polytechnic State University-San Luis Obispo,CA,NCAA Division I-FCS,406886,31465374,31465374,1004330
+110486,California State University-Bakersfield,CA,NCAA Division I without football,223077,18337132,18337132,
+110495,California State University-Stanislaus,CA,NCAA Division II without football,32127,5938478,5894372,
+110510,California State University-San Bernardino,CA,NCAA Division II without football,20921,5666566,5666566,
+110529,California State Polytechnic University-Pomona,CA,NCAA Division II without football,27560,6525051,6338639,
+110538,California State University-Chico,CA,NCAA Division II without football,61741,5798193,5798193,
+110547,California State University-Dominguez Hills,CA,NCAA Division II without football,41461,5581364,5581364,
+110556,California State University-Fresno,CA,NCAA Division I-FBS,666909,49469530,49469530,2093147
+110565,California State University-Fullerton,CA,NCAA Division I without football,216138,19021920,19021920,
+110574,California State University-East Bay,CA,NCAA Division II without football,60811,7975519,7975519,
+110583,California State University-Long Beach,CA,NCAA Division I without football,290066,22338314,22338314,
+110592,California State University-Los Angeles,CA,NCAA Division II without football,23808,6882220,6882220,
+110608,California State University-Northridge,CA,NCAA Division I without football,240264,17761680,17761680,
+110617,California State University-Sacramento,CA,NCAA Division I-FCS,309429,22165179,22165179,1431604
+110635,University of California-Berkeley,CA,NCAA Division I-FBS,1714498,94646123,94646123,7243994
+110644,University of California-Davis,CA,NCAA Division I-FCS,515680,36641166,33686679,1296091
+110653,University of California-Irvine,CA,NCAA Division I without football,222294,21090609,21090609,
+110662,University of California-Los Angeles,CA,NCAA Division I-FBS,1737627,127339042,127339042,8011063
+110671,University of California-Riverside,CA,NCAA Division I without football,195908,17091632,17091632,
+110680,University of California-San Diego,CA,NCAA Division II without football,210200,16947118,16947118,
+110705,University of California-Santa Barbara,CA,NCAA Division I without football,406734,22338917,22338917,
+110714,University of California-Santa Cruz,CA,NCAA Division III without football,21702,2775559,2539637,
+111188,California State University Maritime Academy,CA,NAIA Division II ,11900,793925,793925,
+111434,Canada College,CA,CCCAA,0,257120,225706,
+111461,College of the Canyons,CA,CCCAA,0,2085158,2035015,72245
+111887,Cerritos College,CA,CCCAA,0,3453449,3301387,55063
+111896,Cerro Coso Community College,CA,CCCAA,2506,603247,584479,
+111920,Chabot College,CA,CCCAA,0,1362665,1362665,70401
+111939,Chaffey College,CA,CCCAA,0,2253752,2043193,47736
+111948,Chapman University,CA,NCAA Division III with football,22415,3911270,3911270,133342
+112075,Concordia University-Irvine,CA,NCAA Division II without football,16158,7877668,7877668,
+112084,San Diego Christian College,CA,NAIA Division I ,4699,3531902,3531901,
+112172,Citrus College,CA,CCCAA,2442,3531196,3484245,30662
+112190,City College of San Francisco,CA,CCCAA,0,735344,735344,67118
+112260,Claremont McKenna College,CA,NCAA Division III with football,100844,5909987,5909987,156607
+112561,Columbia College,CA,CCCAA,0,232309,226310,
+112686,El Camino College-Compton Center,CA,CCCAA,0,694338,660595,36411
+112826,Contra Costa College,CA,CCCAA,0,1087680,1087680,8124
+113096,Cosumnes River College,CA,CCCAA,0,1728926,1710788,
+113111,Crafton Hills College,CA,CCCAA,0,47894,47894,
+113193,Cuesta College,CA,CCCAA,0,1488469,1307892,
+113218,Cuyamaca College,CA,CCCAA,0,852333,852333,
+113236,Cypress College,CA,CCCAA,0,1618054,1413829,
+113333,De Anza College,CA,CCCAA,0,2005712,1992563,82071
+113573,College of the Desert,CA,CCCAA,0,1652574,1652574,60034
+113634,Diablo Valley College,CA,CCCAA,0,1317554,1179090,81627
+113698,Dominican University of California,CA,NCAA Division II without football,38198,3955578,3955578,
+113856,East Los Angeles College,CA,CCCAA,0,1665671,1665671,58256
+113980,El Camino Community College District,CA,CCCAA,0,2466775,2457586,73439
+114266,Evergreen Valley College,CA,CCCAA,0,149651,149651,
+114433,Feather River Community College District,CA,CCCAA,23835,2193703,2193703,43721
+114716,Foothill College,CA,CCCAA,0,857667,857667,34727
+114789,Fresno City College,CA,CCCAA,0,3878489,3612448,67053
+114813,Fresno Pacific University,CA,NCAA Division II without football,74196,7831036,7523102,
+114859,Fullerton College,CA,CCCAA,0,1734541,1734541,68243
+114938,Gavilan College,CA,CCCAA,0,1246114,1194822,30315
+115001,Glendale Community College,CA,CCCAA,0,502743,502743,18849
+115126,Golden West College,CA,CCCAA,0,1982551,1903269,38200
+115296,Grossmont College,CA,CCCAA,0,2227645,1908397,59770
+115393,Hartnell College,CA,CCCAA,0,571333,570954,22945
+115728,Holy Names University,CA,NCAA Division II without football,8380,5109665,5109665,
+115755,Humboldt State University,CA,NCAA Division II with football,71662,5877862,5877862,253377
+115861,Imperial Valley College,CA,CCCAA,0,450644,399906,
+116439,Irvine Valley College,CA,CCCAA,0,2471265,2471265,
+117052,Reedley College,CA,CCCAA,31114,1691059,1624777,68532
+117104,Life Pacific College,CA,NAIA Division I ,22721,1465515,1465515,
+117140,University of La Verne,CA,NCAA Division III with football,10136,4355310,4004269,64858
+117195,Lake Tahoe Community College,CA,CCCAA,2999,475048,387772,
+117247,Laney College,CA,CCCAA,0,370329,370329,51312
+117274,Lassen Community College,CA,CCCAA,8200,950690,866931,
+117627,La Sierra University,CA,NAIA Division II ,5000,1182209,1182209,
+117645,Long Beach City College,CA,CCCAA,0,2619063,2619063,66985
+117690,Los Angeles Harbor College,CA,CCCAA,0,1305670,1263999,46746
+117706,Los Angeles Pierce College,CA,CCCAA,0,1074495,1036733,51988
+117715,Los Angeles Southwest College,CA,CCCAA,0,387730,387730,24148
+117724,Los Angeles Trade Technical College,CA,CCCAA,0,770028,695686,
+117733,Los Angeles Valley College,CA,CCCAA,0,908370,843193,46116
+117751,The Master's University and Seminary,CA,NAIA Division I ,29392,4413521,4413521,
+117867,Los Angeles Mission College,CA,CCCAA,0,540372,520898,
+117894,Los Medanos College,CA,CCCAA,0,348571,345562,37910
+117946,Loyola Marymount University,CA,NCAA Division I without football,450721,26253834,26253834,
+118347,College of Marin,CA,CCCAA,0,753559,753559,
+118541,Marymount California University,CA,NAIA Division II ,7500,3383227,3383227,
+118684,Mendocino College,CA,CCCAA,0,683425,664974,
+118693,Menlo College,CA,NAIA Division I ,46186,9837979,9677729,
+118718,Merced College,CA,CCCAA,0,1158847,1158847,38517
+118772,Merritt College,CA,CCCAA,0,412902,412902,
+118912,MiraCosta College,CA,CCCAA,0,716954,703587,
+118930,Mission College,CA,CCCAA,0,757572,757572,
+118976,Modesto Junior College,CA,CCCAA,0,1077538,1077538,24505
+119067,Monterey Peninsula College,CA,CCCAA,0,873721,873721,103638
+119137,Moorpark College,CA,CCCAA,0,1119945,989400,45664
+119164,Mt San Antonio College,CA,CCCAA,0,3965781,3794425,60852
+119216,Mt San Jacinto Community College District,CA,CCCAA,4125,1226518,993853,25379
+119331,Napa Valley College,CA,CCCAA,0,638488,638488,
+120184,Notre Dame de Namur University,CA,NCAA Division II without football,16106,3334716,3334716,
+120254,Occidental College,CA,NCAA Division III with football,64995,4177596,3702028,97609
+120290,Ohlone College,CA,CCCAA,0,801906,753310,
+120342,Orange Coast College,CA,CCCAA,0,2818485,2818485,57880
+120421,Oxnard College,CA,CCCAA,0,1002237,944763,
+120537,Hope International University,CA,NAIA Division I ,14383,6402783,6398380,
+120865,Pacific Union College,CA,NAIA Division II ,2300,755292,755292,
+120883,University of the Pacific,CA,NCAA Division I without football,479247,22034925,22034925,
+120971,Palomar College,CA,CCCAA,0,1600760,1552518,77213
+121044,Pasadena City College,CA,CCCAA,0,2374214,2374214,72190
+121150,Pepperdine University,CA,NCAA Division I without football,398711,23609320,23609320,
+121309,Point Loma Nazarene University,CA,NCAA Division II without football,45210,6963839,6774095,
+121345,Pomona College,CA,NCAA Division III with football,99501,5157930,4779859,161066
+121363,Porterville College,CA,CCCAA,0,669669,643612,
+121619,Santa Ana College,CA,CCCAA,0,1982860,1982860,118087
+121691,University of Redlands,CA,NCAA Division III with football,85806,5242308,5180355,187643
+121707,College of the Redwoods,CA,CCCAA,0,1136528,1115392,124073
+121886,Rio Hondo College,CA,CCCAA,0,1067439,1067439,
+121901,Riverside City College,CA,NJCAA Division I ,0,3423490,3423490,65653
+122180,Sacramento City College,CA,CCCAA,0,2709014,2709014,71913
+122205,Saddleback College,CA,CCCAA,0,3160096,3130544,45211
+122339,San Diego City College,CA,CCCAA,0,1436916,1422668,
+122375,San Diego Mesa College,CA,CCCAA,0,2139558,2139558,35049
+122384,San Diego Miramar College,CA,CCCAA,0,589657,577365,
+122409,San Diego State University,CA,NCAA Division I-FBS,675789,54402858,54402858,8123021
+122436,University of San Diego,CA,NCAA Division I-FCS,414237,25651913,25651913,584757
+122597,San Francisco State University,CA,NCAA Division II without football,63355,6260593,6140902,
+122612,University of San Francisco,CA,NCAA Division I without football,502245,21515372,21515372,
+122658,San Joaquin Delta College,CA,CCCAA,0,2278927,2278927,47042
+122728,William Jessup University,CA,NAIA Division I ,32465,5537623,5537623,
+122746,San Jose City College,CA,CCCAA,0,1130690,1130690,46256
+122755,San Jose State University,CA,NCAA Division I-FBS,476864,30583967,30583967,1359955
+122791,College of San Mateo,CA,CCCAA,0,1963880,1963880,158827
+122889,Santa Barbara City College,CA,CCCAA,0,2154612,2154612,73236
+122931,Santa Clara University,CA,NCAA Division I without football,415666,26992446,26992446,
+122977,Santa Monica College,CA,CCCAA,0,1916037,1662525,36855
+123013,Santa Rosa Junior College,CA,CCCAA,0,2273355,1839011,62016
+123217,College of the Sequoias,CA,CCCAA,0,1133030,1045254,39071
+123299,Shasta College,CA,CCCAA,1247,1126668,1126668,88947
+123341,Sierra College,CA,CCCAA,0,2334627,2258276,80468
+123457,Simpson University,CA,NAIA Division II ,12932,3796430,3796430,
+123484,College of the Siskiyous,CA,CCCAA,6420,1377596,1377596,78026
+123509,Skyline College,CA,CCCAA,0,966301,966301,
+123527,San Bernardino Valley College,CA,CCCAA,0,1584757,1584757,44820
+123554,Saint Mary's College of California,CA,NCAA Division I without football,365270,18381353,18381353,
+123563,Solano Community College,CA,CCCAA,51319,1476332,1476332,
+123572,Sonoma State University,CA,NCAA Division II without football,22851,7768802,7727617,
+123651,Vanguard University of Southern California,CA,NAIA Division I ,19492,5325338,5177276,
+123800,Southwestern College,CA,CCCAA,0,972922,947657,66052
+123961,University of Southern California,CA,NCAA Division I-FBS,2045761,118687120,118687120,8575465
+124113,Taft College,CA,CCCAA,3695,707643,700512,
+125028,Ventura College,CA,CCCAA,1147,2343546,2235840,66072
+125091,Victor Valley College,CA,CCCAA,0,855445,855445,19605
+125462,West Hills College-Coalinga,CA,CCCAA,0,1549394,1549394,75759
+125471,West Los Angeles College,CA,CCCAA,0,1298192,1298192,50316
+125499,West Valley College,CA,CCCAA,0,1574368,1574368,
+125727,Westmont College,CA,NAIA Division I ,19320,5173144,5173144,
+125763,Whittier College,CA,NCAA Division III with football,50118,2909438,2847686,107527
+126119,Yuba College,CA,CCCAA,2000,470019,468885,50641
+126182,Adams State University,CO,NCAA Division II with football,96377,6486446,6486446,227747
+126580,University of Colorado Colorado Springs,CO,NCAA Division II without football,87085,6329284,6308028,
+126614,University of Colorado Boulder,CO,NCAA Division I-FBS,1341699,98413285,98413285,4462153
+126669,Colorado Christian University,CO,NCAA Division II without football,59547,3986002,3986002,
+126678,Colorado College,CO,NCAA Division III without football,160785,11180580,11180580,
+126711,Colorado Mountain College,CO,Other ,2450,113606,113606,
+126748,Colorado Northwestern Community College,CO,NJCAA Division I ,36075,1909289,1827236,
+126775,Colorado School of Mines,CO,NCAA Division II with football,123274,10021907,9950201,253930
+126818,Colorado State University-Fort Collins,CO,NCAA Division I-FBS,1106849,56081379,54289162,3925834
+127060,University of Denver,CO,NCAA Division I without football,499699,39044611,39044611,
+127185,Fort Lewis College,CO,NCAA Division II with football,43444,5993256,5835758,134498
+127389,Lamar Community College,CO,NJCAA Division I ,22282,1346481,1215479,
+127556,Colorado Mesa University,CO,NCAA Division II with football,150402,10377254,10259880,146523
+127565,Metropolitan State University of Denver,CO,NCAA Division II without football,45351,6576249,6270686,
+127732,Northeastern Junior College,CO,NJCAA Division I ,17420,1747270,1747270,
+127741,University of Northern Colorado,CO,NCAA Division I-FCS,270024,17597863,17442111,693658
+127778,Otero Junior College,CO,NJCAA Division I ,29500,2287595,2287595,
+127918,Regis University,CO,NCAA Division II without football,23272,6966298,5706948,
+128106,Colorado State University-Pueblo,CO,NCAA Division II with football,78345,8321766,8321766,294418
+128258,Trinidad State Junior College,CO,NJCAA Division I ,16608,2057808,2057808,
+128391,Western State Colorado University,CO,NCAA Division II with football,80409,5603472,5603472,231847
+128498,Albertus Magnus College,CT,NCAA Division III without football,17811,1247219,1247219,
+128744,University of Bridgeport,CT,NCAA Division II without football,26561,7378088,7378088,
+128771,Central Connecticut State University,CT,NCAA Division I-FCS,106380,16982568,16982568,71254
+128902,Connecticut College,CT,NCAA Division III without football,32504,4408229,4408229,
+129020,University of Connecticut,CT,NCAA Division I-FBS,1390566,79100614,78217019,4988192
+129215,Eastern Connecticut State University,CT,NCAA Division III without football,17327,4276060,4276060,
+129242,Fairfield University,CT,NCAA Division I without football,139508,21962334,21962334,
+129525,University of Hartford,CT,NCAA Division I without football,233203,15413249,15413249,
+129774,Mitchell College,CT,NCAA Division III without football,20765,1296177,1292924,
+129941,University of New Haven,CT,NCAA Division II with football,46784,8485176,8450050,199207
+130183,Post University,CT,NCAA Division II without football,35871,5514058,5434058,
+130226,Quinnipiac University,CT,NCAA Division I without football,435878,28680434,28680434,
+130253,Sacred Heart University,CT,NCAA Division I-FCS,282542,26326420,26326420,401390
+130314,University of Saint Joseph,CT,NCAA Division III without football,12983,1816964,1816964,
+130396,Gateway Community College,CT,NJCAA Division III ,0,90150,90150,
+130493,Southern Connecticut State University,CT,NCAA Division II with football,34228,8077271,8077271,163035
+130590,Trinity College,CT,NCAA Division III with football,70940,8906069,8013662,70409
+130697,Wesleyan University,CT,NCAA Division III with football,58893,8088052,7684736,120208
+130776,Western Connecticut State University,CT,NCAA Division III with football,14733,4419771,4419771,138248
+130794,Yale University,CT,NCAA Division I-FCS,1185755,47325251,46697948,949533
+130907,Delaware Technical Community College-Terry,DE,Other ,0,718524,718524,
+130934,Delaware State University,DE,NCAA Division I-FCS,131704,12457825,12457825,581425
+130943,University of Delaware,DE,NCAA Division I-FCS,496203,39781050,39781050,949459
+130989,Goldey-Beacom College,DE,NCAA Division II without football,26589,2636045,2591373,
+131098,Wesley College,DE,NCAA Division III with football,19917,1688801,1688801,144915
+131113,Wilmington University,DE,NCAA Division II without football,31405,4981148,4981148,
+131159,American University,DC,NCAA Division I without football,322831,13942365,13942365,
+131283,Catholic University of America,DC,NCAA Division III with football,103753,5349442,5262519,172001
+131399,University of the District of Columbia,DC,NCAA Division II without football,3744,4004038,4004038,
+131450,Gallaudet University,DC,NCAA Division III with football,15145,2903406,2903406,170000
+131469,George Washington University,DC,NCAA Division I without football,351270,31619765,31619765,
+131496,Georgetown University,DC,NCAA Division I-FCS,1407263,43199926,43199926,508646
+131520,Howard University,DC,NCAA Division I-FCS,196252,16975217,16975217,311559
+131876,Trinity Washington University,DC,NCAA Division III without football,0,340675,340675,
+132471,Barry University,FL,NCAA Division II without football,46470,7661868,7661868,
+132602,Bethune-Cookman University,FL,NCAA Division I-FCS,190799,15146225,15146225,1438589
+132657,Lynn University,FL,NCAA Division II without football,78506,8746461,8746461,
+132693,Eastern Florida State College,FL,NJCAA Division I ,139593,3096314,3096314,
+132709,Broward College,FL,NJCAA Division I ,0,1600050,1600050,
+132851,College of Central Florida,FL,NJCAA Division I ,0,1211889,1211889,
+132879,Johnson University Florida,FL,NCCAA Division II ,4080,304648,304611,
+132903,University of Central Florida,FL,NCAA Division I-FBS,891211,68359639,68359639,5372290
+133021,Chipola College,FL,NJCAA Division I ,38524,2281612,2281612,
+133386,Daytona State College,FL,NJCAA Division I ,13314,3358030,3358030,
+133492,Eckerd College,FL,NCAA Division II without football,41432,5700847,5700847,
+133508,Florida SouthWestern State College,FL,NJCAA Division I ,13927,2377909,2289180,
+133526,Edward Waters College,FL,NAIA Division I ,10774,1724305,1724305,75019
+133553,Embry-Riddle Aeronautical University-Daytona Beach,FL,NCAA Division II without football,67692,12158594,12013507,
+133650,Florida Agricultural and Mechanical University,FL,NCAA Division I-FCS,125759,10706218,10706218,507055
+133669,Florida Atlantic University,FL,NCAA Division I-FBS,862303,30885685,30885685,1684386
+133702,Florida State College at Jacksonville,FL,NJCAA Division I ,211,1403212,1403212,
+133711,Flagler College-St Augustine,FL,NCAA Division II without football,74793,6164877,6164877,
+133809,Florida College,FL,NAIA Division I ,15247,1264311,1264311,
+133881,Florida Institute of Technology,FL,NCAA Division II with football,147451,13082719,12946053,372186
+133951,Florida International University,FL,NCAA Division I-FBS,468285,31549581,31549581,2046522
+133979,Florida Memorial University,FL,NAIA Division II ,22000,1409231,1409231,
+134079,Florida Southern College,FL,NCAA Division II without football,110558,10316653,10316653,
+134097,Florida State University,FL,NCAA Division I-FBS,2591887,198407201,198407201,6460901
+134130,University of Florida,FL,NCAA Division I-FBS,2528827,143627997,143627997,9339333
+134237,Full Sail University,FL,Other ,0,359801,359801,
+134343,Gulf Coast State College,FL,NJCAA Division I ,15596,2047651,2047651,
+134495,Hillsborough Community College,FL,NJCAA Division I ,8058,1018891,989872,
+134608,Indian River State College,FL,NJCAA Division I ,7528,2261272,2261272,
+134945,Jacksonville University,FL,NCAA Division I-FCS,298747,19779451,19779451,404228
+135081,Keiser University-Ft Lauderdale,FL,NAIA Division II ,51917,11496214,11379262,313432
+135160,Florida Gateway College,FL,NJCAA Division II ,1614,297402,260814,
+135188,Lake-Sumter State College,FL,NJCAA Division I ,1438,941045,908994,
+135391,State College of Florida-Manatee-Sarasota,FL,NJCAA Division I ,7639,1769997,1769997,
+135717,Miami Dade College,FL,NJCAA Division I ,25145,3346359,3346359,
+135726,University of Miami,FL,NCAA Division I-FBS,2802842,127170251,127135143,8794019
+136172,University of North Florida,FL,NCAA Division I without football,145067,13287771,13033972,
+136215,Nova Southeastern University,FL,NCAA Division II without football,70988,12876527,12876527,
+136233,Northwest Florida State College,FL,NJCAA Division I ,49402,1877875,1874961,
+136330,Palm Beach Atlantic University,FL,NCAA Division II without football,65982,5916701,5589424,
+136358,Palm Beach State College,FL,NJCAA Division I ,7138,1636465,1625077,
+136400,Pasco-Hernando State College,FL,NJCAA Division II ,0,1043447,1043447,
+136473,Pensacola State College,FL,NJCAA Division I ,22395,1604705,1604705,
+136516,Polk State College,FL,NJCAA Division I ,1913,1364153,1364153,
+136950,Rollins College,FL,NCAA Division II without football,50862,11525887,11525887,
+137032,Saint Leo University,FL,NCAA Division II without football,71972,8886209,8231086,
+137078,St Petersburg College,FL,NJCAA Division I ,0,1493772,1493772,
+137096,Santa Fe College,FL,NJCAA Division I ,7892,1812558,1802447,
+137209,Seminole State College of Florida,FL,NJCAA Division I ,586,1159782,1159782,
+137281,Saint Johns River State College,FL,NJCAA Division I ,5696,1044720,1007282,
+137315,South Florida State College,FL,NJCAA Division I ,276,764770,764770,
+137351,University of South Florida-Main Campus,FL,NCAA Division I-FBS,925952,55103914,55103914,3341862
+137476,St Thomas University,FL,NAIA Division II ,25106,4758517,4020674,
+137546,Stetson University,FL,NCAA Division I-FCS,361990,20323156,20323156,768181
+137564,Southeastern University,FL,NAIA Division II ,57076,8424191,7914316,217296
+137759,Tallahassee Community College,FL,NJCAA Division I ,12000,1806290,1806290,
+137847,The University of Tampa,FL,NCAA Division II without football,120553,13239762,12307656,
+137953,Trinity Baptist College,FL,NCCAA Division II ,4463,557269,557269,
+137962,Trinity College of Florida,FL,NCCAA Division II ,35283,286903,286903,
+138275,Warner University,FL,NAIA Division II ,29949,5637528,5605956,265259
+138293,Webber International University,FL,NAIA Division II ,38880,6822996,6646752,163669
+138354,The University of West Florida,FL,NCAA Division II with football,101635,10911531,10890289,297515
+138558,Abraham Baldwin Agricultural College,GA,NJCAA Division I ,0,745279,745279,
+138682,Albany Technical College,GA,NJCAA Division I ,1802,147268,147268,
+138716,Albany State University,GA,NCAA Division II with football,24111,3657716,3657716,154737
+138761,Andrew College,GA,NJCAA Division I ,5371,1820212,1333012,
+138868,Point University,GA,NAIA Division II ,37557,7064724,7064724,185477
+138947,Clark Atlanta University,GA,NCAA Division II with football,18947,6927303,5982404,111970
+139144,Berry College,GA,NCAA Division III with football,91111,5902293,5326664,277995
+139199,Brenau University,GA,NAIA Division II ,12573,3174498,3144208,
+139205,Brewton-Parker College,GA,NAIA Division I ,15717,4516106,4516106,
+139250,College of Coastal Georgia,GA,NAIA Division I ,4553,1400807,1400807,
+139278,West Georgia Technical College,GA,NJCAA Division III ,0,528342,528342,
+139311,Clayton  State University,GA,NCAA Division II without football,19793,2571523,2571523,
+139366,Columbus State University,GA,NCAA Division II without football,18378,4542586,4542586,
+139393,Covenant College,GA,NCAA Division III without football,30450,1429679,1419507,
+139463,Dalton State College,GA,NAIA Division I ,5338,1292701,1281120,
+139621,East Georgia State College,GA,NJCAA Division I ,8770,628573,628573,
+139630,Emmanuel College,GA,NCAA Division II without football,51348,7604605,7508327,
+139658,Emory University,GA,NCAA Division III without football,67788,6570690,6314077,
+139700,Georgia Highlands College,GA,NJCAA Division I ,6896,1251447,1251447,
+139719,Fort Valley State University,GA,NCAA Division II with football,250,2077507,2077507,103101
+139755,Georgia Institute of Technology-Main Campus,GA,NCAA Division I-FBS,1820626,79491714,79491714,3309705
+139764,Georgia Southwestern State University,GA,NCAA Division II without football,14179,1718654,1718654,
+139861,Georgia College & State University,GA,NCAA Division II without football,10056,3624837,3557362,
+139931,Georgia Southern University,GA,NCAA Division I-FBS,385756,20556842,20556842,1162348
+139940,Georgia State University,GA,NCAA Division I-FBS,479843,38399503,38399503,1437505
+139959,University of Georgia,GA,NCAA Division I-FBS,5172890,174042482,133212381,9673104
+139968,Gordon State College,GA,NJCAA Division I ,1561,619820,571378,
+139986,Southern Crescent Technical College,GA,NJCAA Division I ,0,333560,326462,
+140234,LaGrange College,GA,NCAA Division III with football,49312,3296165,3296165,146148
+140252,Life University,GA,NAIA Division I ,46646,5478091,5156106,
+140447,Mercer University,GA,NCAA Division I-FCS,367028,21386346,21386346,509932
+140696,Oglethorpe University,GA,NCAA Division III without football,48797,2270034,2270034,
+140720,Paine College,GA,NCAA Division II without football,3113,1425124,1425124,
+140818,Piedmont College,GA,NCAA Division III without football,10308,3491045,3391919,
+140872,Reinhardt University,GA,NAIA Division II ,9000,6328836,6316066,153623
+140951,Savannah College of Art and Design,GA,NAIA Division II ,28997,10878823,10619569,
+140960,Savannah State University,GA,NCAA Division I-FCS,19588,4371460,4371460,132442
+140988,Shorter University,GA,NCAA Division II with football,79726,6648826,6648826,252013
+141006,South Georgia Technical College,GA,NJCAA Division I ,21465,729447,729447,
+141167,Thomas University,GA,NAIA Division II ,6755,3385207,3372982,
+141185,Toccoa Falls College,GA,NCCAA Division II ,1678,227891,227891,
+141237,Truett McConnell University,GA,NAIA Division II ,47892,4099724,4099724,
+141264,Valdosta State University,GA,NCAA Division II with football,7173,9236914,7997734,217148
+141334,University of West Georgia,GA,NCAA Division II with football,67124,7846464,7846464,274864
+141361,Young Harris College,GA,NCAA Division II without football,69838,6007624,6007624,
+141486,Chaminade University of Honolulu,HI,NCAA Division II without football,25311,3265022,3265022,
+141565,University of Hawaii at Hilo,HI,NCAA Division II without football,45601,5377229,5377229,
+141574,University of Hawaii at Manoa,HI,NCAA Division I-FBS,795532,45745380,45745380,3095818
+141644,Hawaii Pacific University,HI,NCAA Division II without football,19500,6959442,6959442,
+142115,Boise State University,ID,NCAA Division I-FBS,929088,42343886,42207466,2013509
+142276,Idaho State University,ID,NCAA Division I-FCS,240359,13941086,13941086,957744
+142285,University of Idaho,ID,NCAA Division I-FCS,434984,18730323,18730323,1308983
+142294,The College of Idaho,ID,NAIA Division II ,29335,4346838,4346838,245504
+142328,Lewis-Clark State College,ID,NAIA Division I ,16495,3942919,3882325,
+142443,North Idaho College,ID,Other ,25070,2173350,2173350,
+142461,Northwest Nazarene University,ID,NCAA Division II without football,73383,4948730,4948730,
+142559,College of Southern Idaho,ID,NJCAA Division I ,68912,3790427,3790427,
+143084,Augustana College,IL,NCAA Division III with football,201322,4491558,4491558,340193
+143118,Aurora University,IL,NCAA Division III with football,78070,4510667,4474040,54219
+143215,Southwestern Illinois College,IL,NJCAA Division I ,1476,1451803,1451803,
+143279,Black Hawk College,IL,NJCAA Division II ,0,669492,663994,
+143288,Blackburn College,IL,NCAA Division III without football,10186,1006322,1006322,
+143358,Bradley University,IL,NCAA Division I without football,336250,18101314,18101314,
+143613,Carl Sandburg College,IL,NJCAA Division II ,2629,810445,778102,
+144005,Chicago State University,IL,NCAA Division I without football,125500,4693618,4693618,
+144050,University of Chicago,IL,NCAA Division III with football,107192,5636677,5636677,292097
+144157,City Colleges of Chicago-Kennedy-King College,IL,NJCAA Division I ,0,373159,373159,
+144166,City Colleges of Chicago-Malcolm X College,IL,NJCAA Division I ,9600,407150,407150,
+144175,City Colleges of Chicago-Olive-Harvey College,IL,NJCAA Division I ,6400,409430,409430,
+144184,City Colleges of Chicago-Harry S Truman College,IL,NJCAA Division I ,0,362112,362112,
+144193,City Colleges of Chicago-Richard J Daley College,IL,NJCAA Division I ,6400,413247,413247,
+144218,City Colleges of Chicago-Wilbur Wright College,IL,NJCAA Division II ,0,285197,285197,
+144351,Concordia University-Chicago,IL,NCAA Division III with football,36704,3079641,3000160,146541
+144564,Danville Area Community College,IL,NJCAA Division II ,5876,843524,839677,
+144740,DePaul University,IL,NCAA Division I without football,413048,31235997,31235997,
+144865,College of DuPage,IL,NJCAA Division III ,4216,1935988,1935988,123280
+144892,Eastern Illinois University,IL,NCAA Division I-FCS,182323,12424550,12424550,464034
+144944,Elgin Community College,IL,NJCAA Division III ,2000,456069,456069,
+144962,Elmhurst College,IL,NCAA Division III with football,140805,3119967,3119967,180570
+144971,Eureka College,IL,NCAA Division III with football,253,1166681,1166681,98359
+145336,Governors State University,IL,NAIA Division II ,0,1130059,1124923,
+145372,Greenville University,IL,NCAA Division III with football,45904,2045419,1939490,64969
+145521,Highland Community College,IL,NJCAA Division I ,10297,731174,727769,
+145600,University of Illinois at Chicago,IL,NCAA Division I without football,277499,17780145,17340964,
+145619,Benedictine University,IL,NCAA Division III with football,19075,6524371,6069602,37388
+145637,University of Illinois at Urbana-Champaign,IL,NCAA Division I-FBS,2271459,100156079,100156079,2473630
+145646,Illinois Wesleyan University,IL,NCAA Division III with football,41477,3167218,3167218,143531
+145682,Illinois Central College,IL,NJCAA Division II ,2574,1312226,1312226,
+145691,Illinois College,IL,NCAA Division III with football,53977,2550438,2550438,99846
+145707,Olney Central College,IL,NJCAA Division I ,7934,755108,752094,
+145725,Illinois Institute of Technology,IL,NCAA Division III without football,48900,1654827,1654827,
+145813,Illinois State University,IL,NCAA Division I-FCS,422461,29004681,26742643,545158
+145831,Illinois Valley Community College,IL,NJCAA Division II ,76,548524,504272,
+146205,John A Logan College,IL,NJCAA Division I ,16189,1494022,1494022,
+146278,John Wood Community College,IL,NJCAA Division II ,0,562882,562882,
+146296,Joliet Junior College,IL,NJCAA Division III ,0,1276137,955177,
+146339,Judson University,IL,NAIA Division I ,4376,4050112,4037397,
+146348,Kankakee Community College,IL,NJCAA Division II ,2056,1511776,1511776,
+146366,Kaskaskia College,IL,NJCAA Division I ,2459,1236051,1236051,
+146418,Kishwaukee College,IL,NJCAA Division II ,2504,426680,356765,
+146427,Knox College,IL,NCAA Division III with football,61792,2420814,2420814,87336
+146472,College of Lake County,IL,NJCAA Division II ,1331,1394602,1152803,
+146481,Lake Forest College,IL,NCAA Division III with football,64725,2992807,2992807,78613
+146506,Lake Land College,IL,NJCAA Division I ,6302,1072295,1068834,
+146603,Lewis and Clark Community College,IL,NJCAA Division I ,7051,1421247,1372249,
+146612,Lewis University,IL,NCAA Division II without football,72790,7899103,7899103,
+146667,Lincoln Christian University,IL,NAIA Division II ,1255,538238,538238,
+146676,Lincoln College,IL,NAIA Division II ,17653,2989931,2989931,
+146685,Lincoln Land Community College,IL,NJCAA Division II ,0,1137192,1126890,
+146719,Loyola University Chicago,IL,NCAA Division I without football,274484,17112669,17112669,
+146825,MacMurray College,IL,NCAA Division III with football,39202,1178062,1153119,77918
+147004,McHenry County College,IL,NJCAA Division II ,4200,652058,628946,
+147013,McKendree University,IL,NCAA Division II with football,92051,12643825,11836601,147137
+147244,Millikin University,IL,NCAA Division III with football,116140,3854506,3854506,170828
+147341,Monmouth College,IL,NCAA Division III with football,81303,1799282,1799282,57369
+147369,Moody Bible Institute,IL,NCCAA Division II ,0,395704,395704,
+147378,Moraine Valley Community College,IL,NJCAA Division II ,6000,1008650,1008650,
+147411,Morton College,IL,NJCAA Division II ,8000,827161,827161,
+147660,North Central College,IL,NCAA Division III with football,0,5326077,4701077,217659
+147679,North Park University,IL,NCAA Division III with football,48809,2975752,2975752,87382
+147703,Northern Illinois University,IL,NCAA Division I-FBS,277631,26795495,25041731,1912284
+147767,Northwestern University,IL,NCAA Division I-FBS,1852028,111421226,111421226,3257490
+147800,Oakton Community College,IL,NJCAA Division II ,0,1035245,1035245,
+147828,Olivet Nazarene University,IL,NAIA Division II ,31921,7593728,7303411,188724
+147916,Parkland College,IL,NJCAA Division II ,2400,1342133,1300186,
+148007,Prairie State College,IL,NJCAA Division II ,760,691433,691433,
+148131,Quincy University,IL,NCAA Division II with football,91078,7318808,7297472,213298
+148256,Rend Lake College,IL,NJCAA Division I ,8932,1155217,1095276,
+148335,Robert Morris University Illinois,IL,NAIA Division II ,31496,9907251,9907251,399725
+148380,Rock Valley College,IL,NJCAA Division III ,3285,1109089,1109089,
+148405,Rockford University,IL,NCAA Division III with football,39064,1865144,1865144,46620
+148487,Roosevelt University,IL,NAIA Division II ,14729,2258078,2258078,
+148496,Dominican University,IL,NCAA Division III without football,18649,1890159,1890159,
+148584,University of St Francis,IL,NAIA Division II ,18270,7272123,7096890,188235
+148627,Saint Xavier University,IL,NAIA Division II ,8129,5255217,5255217,149907
+148654,University of Illinois at Springfield,IL,NCAA Division II without football,16073,4120648,4120648,
+148672,Sauk Valley Community College,IL,NJCAA Division I ,80,544309,537126,
+148821,Shawnee Community College,IL,NJCAA Division I ,0,549021,549021,
+148937,Southeastern Illinois College,IL,NJCAA Division I ,0,380957,380957,
+148991,Spoon River College,IL,NJCAA Division II ,4738,250633,250633,
+149222,Southern Illinois University-Carbondale,IL,NCAA Division I-FCS,409291,26109932,26109932,1065149
+149231,Southern Illinois University-Edwardsville,IL,NCAA Division I without football,122036,9654422,9475874,
+149365,South Suburban College,IL,NJCAA Division II ,5650,1313958,1313958,
+149505,Trinity Christian College,IL,NAIA Division II ,23980,3412483,3316249,
+149514,Trinity International University-Illinois,IL,NAIA Division I ,19089,5343121,5254476,61922
+149532,Triton College,IL,Other ,1250,1046104,1046104,
+149727,Waubonsee Community College,IL,NJCAA Division II ,277,1071530,1071530,
+149772,Western Illinois University,IL,NCAA Division I-FCS,150915,11868865,11868865,482613
+149781,Wheaton College,IL,NCAA Division III with football,63512,5055172,5055172,135836
+149842,William Rainey Harper College,IL,NJCAA Division III ,0,541564,541564,
+150048,Ancilla College,IN,NJCAA Division II ,18176,1292600,1292600,
+150066,Anderson University,IN,NCAA Division III with football,55062,3019790,2858437,93914
+150136,Ball State University,IN,NCAA Division I-FBS,419726,27911651,27911651,1430517
+150145,Bethel College-Indiana,IN,NAIA Division II ,64534,3738330,3738330,
+150163,Butler University,IN,NCAA Division I-FCS,485816,26688373,25964408,350436
+150172,Calumet College of Saint Joseph,IN,NAIA Division II ,5000,3415563,3415563,
+150400,DePauw University,IN,NCAA Division III with football,56680,4458852,4458852,107554
+150455,Earlham College,IN,NCAA Division III with football,160127,3511361,3511361,86332
+150534,University of Evansville,IN,NCAA Division I without football,171985,12276768,12276768,
+150604,Franklin College,IN,NCAA Division III with football,17315,2256626,2221972,121849
+150668,Goshen College,IN,NAIA Division II ,31941,3336480,3336480,
+150677,Grace College and Theological Seminary,IN,NAIA Division I ,24691,3626749,3626749,
+150756,Hanover College,IN,NCAA Division III with football,61636,3274087,2813584,115474
+150774,Holy Cross College,IN,NAIA Division II ,16489,1662333,1662333,
+150941,Huntington University,IN,NAIA Division II ,14538,3710595,3266735,
+151102,Indiana University-Purdue University-Fort Wayne,IN,NCAA Division I without football,187416,12010658,12010658,
+151111,Indiana University-Purdue University-Indianapolis,IN,NCAA Division I without football,191680,10889513,10889513,
+151263,University of Indianapolis,IN,NCAA Division II with football,111230,18050619,18050619,229520
+151290,Indiana Institute of Technology,IN,NAIA Division II ,85480,10715375,10707072,
+151306,University of Southern Indiana,IN,NCAA Division II without football,60646,5176635,5046507,
+151324,Indiana State University,IN,NCAA Division I-FCS,405709,17512738,16870659,629162
+151333,Indiana University-Kokomo,IN,NAIA Division II ,10780,1774520,1774520,
+151342,Indiana University-South Bend,IN,NAIA Division II ,29414,1066389,1063127,
+151351,Indiana University-Bloomington,IN,NCAA Division I-FBS,2510430,126358047,104496772,3790527
+151360,Indiana University-Northwest,IN,NAIA Division II ,0,635521,635521,
+151379,Indiana University-Southeast,IN,NAIA Division II ,7691,1150973,1150973,
+151388,Indiana University-East,IN,NAIA Division II ,71656,2847016,2847016,
+151777,Manchester University,IN,NCAA Division III with football,111385,2001874,1978180,106867
+151786,Marian University,IN,NAIA Division II ,74229,12606010,12606010,226549
+151801,Indiana Wesleyan University-Marion,IN,NAIA Division II ,52874,7483512,6137247,173000
+152080,University of Notre Dame,IN,NCAA Division I-FBS,2511455,169547625,150289240,11492680
+152099,Oakland City University,IN,NCAA Division II without football,13203,2841151,2735735,
+152318,Rose-Hulman Institute of Technology,IN,NCAA Division III with football,14595,3216631,3216631,108847
+152336,University of Saint Francis-Fort Wayne,IN,NAIA Division I ,52752,10959922,10959922,279478
+152381,Saint Mary-of-the-Woods College,IN,USCAA,18407,1714344,1714344,
+152530,Taylor University,IN,NAIA Division II ,51761,6821097,6547259,118706
+152567,Trine University,IN,NCAA Division III with football,110135,4340442,4138941,220835
+152600,Valparaiso University,IN,NCAA Division I-FCS,286252,15621841,14159328,389329
+152637,Vincennes University,IN,NJCAA Division I ,15296,2352036,2352036,
+152992,Briar Cliff University,IA,NAIA Division II ,88845,7549427,7399292,73128
+153001,Buena Vista University,IA,NCAA Division III with football,52925,2620104,2602068,107581
+153108,Central College,IA,NCAA Division III with football,104764,3675852,3675852,142191
+153126,Clarke University,IA,NAIA Division I ,50082,4707309,4707309,
+153144,Coe College,IA,NCAA Division III with football,73872,2999112,2999112,65083
+153162,Cornell College,IA,NCAA Division III with football,99051,3017615,3017615,97015
+153214,Des Moines Area Community College,IA,NJCAA Division II ,9845,1103967,1103967,
+153250,Dordt College,IA,NAIA Division II ,109205,6010728,6010728,169362
+153269,Drake University,IA,NCAA Division I-FCS,232407,17834521,16560913,648554
+153278,University of Dubuque,IA,NCAA Division III with football,89966,3974963,3974963,193263
+153296,Ellsworth Community College,IA,NJCAA Division I ,19554,1121697,1121697,75588
+153302,Emmaus Bible College,IA,NCCAA Division II ,0,213714,213714,
+153311,Eastern Iowa Community College District,IA,NJCAA Division II ,0,154977,154977,
+153320,Faith Baptist Bible College and Theological Seminary,IA,NCCAA Division II ,1220,319284,319284,
+153366,Graceland University-Lamoni,IA,NAIA Division II ,51032,5612324,5612324,109529
+153375,Grand View University,IA,NAIA Division I ,49754,9177522,9177522,136069
+153384,Grinnell College,IA,NCAA Division III with football,111036,3552820,3552820,83365
+153445,Hawkeye Community College,IA,NJCAA Division II ,10000,1140122,1140122,
+153472,Indian Hills Community College,IA,NJCAA Division I ,38009,2629126,2592044,
+153524,Iowa Central Community College,IA,NJCAA Division II ,41716,3281687,3281687,137072
+153533,Iowa Lakes Community College,IA,NJCAA Division II ,30081,1550557,1550557,
+153603,Iowa State University,IA,NCAA Division I-FBS,1883866,79860045,79763540,4868399
+153621,Iowa Wesleyan University,IA,NCAA Division III with football,10619,1265858,1265858,55594
+153630,Iowa Western Community College,IA,NJCAA Division I ,46565,6394937,6394937,132715
+153658,University of Iowa,IA,NCAA Division I-FBS,2123545,144070825,115896414,4898331
+153737,Kirkwood Community College,IA,NJCAA Division II ,17049,1548385,1458935,
+153825,Loras College,IA,NCAA Division III with football,78060,3676092,3676092,104816
+153834,Luther College,IA,NCAA Division III with football,71365,4285511,3999278,73488
+153922,Marshalltown Community College,IA,NJCAA Division I ,1149,880708,880708,
+154004,Morningside College,IA,NAIA Division II ,23277,6821309,6801222,135660
+154013,Mount Mercy University,IA,NAIA Division I ,44040,4663099,4626410,
+154059,North Iowa Area Community College,IA,NJCAA Division II ,111861,1887934,1887934,
+154095,University of Northern Iowa,IA,NCAA Division I-FCS,247604,18884379,18884379,848902
+154101,Northwestern College,IA,NAIA Division II ,18531,5686898,5686898,40138
+154235,Saint Ambrose University,IA,NAIA Division II ,83395,7895476,7879240,194871
+154350,Simpson College,IA,NCAA Division III with football,78148,2943759,2943759,118987
+154378,Southeastern Community College,IA,Other ,26945,1798487,1784034,
+154396,Southwestern Community College,IA,NJCAA Division II ,13933,927704,927704,
+154493,Upper Iowa University,IA,NCAA Division II with football,69197,7667990,7330480,120732
+154518,Waldorf University,IA,NAIA Division II ,46173,5120610,5120610,107669
+154527,Wartburg College,IA,NCAA Division III with football,162237,3150087,3150087,92283
+154590,William Penn University,IA,NAIA Division I ,25108,7224327,7206665,121535
+154642,Allen County Community College,KS,NJCAA Division I ,15418,1426723,1426723,
+154688,Baker University,KS,NAIA Division I ,33343,11601019,11465742,127347
+154697,Barton County Community College,KS,NJCAA Division I ,15046,3410077,3410077,
+154712,Benedictine College,KS,NAIA Division I ,33929,8267273,8267273,171427
+154721,Bethany College,KS,NAIA Division II ,75160,13563584,13563584,119540
+154749,Bethel College-North Newton,KS,NAIA Division II ,30211,3536680,3530476,51073
+154800,Butler Community College,KS,NJCAA Division I ,27519,4627497,4552458,78327
+154855,Central Christian College of Kansas,KS,NAIA Division I ,23116,2555472,2518472,
+154907,Cloud County Community College,KS,NJCAA Division I ,9076,2109245,2033868,
+154925,Coffeyville Community College,KS,NJCAA Division I ,61778,2717584,2673695,109219
+154934,Colby Community College,KS,NJCAA Division I ,29816,1829383,1733862,
+154952,Cowley County Community College,KS,NJCAA Division I ,34845,3705748,3705748,
+154998,Dodge City Community College,KS,NJCAA Division I ,73068,2305920,2248264,65585
+155025,Emporia State University,KS,NCAA Division II with football,93479,5529175,5529175,347584
+155061,Fort Hays State University,KS,NCAA Division II with football,154217,8662473,8294203,262540
+155070,Barclay College,KS,NCCAA Division II ,53,104810,104810,
+155089,Friends University,KS,NAIA Division II ,28802,4366249,4366249,63660
+155098,Fort Scott Community College,KS,NJCAA Division I ,70794,2517750,2508338,117573
+155104,Garden City Community College,KS,NJCAA Division I ,74825,3355371,3355371,87297
+155140,Haskell Indian Nations University,KS,NAIA Division I ,2436,899952,893606,
+155177,Hesston College,KS,NJCAA Division II ,21350,1672238,1669332,
+155186,Highland Community College,KS,NJCAA Division I ,39873,2266769,2266769,88786
+155195,Hutchinson Community College,KS,NJCAA Division I ,138560,4070888,4070888,174883
+155201,Independence Community College,KS,NJCAA Division I ,44261,2126293,2126293,70218
+155210,Johnson County Community College,KS,NJCAA Division I ,13822,2380359,2380359,
+155292,Kansas City Kansas Community College,KS,NJCAA Division I ,26056,2231741,2231741,
+155308,Kansas Christian College,KS,NCCAA Division II ,6000,169274,149325,
+155317,University of Kansas,KS,NCAA Division I-FBS,2295808,119768008,116353090,3337674
+155335,Newman University,KS,NCAA Division II without football,38831,5364157,5364157,
+155399,Kansas State University,KS,NCAA Division I-FBS,1881111,89919819,82228993,3641112
+155414,Kansas Wesleyan University,KS,NAIA Division II ,91624,5786654,5786654,82983
+155450,Labette Community College,KS,NJCAA Division II ,22556,1406534,1368121,
+155496,Manhattan Christian College,KS,NCCAA Division II ,2000,272594,272594,
+155511,McPherson College,KS,NAIA Division II ,45300,4380265,4380265,71208
+155520,MidAmerica Nazarene University,KS,NAIA Division I ,0,5854371,5854371,112357
+155566,Neosho County Community College,KS,NJCAA Division I ,47231,1703109,1689583,
+155618,Northwest Kansas Technical College,KS,NJCAA Division I ,22334,1328742,1328742,
+155627,Ottawa University-Ottawa,KS,NAIA Division II ,32112,10963779,9820126,56083
+155681,Pittsburg State University,KS,NCAA Division II with football,109457,6272324,6272324,195303
+155715,Pratt Community College,KS,NJCAA Division I ,26717,1585952,1585952,
+155812,University of Saint Mary,KS,NAIA Division II ,37544,4250616,4250616,62884
+155858,Seward County Community College,KS,NJCAA Division I ,21890,1660351,1660351,
+155900,Southwestern College,KS,NAIA Division II ,50685,6948062,6948062,105047
+155937,Sterling College,KS,NAIA Division II ,12451,5644600,5328218,83915
+155973,Tabor College,KS,NAIA Division II ,86489,5895852,5827199,74290
+156082,Washburn University,KS,NCAA Division II with football,110587,7960036,7636703,213334
+156125,Wichita State University,KS,NCAA Division I without football,496297,28636877,28557252,
+156189,Alice Lloyd College,KY,NAIA Division II ,6397,817614,784247,
+156213,Asbury University,KY,NAIA Division II ,11125,5593067,5593067,
+156286,Bellarmine University,KY,NCAA Division II without football,50241,8498145,8498145,
+156295,Berea College,KY,NCAA Division III without football,11134,1347998,1347998,
+156356,Brescia University,KY,NAIA Division II ,6591,5254852,5254852,
+156365,Campbellsville University,KY,NAIA Division I ,76231,11464284,11086488,175961
+156408,Centre College,KY,NCAA Division III with football,69580,4090461,4090461,189408
+156541,University of the Cumberlands,KY,NAIA Division I ,111351,9646463,9646463,253788
+156620,Eastern Kentucky University,KY,NCAA Division I-FCS,268678,15955158,15955158,341890
+156745,Georgetown College,KY,NAIA Division I ,45563,9320776,9320776,132827
+157058,Kentucky State University,KY,NCAA Division II with football,24040,3984782,3984782,232887
+157076,Kentucky Wesleyan College,KY,NCAA Division II with football,70724,5517314,5517314,203997
+157085,University of Kentucky,KY,NCAA Division I-FBS,3307787,143481480,143316447,4703908
+157100,Kentucky Christian University,KY,NAIA Division II ,28015,2328707,2328707,173539
+157216,Lindsey Wilson College,KY,NAIA Division I ,61760,8886150,8832133,146213
+157289,University of Louisville,KY,NCAA Division I-FBS,2349916,148667940,148667940,4493210
+157377,Midway University,KY,NAIA Division II ,19397,3767745,3767745,
+157386,Morehead State University,KY,NCAA Division I-FCS,201656,9000248,9000248,375130
+157401,Murray State University,KY,NCAA Division I-FCS,261504,15556658,14730450,266632
+157447,Northern Kentucky University,KY,NCAA Division I without football,205877,12795351,12795351,
+157535,University of Pikeville,KY,NAIA Division I ,91192,6828475,6828475,366490
+157757,Spalding University,KY,NCAA Division III without football,13318,1496344,1496344,
+157809,Thomas More College,KY,NCAA Division III with football,32103,2499006,2302133,151315
+157818,Transylvania University,KY,NCAA Division III without football,50463,3501185,3501185,
+157863,Union College,KY,NAIA Division II ,37650,7165446,7165446,139012
+157951,Western Kentucky University,KY,NCAA Division I-FBS,599125,25997243,25997243,1379979
+158431,Bossier Parish Community College,LA,NJCAA Division I ,6703,1482849,1482849,
+158477,Centenary College of Louisiana,LA,NCAA Division III without football,56198,1757091,1757091,
+158662,Delgado Community College,LA,NJCAA Division I ,0,814833,814833,
+158802,Dillard University,LA,NAIA Division I ,0,3215561,3215561,
+158884,Nunez Community College,LA,NJCAA Division I ,0,188759,169392,
+159009,Grambling State University,LA,NCAA Division I-FCS,147466,9161115,9161115,703151
+159382,Louisiana State University-Alexandria,LA,NAIA Division I ,19300,1828789,1828789,
+159391,Louisiana State University and Agricultural & Mechanical College,LA,NCAA Division I-FBS,3198447,157787780,148977879,4758716
+159407,Louisiana State University-Eunice,LA,NJCAA Division II ,18971,1728014,1728014,
+159416,Louisiana State University-Shreveport,LA,NAIA Division I ,13278,1862322,1828666,
+159568,Louisiana College,LA,NCAA Division III with football,42390,2287915,2287915,220297
+159647,Louisiana Tech University,LA,NCAA Division I-FBS,388973,23218090,23075280,1737224
+159656,Loyola University New Orleans,LA,NAIA Division I ,16935,4537649,4398795,
+159717,McNeese State University,LA,NCAA Division I-FCS,251221,12044339,12044339,655804
+159939,University of New Orleans,LA,NCAA Division I without football,119384,5737743,5737743,
+159966,Nicholls State University,LA,NCAA Division I-FCS,85063,9679012,9674950,541113
+159993,University of Louisiana at Monroe,LA,NCAA Division I-FBS,202703,15252816,15252816,900390
+160038,Northwestern State University of Louisiana,LA,NCAA Division I-FCS,240577,12362259,11908037,359531
+160612,Southeastern Louisiana University,LA,NCAA Division I-FCS,171153,13881682,13877580,384802
+160621,Southern University and A & M College,LA,NCAA Division I-FCS,69145,9976151,9976151,292040
+160630,Southern University at New Orleans,LA,NAIA Division I ,0,902237,902237,
+160649,Southern University at Shreveport,LA,NJCAA Division I ,2084,375849,375849,
+160658,University of Louisiana at Lafayette,LA,NCAA Division I-FBS,636461,33840123,33840123,2341244
+160755,Tulane University of Louisiana,LA,NCAA Division I-FBS,778104,37101339,37101339,2068618
+160904,Xavier University of Louisiana,LA,NAIA Division I ,48457,3489597,3489597,
+160977,Bates College,ME,NCAA Division III with football,83575,5928745,5882731,133621
+161004,Bowdoin College,ME,NCAA Division III with football,81024,12823173,12823173,154832
+161077,Central Maine Community College,ME,USCAA,10000,271719,271719,
+161086,Colby College,ME,NCAA Division III with football,192191,8484183,8484183,174454
+161217,University of Maine at Augusta,ME,USCAA,0,186903,186903,
+161226,University of Maine at Farmington,ME,NCAA Division III without football,10989,1409737,1409737,
+161235,University of Maine at Fort Kent,ME,USCAA,12711,870179,870179,
+161244,University of Maine at Machias,ME,USCAA,0,455582,455582,
+161253,University of Maine,ME,NCAA Division I-FCS,321698,20136040,20136040,879580
+161299,Maine Maritime Academy,ME,NCAA Division III with football,59504,2294578,2294578,159104
+161341,University of Maine at Presque Isle,ME,NCAA Division III without football,11277,978964,978964,
+161457,University of New England,ME,NCAA Division III with football,70227,3489780,3295132,93909
+161518,Saint Joseph's College of Maine,ME,NCAA Division III without football,15515,1593915,1542257,
+161545,Southern Maine Community College,ME,USCAA,4000,306850,306850,
+161554,University of Southern Maine,ME,NCAA Division III without football,12925,4685796,4229636,
+161563,Thomas College,ME,NCAA Division III without football,20092,1439677,1332326,
+161572,Unity College,ME,USCAA,0,140140,140140,
+161688,Allegany College of Maryland,MD,NJCAA Division II ,0,196643,196643,
+161767,Anne Arundel Community College,MD,NJCAA Division III ,0,677865,575013,
+161864,Baltimore City Community College,MD,NJCAA Division I ,1267,701928,701928,
+162007,Bowie State University,MD,NCAA Division II with football,0,4309347,4302212,333657
+162104,Cecil College,MD,NJCAA Division II ,0,347794,347794,
+162122,College of Southern Maryland,MD,NJCAA Division II ,0,581080,581080,
+162168,Chesapeake College,MD,NJCAA Division II ,0,291612,291612,
+162210,Washington Adventist University,MD,NAIA Division II ,11577,1383925,1376885,
+162283,Coppin State University,MD,NCAA Division I without football,46895,4501189,4501189,
+162557,Frederick Community College,MD,NJCAA Division II ,152,493060,473811,
+162584,Frostburg State University,MD,NCAA Division III with football,41941,4528408,4528408,176662
+162609,Garrett College,MD,Other ,2650,541605,541605,
+162654,Goucher College,MD,NCAA Division III without football,71187,2433341,2414154,
+162690,Hagerstown Community College,MD,NJCAA Division I ,152,593528,480552,
+162706,Harford Community College,MD,NJCAA Division I ,4671,1103174,1101483,
+162760,Hood College,MD,NCAA Division III without football,14212,1408681,1408681,
+162779,Howard Community College,MD,NJCAA Division III ,0,981289,969448,
+162928,Johns Hopkins University,MD,Other ,162531,11297513,11227340,174830
+163046,Loyola University Maryland,MD,NCAA Division I without football,278763,19728090,19728090,
+163268,University of Maryland-Baltimore County,MD,NCAA Division I without football,158555,14604969,14604969,
+163286,University of Maryland-College Park,MD,NCAA Division I-FBS,1433870,108796303,103029945,2325080
+163338,University of Maryland Eastern Shore,MD,NCAA Division I without football,124412,5305668,5305668,
+163426,Montgomery College,MD,NJCAA Division II ,0,1412510,1411065,
+163453,Morgan State University,MD,NCAA Division I-FCS,155304,14156767,14156767,816875
+163462,Mount St. Mary's University,MD,NCAA Division I without football,140424,11697521,11697521,
+163578,Notre Dame of Maryland University,MD,NCAA Division III without football,4024,605323,605323,
+163657,Prince George's Community College,MD,NJCAA Division III ,0,578786,578786,
+163851,Salisbury University,MD,NCAA Division III with football,37672,4801099,4476731,191072
+163912,St Mary's College of Maryland,MD,NCAA Division III without football,32536,3130422,3130422,
+163976,St. John's College,MD,Independent,0,48998,48998,
+164076,Towson University,MD,NCAA Division I-FCS,553915,24658754,24658754,776182
+164173,Stevenson University,MD,NCAA Division III with football,158081,5994549,5994549,213274
+164216,Washington College,MD,NCAA Division III without football,65231,2939278,2939278,
+164270,McDaniel College,MD,NCAA Division III with football,117955,4136953,3586718,42376
+164447,American International College,MA,NCAA Division II with football,126141,11337643,11337643,93488
+164465,Amherst College,MA,NCAA Division III with football,78020,7756019,7690908,105040
+164492,Anna Maria College,MA,NCAA Division III with football,36793,1666131,1666131,162641
+164562,Assumption College,MA,NCAA Division II with football,103713,7103575,6681754,131354
+164580,Babson College,MA,NCAA Division III without football,66874,4865499,4865499,
+164720,Becker College,MA,NCAA Division III with football,83508,951717,950519,72740
+164739,Bentley University,MA,NCAA Division II with football,103713,11827941,11348476,225559
+164924,Boston College,MA,NCAA Division I-FBS,1302992,82680712,82680712,5205266
+164988,Boston University,MA,NCAA Division I without football,570520,35897972,35897972,
+165015,Brandeis University,MA,NCAA Division III without football,64230,4732118,4732118,
+165024,Bridgewater State University,MA,NCAA Division III with football,10143,3642117,3256559,84871
+165033,Bristol Community College,MA,NJCAA Division III ,688,215922,215922,
+165112,Bunker Hill Community College,MA,NJCAA Division III ,0,602065,579497,
+165334,Clark University,MA,NCAA Division III without football,29956,2209873,2206657,
+165529,Curry College,MA,NCAA Division III with football,51726,2127382,2127382,151350
+165574,Dean College,MA,NCAA Division III with football,45066,1593829,1593829,87655
+165644,Eastern Nazarene College,MA,NCAA Division III without football,25820,1056534,1056534,
+165662,Emerson College,MA,NCAA Division III without football,73412,2918920,2912795,
+165671,Emmanuel College,MA,NCAA Division III without football,55371,1606540,1524951,
+165699,Endicott College,MA,NCAA Division III with football,44124,3810493,3810493,129518
+165802,Fisher College,MA,NAIA Division II ,7425,1354910,1354910,
+165820,Fitchburg State University,MA,NCAA Division III with football,17042,1787045,1786136,93959
+165866,Framingham State University,MA,NCAA Division III with football,11424,1240533,1113581,149595
+165884,Benjamin Franklin Institute of Technology,MA,NJCAA Division III ,674,51623,51623,
+165936,Gordon College,MA,NCAA Division III without football,54165,2200985,2200985,
+166018,Hampshire College,MA,USCAA,0,92539,92539,
+166027,Harvard University,MA,NCAA Division I-FCS,1250489,29971795,29971795,385428
+166124,College of the Holy Cross,MA,NCAA Division I-FCS,466498,33179779,33179779,496871
+166133,Holyoke Community College,MA,NJCAA Division III ,0,247202,240300,
+166391,Lasell College,MA,NCAA Division III without football,30754,1418447,1410913,
+166452,Lesley University,MA,NCAA Division III without football,7300,650100,650100,
+166513,University of Massachusetts-Lowell,MA,NCAA Division I without football,401771,21895994,21760972,
+166629,University of Massachusetts-Amherst,MA,NCAA Division I-FBS,1061236,40000150,40000150,1598618
+166638,University of Massachusetts-Boston,MA,NCAA Division III without football,35274,4287282,4287282,
+166647,Massachusetts Bay Community College,MA,NJCAA Division III ,0,212416,212416,
+166683,Massachusetts Institute of Technology,MA,NCAA Division III with football,113410,6859610,6859610,84477
+166692,Massachusetts Maritime Academy,MA,NCAA Division III with football,9597,1608288,1573871,61907
+166823,Massasoit Community College,MA,Other ,0,507926,387009,
+166850,Merrimack College,MA,NCAA Division II with football,245115,21038421,21038421,11854
+167260,Nichols College,MA,NCAA Division III with football,104860,2643583,2419383,113772
+167288,Massachusetts College of Liberal Arts,MA,NCAA Division III without football,30005,750896,750896,
+167358,Northeastern University,MA,NCAA Division I without football,355449,32118315,32118315,
+167376,Northern Essex Community College,MA,NJCAA Division III ,0,372049,341980,
+167394,College of Our Lady of the Elms,MA,NCAA Division III without football,6451,1213614,1213614,
+167455,Pine Manor College,MA,NCAA Division III without football,12055,637138,637138,
+167525,Quincy College,MA,NJCAA Division III ,0,121007,121007,
+167534,Quinsigamond Community College,MA,NJCAA Division III ,4198,172792,172792,
+167598,Regis College,MA,NCAA Division III without football,35487,1914692,1878896,
+167631,Roxbury Community College,MA,NJCAA Division III ,0,252972,252972,
+167729,Salem State University,MA,NCAA Division III without football,6951,1938724,1938724,
+167899,Springfield College,MA,NCAA Division III with football,184677,6137783,6137783,208407
+167905,Springfield Technical Community College,MA,NJCAA Division III ,0,188146,188146,
+167987,University of Massachusetts-Dartmouth,MA,NCAA Division III with football,37946,3836669,3196362,74244
+167996,Stonehill College,MA,NCAA Division II with football,62796,7841630,7670544,83141
+168005,Suffolk University,MA,NCAA Division III without football,37542,2206777,2206777,
+168148,Tufts University,MA,NCAA Division III with football,112533,7808930,6998644,92995
+168227,Wentworth Institute of Technology,MA,NCAA Division III without football,46863,2807421,2807421,
+168254,Western New England University,MA,NCAA Division III with football,36864,4631158,4297919,266400
+168263,Westfield State University,MA,NCAA Division III with football,20628,2864698,2755410,112296
+168281,Wheaton College,MA,NCAA Division III without football,73298,3465861,3465861,
+168342,Williams College,MA,NCAA Division III with football,124699,9075065,9075065,103692
+168421,Worcester Polytechnic Institute,MA,NCAA Division III with football,42475,4624040,4546335,75163
+168430,Worcester State University,MA,NCAA Division III with football,20332,2177230,2151237,89413
+168528,Adrian College,MI,NCAA Division III with football,75645,4494635,4494635,95718
+168546,Albion College,MI,NCAA Division III with football,91271,4199898,4199898,127546
+168591,Alma College,MI,NCAA Division III with football,58319,4137637,4137637,188792
+168607,Alpena Community College,MI,NJCAA Division II ,0,354214,354214,
+168740,Andrews University,MI,USCAA,145,130305,122033,
+168786,Aquinas College,MI,NAIA Division II ,27335,6818765,6677182,
+168883,Bay de Noc Community College,MI,NJCAA Division II ,406,634452,634452,
+169080,Calvin College,MI,NCAA Division III without football,46948,3319863,3217174,
+169248,Central Michigan University,MI,NCAA Division I-FBS,593646,33642870,33642870,1318314
+169275,Mott Community College,MI,NJCAA Division II ,6418,1354616,1354616,
+169327,Cleary University,MI,NAIA Division II ,5521,2529145,2529145,
+169363,Concordia University-Ann Arbor,MI,NAIA Division II ,39109,6937222,6472367,213916
+169479,Davenport University,MI,NCAA Division II with football,110581,9393754,9393754,250341
+169521,Delta College,MI,NJCAA Division II ,0,448075,448075,
+169716,University of Detroit Mercy,MI,NCAA Division I without football,155499,14327973,13617427,
+169798,Eastern Michigan University,MI,NCAA Division I-FBS,680281,28601681,28601681,1706539
+169910,Ferris State University,MI,Other ,111316,9233129,8637855,234911
+169974,Glen Oaks Community College,MI,NJCAA Division II ,336,404263,324309,
+169992,Gogebic Community College,MI,NJCAA Division II ,2612,272631,266162,
+170000,Grace Bible College,MI,NCCAA Division II ,2500,438051,438051,
+170037,Cornerstone University,MI,NAIA Division II ,12759,3769971,3725265,
+170055,Grand Rapids Community College,MI,NJCAA Division II ,4032,893240,893240,
+170082,Grand Valley State University,MI,NCAA Division II with football,159054,15571757,15570642,428062
+170091,Great Lakes Christian College,MI,NCCAA Division II ,0,202962,202962,
+170240,Henry Ford College,MI,NJCAA Division II ,0,540314,540314,
+170301,Hope College,MI,NCAA Division III with football,91757,3574064,3537831,65063
+170444,Jackson College,MI,NJCAA Division II ,0,1158014,1158014,
+170532,Kalamazoo College,MI,NCAA Division III with football,52494,3537377,3537377,100323
+170541,Kalamazoo Valley Community College,MI,NJCAA Division I ,1156,393663,393663,
+170550,Kellogg Community College,MI,NJCAA Division II ,6000,441172,441172,
+170587,Kirtland Community College,MI,NJCAA Division I ,3960,118124,118124,
+170620,Lake Michigan College,MI,NJCAA Division II ,14330,850247,850247,
+170639,Lake Superior State University,MI,NCAA Division II without football,44385,3988085,3988085,
+170657,Lansing Community College,MI,NJCAA Division II ,5529,1363139,1212490,
+170675,Lawrence Technological University,MI,NAIA Division II ,18856,6655570,6655570,177843
+170790,Macomb Community College,MI,NJCAA Division II ,0,859553,800196,
+170806,Madonna University,MI,NAIA Division II ,19205,5595884,5552604,
+170967,Rochester College,MI,NAIA Division II ,3094,3334558,3302068,
+170976,University of Michigan-Ann Arbor,MI,NCAA Division I-FBS,3194181,175006632,168138397,7155520
+171100,Michigan State University,MI,NCAA Division I-FBS,1774755,116186933,116186933,9118393
+171128,Michigan Technological University,MI,NCAA Division II with football,154006,9947657,9947657,227057
+171137,University of Michigan-Dearborn,MI,NAIA Division II ,8770,2431404,2385769,
+171155,Mid Michigan Community College,MI,NJCAA Division II ,5358,443833,440325,
+171304,Muskegon Community College,MI,NJCAA Division II ,13050,1209771,1200410,
+171456,Northern Michigan University,MI,NCAA Division II with football,231623,11673559,11441366,310043
+171492,Northwood University,MI,NCAA Division II with football,100150,9535089,9535089,164754
+171535,Oakland Community College,MI,NJCAA Division II ,0,725515,725515,
+171571,Oakland University,MI,NCAA Division I without football,91985,13986728,13986728,
+171599,Olivet College,MI,NCAA Division III with football,93805,3926881,3401390,91780
+172051,Saginaw Valley State University,MI,NCAA Division II with football,126573,8360217,8299730,222916
+172200,Schoolcraft College,MI,NJCAA Division III ,0,580678,571523,
+172264,Siena Heights University,MI,NAIA Division II ,0,7881962,7535960,157163
+172291,St Clair County Community College,MI,NJCAA Division II ,0,749653,749653,
+172334,Spring Arbor University,MI,NAIA Division II ,2000,4272113,4254161,
+172440,Finlandia University,MI,NCAA Division III with football,47559,2208083,2208083,94624
+172635,Wayne County Community College District,MI,NJCAA Division II ,2025,329517,329517,
+172644,Wayne State University,MI,NCAA Division II with football,64358,12303155,12303155,240418
+172699,Western Michigan University,MI,NCAA Division I-FBS,588408,33664368,33664368,1187038
+172963,Anoka-Ramsey Community College,MN,NJCAA Division III ,120,516838,516838,
+173045,Augsburg University,MN,NCAA Division III with football,80210,4585228,4585228,23816
+173063,Riverland Community College,MN,NJCAA Division III ,0,196051,196051,
+173124,Bemidji State University,MN,NCAA Division II with football,124339,7409849,7409849,162091
+173142,Bethany Lutheran College,MN,NCAA Division III without football,19665,1321289,1321289,
+173160,Bethel University,MN,NCAA Division III with football,48504,2807264,2807264,125605
+173203,Central Lakes College-Brainerd,MN,NJCAA Division III ,0,533811,533811,16335
+173258,Carleton College,MN,NCAA Division III with football,42657,2705422,2664649,67108
+173300,Concordia College at Moorhead,MN,NCAA Division III with football,62262,2481252,2481252,158156
+173328,Concordia University-Saint Paul,MN,NCAA Division II with football,83597,5596214,5596214,256560
+173416,Dakota County Technical College,MN,NJCAA Division II ,1800,677678,663712,
+173452,Martin Luther College,MN,NCAA Division III with football,0,892801,892801,45383
+173461,Lake Superior College,MN,NJCAA Division III ,2450,222630,216327,
+173559,Minnesota State Community and Technical College,MN,NJCAA Division III ,0,468161,468161,38928
+173638,Minnesota West Community and Technical College,MN,NJCAA Division III ,458,354507,330739,32088
+173647,Gustavus Adolphus College,MN,NCAA Division III with football,48251,4442127,4442127,73799
+173665,Hamline University,MN,NCAA Division III with football,68057,3642674,3642674,133104
+173735,Hibbing Community College,MN,NJCAA Division III ,5502,278686,278686,
+173805,Itasca Community College,MN,NJCAA Division III ,4231,422239,422239,30771
+173902,Macalester College,MN,NCAA Division III with football,79149,4976372,4976372,149689
+173920,Minnesota State University-Mankato,MN,NCAA Division II with football,168188,13489382,13406490,199193
+173993,Mesabi Range College,MN,NJCAA Division III ,62543,432029,432029,51953
+174066,University of Minnesota-Twin Cities,MN,NCAA Division I-FBS,2653887,122667963,111380179,6707566
+174075,University of Minnesota-Crookston,MN,NCAA Division II with football,119480,4924764,4912936,222115
+174233,University of Minnesota-Duluth,MN,NCAA Division II with football,268392,11699434,11516649,243549
+174251,University of Minnesota-Morris,MN,NCAA Division III with football,33656,2490506,2460629,69313
+174358,Minnesota State University Moorhead,MN,NCAA Division II with football,106870,6622220,6396736,139864
+174437,North Central University,MN,NCAA Division III without football,5044,909548,909548,
+174473,Northland Community and Technical College,MN,NJCAA Division III ,6757,532155,477063,20948
+174491,University of Northwestern-St Paul,MN,NCAA Division III with football,84150,2530082,2517557,96821
+174525,Oak Hills Christian College,MN,NCCAA Division II ,4293,41765,41688,
+174604,Rainy River Community College,MN,NJCAA Division III ,6057,282087,282087,
+174738,Rochester Community and Technical College,MN,NJCAA Division III ,0,1082516,978084,96371
+174756,St Cloud Technical and Community College,MN,NJCAA Division III ,0,264296,264296,
+174783,Saint Cloud State University,MN,NCAA Division II with football,251639,10947270,10947270,158077
+174817,Saint Mary's University of Minnesota,MN,NCAA Division III without football,94420,2905605,2905605,
+174844,St Olaf College,MN,NCAA Division III with football,66069,4122702,3953510,111835
+174862,Crown College,MN,NCAA Division III with football,20433,1157579,1157579,110322
+174899,The College of Saint Scholastica,MN,NCAA Division III with football,88068,4435524,4157666,114424
+174914,University of St Thomas,MN,NCAA Division III with football,81750,5356000,5356000,219300
+175005,St Catherine University,MN,NCAA Division III without football,14645,1539482,1539482,
+175078,Southwest Minnesota State University,MN,NCAA Division II with football,36464,5158816,5158816,112359
+175157,Vermilion Community College,MN,NJCAA Division III ,0,269611,269611,31835
+175236,Ridgewater College,MN,NJCAA Division III ,0,351689,307278,27613
+175272,Winona State University,MN,NCAA Division II with football,68222,6044559,6044559,114835
+175315,Century College,MN,NJCAA Division III ,0,220630,217447,
+175342,Alcorn State University,MS,NCAA Division I-FCS,74166,7198196,7198196,383376
+175421,Belhaven University,MS,NCAA Division III with football,114080,3003649,2973606,327555
+175430,Blue Mountain College,MS,NAIA Division I ,8367,3006267,3006267,
+175519,Coahoma Community College,MS,NJCAA Division I ,11057,2266449,2266449,24911
+175573,Copiah-Lincoln Community College,MS,NJCAA Division I ,21678,1891523,1891523,26752
+175616,Delta State University,MS,NCAA Division II with football,84975,4543888,4543888,248096
+175643,East Central Community College,MS,NJCAA Division I ,13869,2043796,2043796,66897
+175652,East Mississippi Community College,MS,NJCAA Division I ,7962,3039294,3039294,240880
+175786,Hinds Community College,MS,NJCAA Division I ,0,2521345,2521345,117063
+175810,Holmes Community College,MS,NJCAA Division I ,16884,2690507,2690507,34085
+175829,Itawamba Community College,MS,NJCAA Division II ,7249,2218891,2218891,67756
+175856,Jackson State University,MS,NCAA Division I-FCS,15387,7704120,7704120,164799
+175883,Jones County Junior College,MS,NJCAA Division I ,9311,3329601,3329601,44895
+175935,Meridian Community College,MS,NJCAA Division II ,27998,1835865,1786436,
+175980,Millsaps College,MS,NCAA Division III with football,56293,2115284,2115284,160735
+176008,Mississippi Delta Community College,MS,NJCAA Division II ,40892,1332167,1332167,73534
+176017,University of Mississippi,MS,NCAA Division I-FBS,1647739,96790426,96790426,6061709
+176035,Mississippi University for Women,MS,USCAA,9470,1649837,1620560,
+176044,Mississippi Valley State University,MS,NCAA Division I-FCS,18534,4107811,4107811,352383
+176053,Mississippi College,MS,NCAA Division II with football,58956,12437054,12024647,195915
+176071,Mississippi Gulf Coast Community College,MS,NJCAA Division I ,20443,2485947,2370832,88485
+176080,Mississippi State University,MS,NCAA Division I-FBS,1264018,101454439,93389557,4927436
+176169,Northeast Mississippi Community College,MS,NJCAA Division I ,30195,2040698,2040698,65417
+176178,Northwest Mississippi Community College,MS,NJCAA Division I ,46326,2994993,2994993,200312
+176239,Pearl River Community College,MS,NJCAA Division I ,14630,2760654,2760654,171675
+176318,Rust College,MS,Other ,2483,1734491,1290113,
+176336,Southeastern Baptist College,MS,NCCAA Division II ,225,155299,155062,
+176354,Southwest Mississippi Community College,MS,NJCAA Division I ,83362,2436605,2436605,94420
+176372,University of Southern Mississippi,MS,NCAA Division I-FBS,567732,22804589,22804589,1244032
+176406,Tougaloo College,MS,NAIA Division I ,3000,758109,758109,
+176479,William Carey University,MS,NAIA Division I ,8585,5660746,5610005,
+176628,Avila University,MO,NAIA Division II ,27719,3949126,3949126,87506
+176664,Baptist Bible College,MO,Other ,0,28110,28110,
+176789,Calvary University,MO,NCCAA Division II ,1650,188001,186301,
+176910,Central Christian College of the Bible,MO,NCCAA Division II ,0,124510,124510,
+176947,Central Methodist University-College of Liberal Arts and Sciences,MO,NAIA Division I ,39200,6844014,6806778,45680
+176965,University of Central Missouri,MO,NCAA Division II with football,136179,10013560,10013560,315990
+177065,Columbia College,MO,NAIA Division I ,20221,6045706,6045706,
+177135,Crowder College,MO,NJCAA Division I ,6200,1231930,1170191,
+177144,Culver-Stockton College,MO,NAIA Division II ,18400,7113678,7113678,165270
+177214,Drury University,MO,NCAA Division II without football,62777,7704307,7704307,
+177250,East Central College,MO,NJCAA Division II ,1612,341540,341540,
+177339,Evangel University,MO,NAIA Division I ,30201,5104450,5104450,184814
+177418,Fontbonne University,MO,NCAA Division III without football,18122,1738148,1608274,
+177542,Hannibal-LaGrange University,MO,NAIA Division I ,10776,2375773,2340015,
+177551,Harris-Stowe State University,MO,NAIA Division I ,0,1076609,1076609,
+177676,Jefferson College,MO,NJCAA Division I ,7275,1609633,1609633,
+177940,Lincoln University,MO,NCAA Division II with football,48737,5668623,5146278,86066
+177968,Lindenwood University,MO,NCAA Division II with football,182410,18546417,18546417,302737
+177995,Metropolitan Community College-Kansas City,MO,Other ,2370,1537641,1461357,
+178059,Maryville University of Saint Louis,MO,NCAA Division II without football,79968,9052781,8917012,
+178217,Mineral Area College,MO,Other ,6894,1656814,1606364,
+178244,Missouri Baptist University,MO,NAIA Division I ,36606,13910948,13910948,101737
+178341,Missouri Southern State University,MO,NCAA Division II with football,140689,7798699,7798699,200301
+178369,Missouri Valley College,MO,NAIA Division I ,76332,10401596,10247569,105633
+178387,Missouri Western State University,MO,NCAA Division II with football,87136,7208825,7208825,322565
+178396,University of Missouri-Columbia,MO,NCAA Division I-FBS,1792316,94612498,94612498,5064124
+178402,University of Missouri-Kansas City,MO,NCAA Division I without football,180253,26825858,12978818,
+178411,Missouri University of Science and Technology,MO,NCAA Division II with football,62419,7091032,7027518,153298
+178420,University of Missouri-St Louis,MO,NCAA Division II without football,26672,5638274,5638274,
+178448,Moberly Area Community College,MO,NJCAA Division I ,15371,888798,888798,
+178615,Truman State University,MO,NCAA Division II with football,63166,5213488,5213488,155702
+178624,Northwest Missouri State University,MO,NCAA Division II with football,117917,9716859,9716859,322672
+178679,Ozark Christian College,MO,NCCAA Division II ,0,152298,147548,
+178697,College of the Ozarks,MO,NAIA Division II ,20000,1235571,1235571,
+178721,Park University,MO,NAIA Division I ,9984,4267743,4174612,
+179043,Rockhurst University,MO,NCAA Division II without football,43778,6030787,5667244,
+179159,Saint Louis University,MO,NCAA Division I without football,427045,25009684,25009684,
+179265,St. Louis College of Pharmacy,MO,NAIA Division I ,15632,3868268,2573272,
+179308,Saint Louis Community College,MO,NJCAA Division II ,0,1131611,1108625,
+179326,Southwest Baptist University,MO,NCAA Division II with football,80189,8045315,8045315,237332
+179344,Missouri State University-West Plains,MO,NJCAA Division I ,5897,934219,934219,
+179539,State Fair Community College,MO,NJCAA Division I ,14790,1554786,1554786,
+179557,Southeast Missouri State University,MO,NCAA Division I-FCS,302576,12907418,12907418,475951
+179566,Missouri State University-Springfield,MO,NCAA Division I-FCS,566210,18119419,18119419,784583
+179645,Three Rivers College,MO,NJCAA Division I ,18801,1757208,1757208,
+179715,North Central Missouri College,MO,Other ,21543,671725,662199,
+179867,Washington University in St Louis,MO,NCAA Division III with football,85187,9889562,9313904,136509
+179894,Webster University,MO,NCAA Division III without football,22326,2630958,2404310,
+179946,Westminster College,MO,NCAA Division III with football,23842,2708933,2708933,79586
+179955,William Jewell College,MO,NCAA Division II with football,34020,6941072,6790409,137817
+179964,William Woods University,MO,NAIA Division I ,23781,5137747,5110016,
+180106,Carroll College,MT,NAIA Division I ,38236,5798249,5798249,108591
+180151,Dawson Community College,MT,NJCAA Division I ,15829,1559855,1493023,
+180179,Montana State University-Billings,MT,NCAA Division II without football,65769,5502212,5274505,
+180258,University of Providence,MT,NAIA Division I ,30824,6896602,6400002,
+180373,Miles Community College,MT,NJCAA Division I ,16486,1176639,1166963,
+180416,Montana Tech of the University of Montana,MT,NAIA Division I ,40479,3052713,3028552,122078
+180461,Montana State University,MT,NCAA Division I-FCS,431774,22695088,22695088,1055238
+180489,The University of Montana,MT,NCAA Division I-FCS,391672,23350166,22066048,546541
+180522,Montana State University-Northern,MT,NAIA Division I ,29847,1971683,1936288,146325
+180595,Rocky Mountain College,MT,NAIA Division I ,31460,5902747,5902747,261244
+180647,Salish Kootenai College,MT,Independent,0,59384,55343,
+180692,The University of Montana-Western,MT,NAIA Division I ,49438,2578235,2578235,139038
+180814,Bellevue University,NE,NAIA Division II ,35599,4424472,4424472,
+180902,Central Community College,NE,Other ,5949,895142,895142,
+180948,Chadron State College,NE,NCAA Division II with football,66194,4972979,4972979,213781
+180984,Concordia University-Nebraska,NE,NAIA Division II ,71359,7606981,7267446,72990
+181002,Creighton University,NE,NCAA Division I without football,572242,26596950,26596950,
+181020,Doane University-Arts & Sciences,NE,NAIA Division II ,52870,6318870,6120887,100193
+181127,Hastings College,NE,NAIA Division II ,45341,6751107,6751107,103129
+181215,University of Nebraska at Kearney,NE,NCAA Division II with football,85353,7543932,7332387,214460
+181312,Mid-Plains Community College,NE,NJCAA Division I ,20876,1628372,1628372,
+181330,Midland University,NE,NAIA Division II ,96905,15801949,15765029,247693
+181376,Nebraska Christian College of Hope International University,NE,NCCAA Division I ,6929,774509,772261,
+181394,University of Nebraska at Omaha,NE,NCAA Division I without football,225085,20784459,20385459,
+181446,Nebraska Wesleyan University,NE,NCAA Division III with football,26307,2119505,2118263,150729
+181464,University of Nebraska-Lincoln,NE,NCAA Division I-FBS,2773421,130313578,118228324,5177206
+181491,Northeast Community College,NE,NJCAA Division I ,24233,1787711,1787711,
+181534,Peru State College,NE,NAIA Division II ,23764,2327070,2205517,55303
+181640,Southeast Community College Area,NE,NJCAA Division II ,21000,961494,956100,
+181738,Union College,NE,Independent,0,208171,195271,
+181765,Nebraska College of Technical Agriculture,NE,Other ,0,97652,97652,
+181783,Wayne State College,NE,NCAA Division II with football,93280,4438240,4438240,110196
+181817,Western Nebraska Community College,NE,NJCAA Division I ,16382,1785511,1785511,
+181853,York College,NE,NAIA Division II ,0,3429805,3429805,
+182005,College of Southern Nevada,NV,NJCAA Division I ,644,1561096,1561096,
+182281,University of Nevada-Las Vegas,NV,NCAA Division I-FBS,1124945,44245146,43904787,1947402
+182290,University of Nevada-Reno,NV,NCAA Division I-FBS,741139,43436728,43436728,2470992
+182458,Sierra Nevada College,NV,Other ,2740,967784,967784,
+182634,Colby-Sawyer College,NH,NCAA Division III without football,23616,1140964,1140964,
+182670,Dartmouth College,NH,NCAA Division I-FCS,1080441,30205827,30205827,646245
+182795,Franklin Pierce University,NH,NCAA Division II without football,52414,7121067,7121067,55991
+182980,New England College,NH,NCAA Division III without football,73623,2859067,2859067,
+183026,Southern New Hampshire University,NH,NCAA Division II without football,88602,10336764,10336764,
+183044,University of New Hampshire-Main Campus,NH,NCAA Division I-FCS,433286,32206155,32206155,960416
+183062,Keene State College,NH,NCAA Division III without football,20644,2867748,2867748,
+183080,Plymouth State University,NH,NCAA Division III with football,32542,3304014,3272032,84125
+183099,NHTI-Concord's Community College,NH,USCAA,0,187118,187118,
+183150,Great Bay Community College,NH,USCAA,0,76236,76236,
+183211,Rivier University,NH,NCAA Division III without football,20299,1102778,1102778,
+183239,Saint Anselm College,NH,NCAA Division II with football,96929,8242617,7821538,108456
+183655,Atlantic Cape Community College,NJ,NJCAA Division III ,0,98211,98211,
+183743,Bergen Community College,NJ,NJCAA Division III ,0,615952,615952,
+183789,Berkeley College-Woodland Park,NJ,USCAA,0,156529,156529,
+183822,Bloomfield College,NJ,NCAA Division II without football,5602,4176247,4176247,
+183859,Brookdale Community College,NJ,NJCAA Division III ,0,384996,384996,
+183877,Rowan College at Burlington County,NJ,Other ,0,783690,783690,
+183910,Caldwell University,NJ,NCAA Division II without football,26410,4196078,4077647,
+183938,Camden County College,NJ,NJCAA Division III ,0,455425,455425,
+183974,Centenary University,NJ,NCAA Division III without football,1654,1053659,1030209,
+184180,County College of Morris,NJ,NJCAA Division II ,0,573767,573767,
+184205,Cumberland County College,NJ,NJCAA Division III ,8000,411498,411498,
+184348,Drew University,NJ,NCAA Division III without football,33504,2631402,2631402,
+184481,Essex County College,NJ,NJCAA Division I ,0,791286,791286,
+184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,NCAA Division I without football,144156,13868923,13868923,
+184612,Felician University,NJ,NCAA Division II without football,11189,3579474,3579474,
+184694,Fairleigh Dickinson University-Florham Campus,NJ,NCAA Division III with football,40166,3719773,3510458,83828
+184773,Georgian Court University,NJ,NCAA Division II without football,23722,5672793,5490728,
+184782,Rowan University,NJ,NCAA Division III with football,28370,5341765,4968180,115910
+184791,Rowan College at Gloucester County,NJ,NJCAA Division III ,2648,948353,948353,
+185129,New Jersey City University,NJ,NCAA Division III without football,50000,2905854,2905854,
+185262,Kean University,NJ,NCAA Division III with football,27100,4149214,4149214,183669
+185509,Mercer County Community College,NJ,NJCAA Division I ,465,887159,887159,
+185536,Middlesex County College,NJ,NJCAA Division III ,0,414540,414540,
+185572,Monmouth University,NJ,NCAA Division I-FCS,311148,26134954,26134954,647113
+185590,Montclair State University,NJ,NCAA Division III with football,16931,5319911,5228169,221287
+185828,New Jersey Institute of Technology,NJ,NCAA Division I without football,190646,13497154,13154572,
+185873,Ocean County College,NJ,NJCAA Division III ,0,639458,639458,
+186034,Passaic County Community College,NJ,NJCAA Division III ,0,168158,168158,
+186131,Princeton University,NJ,NCAA Division I-FCS,1784586,33016618,33016618,682488
+186201,Ramapo College of New Jersey,NJ,NCAA Division III without football,18790,4147592,3940420,
+186283,Rider University,NJ,NCAA Division I without football,164825,14708162,14708162,
+186371,Rutgers University-Camden,NJ,NCAA Division III without football,7928,1475730,1475730,
+186380,Rutgers University-New Brunswick,NJ,NCAA Division I-FBS,2038476,83053040,83053040,5849587
+186399,Rutgers University-Newark,NJ,NCAA Division III without football,29210,2997294,2984781,
+186432,Saint Peter's University,NJ,NCAA Division I without football,104555,7588471,7588471,
+186584,Seton Hall University,NJ,NCAA Division I without football,484654,26056326,26056326,
+186618,College of Saint Elizabeth,NJ,NCAA Division III without football,8206,813555,813555,
+186645,Raritan Valley Community College,NJ,NJCAA Division II ,0,621259,621259,
+186867,Stevens Institute of Technology,NJ,NCAA Division III without football,95407,5084095,5084095,
+186876,Stockton University,NJ,NCAA Division III without football,29413,4697765,4697765,
+187134,The College of New Jersey,NJ,NCAA Division III with football,34759,4230244,4230244,106833
+187198,Union County College,NJ,NJCAA Division II ,1680,961461,961461,
+187444,William Paterson University of New Jersey,NJ,NCAA Division III with football,25168,3662550,3622256,95072
+187596,Navajo Technical University,NM,Other ,8000,238198,236837,
+187648,Eastern New Mexico University-Main Campus,NM,NCAA Division II with football,63039,5086874,5086874,95294
+187897,New Mexico Highlands University,NM,NCAA Division II with football,16027,4400665,4400665,144866
+187903,New Mexico Junior College,NM,NJCAA Division I ,32791,1788460,1788460,
+187912,New Mexico Military Institute,NM,NJCAA Division I ,45138,3532972,3532972,151722
+187985,University of New Mexico-Main Campus,NM,NCAA Division I-FBS,752829,39982066,39982066,1514219
+188030,New Mexico State University-Main Campus,NM,NCAA Division I-FBS,495734,27013637,27013637,1462339
+188058,Northern New Mexico College,NM,NAIA Division II ,6231,539176,539176,
+188182,University of the Southwest,NM,NAIA Division I ,35746,4319818,4319818,
+188261,Mesalands Community College,NM,Other ,4514,217784,210609,
+188304,Western New Mexico University,NM,NCAA Division II with football,25000,2783939,2783939,178199
+188340,Vaughn College of Aeronautics and Technology,NY,USCAA,0,290090,287590,
+188429,Adelphi University,NY,NCAA Division II without football,31303,10143088,10143088,
+188438,Adirondack Community College,NY,NJCAA Division III ,0,492031,476507,
+188517,Bryant & Stratton College-Albany,NY,USCAA,30548,950878,950878,
+188526,Albany College of Pharmacy and Health Sciences,NY,USCAA,0,281569,236399,
+188641,Alfred University,NY,NCAA Division III with football,71210,3074373,3074373,118954
+189088,Bard College,NY,NCAA Division III without football,66227,2558183,2165688,
+189228,Berkeley College-New York,NY,Other ,0,580533,580533,
+189547,SUNY Broome Community College,NY,NJCAA Division III ,839,807435,807435,
+189565,Bryant & Stratton College-Syracuse North,NY,USCAA,3612,245797,245797,
+189574,Bryant & Stratton College-Syracuse,NY,USCAA,22880,1136257,1136257,
+189583,Bryant & Stratton College-Buffalo,NY,USCAA,6646,296393,296393,
+189592,Bryant & Stratton College-Greece,NY,USCAA,3656,214721,214721,
+189705,Canisius College,NY,NCAA Division I without football,266816,12162555,12162555,
+189839,Cayuga County Community College,NY,NJCAA Division III ,0,461768,461768,
+189848,Cazenovia College,NY,NCAA Division III without football,0,762092,762092,
+190044,Clarkson University,NY,NCAA Division III without football,106662,9033891,8468511,
+190053,Clinton Community College,NY,NJCAA Division III ,2038,220725,202771,
+190099,Colgate University,NY,NCAA Division I-FCS,650173,29540195,29540195,923856
+190150,Columbia University in the City of New York,NY,NCAA Division I-FCS,1103260,31471878,31471878,954648
+190169,Columbia-Greene Community College,NY,NJCAA Division III ,500,441551,441101,
+190248,Concordia College-New York,NY,NCAA Division II without football,0,2529884,2529884,
+190415,Cornell University,NY,NCAA Division I-FCS,1071826,27945778,26863587,337888
+190442,Corning Community College,NY,NJCAA Division III ,6709,287988,280818,
+190512,CUNY Bernard M Baruch College,NY,NCAA Division III without football,2823,968146,968146,
+190521,CUNY Borough of Manhattan Community College,NY,NJCAA Division III ,0,550158,550158,
+190530,CUNY Bronx Community College,NY,NJCAA Division III ,0,222514,222514,
+190549,CUNY Brooklyn College,NY,NCAA Division III without football,1873,777359,777359,
+190558,College of Staten Island CUNY,NY,NCAA Division III without football,9273,1651386,1651386,
+190567,CUNY City College,NY,NCAA Division III without football,0,913356,913356,
+190585,CUNY Hostos Community College,NY,NJCAA Division III ,0,177599,177599,
+190594,CUNY Hunter College,NY,NCAA Division III without football,3526,672746,672746,
+190600,CUNY John Jay College of Criminal Justice,NY,NCAA Division III without football,12632,1736006,1168156,
+190619,CUNY Kingsborough Community College,NY,NJCAA Division III ,0,428249,428249,
+190637,CUNY Lehman College,NY,NCAA Division III without football,0,1143438,1143438,
+190646,CUNY Medgar Evers College,NY,NCAA Division III without football,400,624837,624837,
+190664,CUNY Queens College,NY,NCAA Division II without football,514,6762346,5721526,
+190673,CUNY Queensborough Community College,NY,NJCAA Division III ,140,339932,339768,
+190691,CUNY York College,NY,NCAA Division III without football,0,980783,974868,
+190716,D'Youville College,NY,NCAA Division III without football,4353,851788,851788,
+190725,Daemen College,NY,NCAA Division II without football,28844,3975881,3906975,
+190761,Dominican College of Blauvelt,NY,NCAA Division II without football,7524,3726836,3726836,
+190840,Dutchess Community College,NY,NJCAA Division III ,0,322128,322128,
+190983,Elmira College,NY,NCAA Division III without football,76591,2237583,2237583,
+191083,Erie Community College,NY,NJCAA Division III ,4308,1916181,1916181,100240
+191126,Fashion Institute of Technology,NY,NJCAA Division III ,0,734196,734196,
+191199,Finger Lakes Community College,NY,NJCAA Division III ,3150,714087,714087,
+191205,Five Towns College,NY,USCAA,2000,150140,150140,
+191241,Fordham University,NY,NCAA Division I-FCS,706007,35479932,35479932,805057
+191302,Fulton-Montgomery Community College,NY,NJCAA Division III ,3941,297535,297535,
+191339,Genesee Community College,NY,NJCAA Division II ,15568,938459,938459,
+191515,Hamilton College,NY,NCAA Division III with football,99724,6222208,6222208,160938
+191533,Hartwick College,NY,NCAA Division III with football,64231,2552657,2552657,72157
+191612,Herkimer County Community College,NY,NJCAA Division III ,9650,786135,786135,
+191621,Hilbert College,NY,NCAA Division III without football,13873,980913,979909,
+191630,Hobart William Smith Colleges,NY,NCAA Division III with football,156286,6722753,6722753,128279
+191649,Hofstra University,NY,NCAA Division I without football,191145,23106069,23106069,
+191676,Houghton College,NY,NCAA Division III without football,17035,1494912,1494912,
+191719,Hudson Valley Community College,NY,NJCAA Division III ,2828,1039112,1039112,57600
+191931,Iona College,NY,NCAA Division I-FCS,124933,13501587,13501587,
+191968,Ithaca College,NY,NCAA Division III with football,130720,7714097,7714097,128025
+191986,Jamestown Community College,NY,Other ,893,491148,481676,
+192022,Jefferson Community College,NY,NJCAA Division III ,2824,586074,586074,
+192192,Keuka College,NY,NCAA Division III without football,26125,1802428,1802428,
+192323,Le Moyne College,NY,NCAA Division II without football,49726,7969218,7969218,
+192448,LIU Post,NY,NCAA Division II with football,336275,30231654,30231654,263518
+192703,Manhattan College,NY,NCAA Division I without football,224221,19334492,19334492,
+192749,Manhattanville College,NY,NCAA Division III without football,45172,3660489,3393609,
+192819,Marist College,NY,NCAA Division I-FCS,322862,17774658,17774658,549661
+192925,Medaille College,NY,NCAA Division III without football,19429,1405135,1329707,
+193016,Mercy College,NY,NCAA Division II without football,25096,2484443,2451314,
+193283,Mohawk Valley Community College,NY,NJCAA Division III ,6474,804304,804304,
+193292,Molloy College,NY,NCAA Division II without football,8825,4869133,4609948,
+193308,Monroe College,NY,Other ,28343,9266135,9266135,300221
+193326,Monroe Community College,NY,Other ,11927,1987782,1965762,
+193353,Mount Saint Mary College,NY,NCAA Division III without football,27356,1809943,1725668,
+193399,College of Mount Saint Vincent,NY,NCAA Division III without football,13121,1504399,1446673,
+193478,Nassau Community College,NY,NJCAA Division III ,0,1564563,1525541,129523
+193584,Nazareth College,NY,NCAA Division III without football,81784,4736896,4245461,
+193900,New York University,NY,NCAA Division III without football,233741,12017770,12017770,
+193946,Niagara County Community College,NY,NJCAA Division III ,24000,689906,620537,
+193973,Niagara University,NY,NCAA Division I without football,220086,10423601,10423601,
+194028,North Country Community College,NY,NJCAA Division III ,4925,227592,227592,
+194091,New York Institute of Technology,NY,NCAA Division II without football,20215,7436825,7340067,
+194161,Nyack College,NY,NCAA Division II without football,6475,3784705,3784705,
+194222,Onondaga Community College,NY,NJCAA Division III ,0,1247350,1155584,
+194240,Orange County Community College,NY,Other ,1000,262527,262527,
+194310,Pace University-New York,NY,NCAA Division II with football,70197,9265902,8116151,224768
+194392,Paul Smiths College of Arts and Science,NY,USCAA,30703,1451454,1451454,
+194569,Davis College,NY,USCAA,2455,168752,168752,
+194578,Pratt Institute-Main,NY,Other ,8059,1524330,1524330,
+194824,Rensselaer Polytechnic Institute,NY,NCAA Division III with football,228186,11452955,11452955,149210
+194958,Roberts Wesleyan College,NY,NCAA Division II without football,6498,3946910,3803584,
+195003,Rochester Institute of Technology,NY,Other ,124714,7152315,6819008,
+195030,University of Rochester,NY,NCAA Division III with football,130355,6393489,6393489,116240
+195058,Rockland Community College,NY,Other ,0,249776,249776,
+195128,The Sage Colleges,NY,NCAA Division III without football,19159,1615647,1471296,
+195164,St Bonaventure University,NY,NCAA Division I without football,235850,14020802,14020802,
+195173,St Francis College,NY,NCAA Division I without football,165517,8289239,8289239,
+195216,St Lawrence University,NY,NCAA Division III with football,264622,10640666,10640666,115213
+195234,The College of Saint Rose,NY,NCAA Division II without football,49422,4717302,4588680,
+195243,St. Thomas Aquinas College,NY,NCAA Division II without football,39572,5557081,5535775,
+195304,Sarah Lawrence College,NY,NCAA Division III without football,29759,1006315,1006315,
+195322,Schenectady County Community College,NY,NJCAA Division III ,439,168021,166685,
+195474,Siena College,NY,NCAA Division I without football,287051,18793576,18793576,
+195526,Skidmore College,NY,NCAA Division III without football,44083,3425418,3425418,
+195544,St. Joseph's College-New York,NY,NCAA Division III without football,2582,1001549,1001549,
+195562,St. Joseph's College-Long Island,NY,NCAA Division III without football,2267,2039548,2039548,
+195720,Saint John Fisher College,NY,NCAA Division III with football,133560,4707008,4411339,85129
+195809,St John's University-New York,NY,NCAA Division I without football,525174,36591921,36591921,
+195988,Sullivan County Community College,NY,NJCAA Division III ,3187,528453,528453,
+196006,SUNY College of Technology at Alfred,NY,NCAA Division III with football,30932,2854782,2809269,133713
+196015,SUNY College of Technology at Canton,NY,NCAA Division III without football,30363,2935709,2852288,
+196024,SUNY College of Technology at Delhi,NY,NCAA Division III without football,7252,1233512,1233512,
+196033,SUNY College of Agriculture and Technology at Cobleskill,NY,NCAA Division III without football,7939,1513170,1505777,
+196042,Farmingdale State College,NY,NCAA Division III without football,0,3854855,3544855,
+196051,Morrisville State College,NY,NCAA Division III with football,69000,3270555,3109563,209435
+196060,SUNY at Albany,NY,NCAA Division I-FCS,354323,21037097,21037097,768482
+196079,Binghamton University,NY,NCAA Division I without football,244704,16917247,15636506,
+196088,University at Buffalo,NY,NCAA Division I-FBS,630172,37015023,36970124,1865055
+196097,Stony Brook University,NY,NCAA Division I-FCS,417229,26682271,26682271,1097178
+196103,SUNY College of Environmental Science and Forestry,NY,USCAA,0,383358,370432,
+196112,SUNY Polytechnic Institute,NY,NCAA Division III without football,36000,1811287,1803430,
+196121,SUNY College at Brockport,NY,NCAA Division III with football,85585,4764407,4656240,97469
+196130,SUNY Buffalo State,NY,NCAA Division III with football,39797,3740718,3722351,100966
+196149,SUNY Cortland,NY,NCAA Division III with football,111524,5804065,5674554,102032
+196158,SUNY at Fredonia,NY,NCAA Division III without football,72000,2517062,2517062,
+196167,SUNY College at Geneseo,NY,NCAA Division III without football,60356,3911444,3911444,
+196176,State University of New York at New Paltz,NY,NCAA Division III without football,26485,3097016,2814404,
+196185,SUNY Oneonta,NY,NCAA Division III without football,42027,3398885,3366385,
+196194,SUNY College at Oswego,NY,NCAA Division III without football,58012,4696074,4563740,
+196200,SUNY College at Potsdam,NY,NCAA Division III without football,60715,2665811,2665811,
+196219,SUNY at Purchase College,NY,NCAA Division III without football,7667,1697366,1697366,
+196237,SUNY College at Old Westbury,NY,NCAA Division III without football,6172,1808613,1808613,
+196246,SUNY College at Plattsburgh,NY,NCAA Division III without football,70357,4539923,4449252,
+196291,SUNY Maritime College,NY,NCAA Division III with football,10676,1692802,1651323,118972
+196413,Syracuse University,NY,NCAA Division I-FBS,1579909,99815688,82930151,3681914
+196565,Tompkins Cortland Community College,NY,NJCAA Division III ,2996,462494,462494,
+196592,Touro College,NY,Independent,0,88314,88314,
+196699,Ulster County Community College,NY,Other ,0,290480,261884,
+196866,Union College,NY,NCAA Division III with football,209779,7295362,7106296,181290
+197027,United States Merchant Marine Academy,NY,NCAA Division III with football,68446,5506183,3703609,131511
+197045,Utica College,NY,NCAA Division III with football,137356,5899664,5678285,139416
+197133,Vassar College,NY,NCAA Division III without football,66683,4807542,4515116,
+197142,Villa Maria College,NY,USCAA,0,365635,365635,
+197197,Wagner College,NY,NCAA Division I-FCS,169298,16041286,15931182,535675
+197221,Webb Institute,NY,Other ,0,58201,58201,
+197230,Wells College,NY,NCAA Division III without football,27023,1245272,1245272,
+197294,SUNY Westchester Community College,NY,NJCAA Division III ,0,1049740,1049740,
+197708,Yeshiva University,NY,NCAA Division III without football,16775,2067462,2067462,
+197869,Appalachian State University,NC,NCAA Division I-FBS,484125,28482163,28482163,1643300
+197911,Barton College,NC,NCAA Division II without football,33290,6294750,6294750,
+197984,Belmont Abbey College,NC,NCAA Division II without football,77789,7134539,7134539,
+198066,Brevard College,NC,NCAA Division III with football,17758,2816606,2816606,149401
+198084,Brunswick Community College,NC,NJCAA Division II ,3000,150492,103671,
+198118,Caldwell Community College and Technical Institute,NC,NJCAA Division I ,1653,186576,186576,
+198136,Campbell University,NC,NCAA Division I-FCS,557621,26701494,26701494,1035766
+198154,Cape Fear Community College,NC,NJCAA Division I ,0,550883,550883,
+198215,Catawba College,NC,NCAA Division II with football,44693,8547564,8388633,131823
+198233,Catawba Valley Community College,NC,NJCAA Division II ,8255,789229,789229,
+198251,Central Carolina Community College,NC,NJCAA Division III ,0,80582,80582,
+198303,Chowan University,NC,NCAA Division II with football,36888,6304302,6304302,167768
+198376,Davidson County Community College,NC,NJCAA Division II ,459,136369,135153,
+198385,Davidson College,NC,NCAA Division I-FCS,467152,19268890,17278041,552273
+198419,Duke University,NC,NCAA Division I-FBS,2289822,116021513,116021331,3774976
+198464,East Carolina University,NC,NCAA Division I-FBS,982403,50722801,47034373,2408798
+198507,Elizabeth City State University,NC,NCAA Division II with football,7587,1861072,1861072,70611
+198516,Elon University,NC,NCAA Division I-FCS,457128,31275836,31275836,778369
+198534,Fayetteville Technical Community College,NC,NJCAA Division II ,652,514250,514250,
+198543,Fayetteville State University,NC,NCAA Division II with football,14436,3852323,3852323,127278
+198561,Gardner-Webb University,NC,NCAA Division I-FCS,144499,12813847,12813847,365140
+198598,Greensboro College,NC,NCAA Division III with football,38593,13512601,2777113,51483
+198613,Guilford College,NC,NCAA Division III with football,43445,3609982,2960095,179722
+198622,Guilford Technical Community College,NC,NJCAA Division II ,4925,316220,316220,
+198695,High Point University,NC,NCAA Division I without football,265220,19532050,15798386,
+198756,Johnson C Smith University,NC,NCAA Division II with football,13970,4991043,4991043,46801
+198774,Johnston Community College,NC,NJCAA Division II ,42,145723,145723,
+198808,Lees-McRae College,NC,NCAA Division II without football,23278,3728922,3679726,
+198817,Lenoir Community College,NC,NJCAA Division II ,0,255502,255502,
+198835,Lenoir-Rhyne University,NC,NCAA Division II with football,90708,11346472,11346472,176389
+198862,Livingstone College,NC,NCAA Division II with football,5758,3011677,3011677,72021
+198871,Louisburg College,NC,NJCAA Division I ,14354,1575085,1575085,53145
+198899,Mars Hill University,NC,NCAA Division II with football,34702,4977056,4894135,89390
+198969,Methodist University,NC,NCAA Division III with football,61836,3324904,3313961,150099
+199032,Montreat College,NC,NAIA Division II ,0,7266983,7183706,
+199069,University of Mount Olive,NC,NCAA Division II without football,40911,5716831,5624941,
+199102,North Carolina A & T State University,NC,NCAA Division I-FCS,290741,14685737,14685737,578331
+199111,University of North Carolina at Asheville,NC,NCAA Division I without football,114850,7804591,7804591,
+199120,University of North Carolina at Chapel Hill,NC,NCAA Division I-FBS,1943359,105407867,105407867,3708599
+199139,University of North Carolina at Charlotte,NC,NCAA Division I-FBS,756829,38165424,36684369,2096685
+199148,University of North Carolina at Greensboro,NC,NCAA Division I without football,289520,13452641,13452641,
+199157,North Carolina Central University,NC,NCAA Division I-FCS,162145,14511739,14511739,200627
+199193,North Carolina State University at Raleigh,NC,NCAA Division I-FBS,2116393,92724547,91149338,1938013
+199209,North Carolina Wesleyan College,NC,NCAA Division III with football,54801,2601183,2601183,237390
+199218,University of North Carolina Wilmington,NC,NCAA Division I without football,299604,17169374,17169374,
+199272,William Peace University,NC,NCAA Division III without football,47949,1734730,1725705,
+199281,University of North Carolina at Pembroke,NC,NCAA Division II with football,44953,4817088,3967926,148319
+199306,Pfeiffer University,NC,NCAA Division III without football,14426,2744661,2268484,
+199333,Pitt Community College,NC,NJCAA Division II ,0,327892,306608,
+199412,Queens University of Charlotte,NC,NCAA Division II without football,89006,11824759,11824759,
+199458,Mid-Atlantic Christian University,NC,USCAA,0,314805,302665,
+199485,Rockingham Community College,NC,NJCAA Division III ,0,93305,93305,
+199582,Saint Augustine's University,NC,NCAA Division II with football,9000,2487394,2487394,73130
+199607,Salem College,NC,NCAA Division III without football,6686,636865,636865,
+199634,Sandhills Community College,NC,NJCAA Division III ,0,230931,230931,
+199643,Shaw University,NC,NCAA Division II with football,59471,5026738,5026738,190391
+199698,St. Andrews University,NC,NAIA Division II ,38437,9729646,6219984,131728
+199722,Southeastern Community College,NC,NJCAA Division II ,0,123908,123908,
+199768,Surry Community College,NC,NJCAA Division II ,200,159392,159392,
+199838,Vance-Granville Community College,NC,NJCAA Division II ,0,98473,98473,
+199847,Wake Forest University,NC,NCAA Division I-FBS,1301506,76520111,76520111,2140310
+199856,Wake Technical Community College,NC,NJCAA Division I ,0,767392,748603,
+199865,Warren Wilson College,NC,USCAA,6420,623855,623855,
+199962,Wingate University,NC,NCAA Division II with football,61818,11555265,10767698,189509
+199971,Carolina Christian College,NC,Other ,745,86191,86191,
+199999,Winston-Salem State University,NC,NCAA Division II with football,12215,4286679,4286679,122758
+200004,Western Carolina University,NC,NCAA Division I-FCS,250600,12758206,12758206,331835
+200022,Bismarck State College,ND,NJCAA Division I ,3835,628007,628007,
+200059,Dickinson State University,ND,NAIA Division I ,34886,2165770,2165770,116065
+200156,University of Jamestown,ND,NAIA Division II ,100952,6217653,6217653,122625
+200192,Lake Region State College,ND,NJCAA Division I ,16595,701976,701976,
+200217,University of Mary,ND,NCAA Division II with football,182700,7066605,7066605,167165
+200226,Mayville State University,ND,NAIA Division II ,52162,1451998,1451998,125753
+200253,Minot State University,ND,NCAA Division II with football,151103,5253906,5206708,146132
+200280,University of North Dakota,ND,NCAA Division I-FCS,445986,24090854,24005859,946573
+200305,North Dakota State College of Science,ND,NJCAA Division I ,6029,865982,849850,59792
+200314,Dakota College at Bottineau,ND,NJCAA Division II ,6401,560383,560383,73697
+200332,North Dakota State University-Main Campus,ND,NCAA Division I-FCS,499391,27489584,27489584,1127979
+200341,Williston State College,ND,NJCAA Division I ,12042,1215088,1215088,
+200484,Trinity Bible College and Graduate School,ND,NCCAA Division II ,5241,315235,315235,33890
+200527,Turtle Mountain Community College,ND,Independent,0,110932,110932,
+200554,United Tribes Technical College,ND,NJCAA Division II ,8148,260468,260468,
+200572,Valley City State University,ND,NAIA Division II ,40000,3282138,3152430,120709
+200800,University of Akron Main Campus,OH,NCAA Division I-FBS,669242,35554930,35554930,1747545
+201104,Ashland University,OH,NCAA Division II with football,100928,8823450,8823450,270942
+201195,Baldwin Wallace University,OH,NCAA Division III with football,135012,5225427,5225427,150421
+201371,Bluffton University,OH,NCAA Division III with football,87009,1867398,1867398,115365
+201441,Bowling Green State University-Main Campus,OH,NCAA Division I-FBS,624947,26001187,25780900,1587756
+201548,Capital University,OH,NCAA Division III with football,26578,3393439,3393439,101950
+201645,Case Western Reserve University,OH,NCAA Division III with football,55835,5191007,4708422,101109
+201654,Cedarville University,OH,NCAA Division II without football,32952,4539682,4539682,
+201690,Central State University,OH,NCAA Division II with football,22986,4194542,4194542,223872
+201858,Cincinnati Christian University,OH,NAIA Division II ,18000,4916098,4916098,112564
+201885,University of Cincinnati-Main Campus,OH,NCAA Division I-FBS,1026278,53555898,53555898,2907970
+201928,Cincinnati State Technical and Community College,OH,NJCAA Division III ,2000,42750,42750,
+201946,University of Cincinnati-Clermont College,OH,USCAA,0,362917,362917,
+201964,Ohio Christian University,OH,NAIA Division II ,11524,2334190,2334190,
+201973,Clark State Community College,OH,NJCAA Division II ,0,289308,267255,
+202134,Cleveland State University,OH,NCAA Division I without football,261777,13400944,13400944,
+202222,Columbus State Community College,OH,NJCAA Division III ,0,462991,462991,
+202356,Cuyahoga Community College District,OH,NJCAA Division II ,159,1581380,1581380,
+202480,University of Dayton,OH,NCAA Division I-FCS,567651,35072637,31640497,553018
+202514,Defiance College,OH,NCAA Division III with football,90150,2473006,2272344,80808
+202523,Denison University,OH,NCAA Division III with football,120497,6090441,6090441,210834
+202648,Edison State Community College,OH,NJCAA Division II ,5000,563314,563314,
+202763,The University of Findlay,OH,NCAA Division II with football,51965,10104394,9770618,157839
+203085,Heidelberg University,OH,NCAA Division III with football,58472,3401653,3401653,118930
+203128,Hiram College,OH,NCAA Division III with football,104179,2324187,2324187,128352
+203155,Hocking College,OH,NJCAA Division III ,4573,704129,704129,96300
+203331,Eastern Gateway Community College,OH,NJCAA Division III ,0,102771,99562,
+203368,John Carroll University,OH,NCAA Division III with football,95153,4209672,4209672,246621
+203483,Kent State University at Tuscarawas,OH,USCAA,0,150036,150036,
+203517,Kent State University at Kent,OH,NCAA Division I-FBS,682679,29074838,29074838,1725949
+203535,Kenyon College,OH,NCAA Division III with football,143104,4657324,4657324,108718
+203580,Lake Erie College,OH,NCAA Division II with football,38211,5477744,5477744,134960
+203599,Lakeland Community College,OH,NJCAA Division II ,7,872534,872534,
+203748,Lorain County Community College,OH,NJCAA Division III ,0,329265,307706,
+203757,Lourdes University,OH,NAIA Division II ,46824,4623794,4513605,
+203775,Malone University,OH,NCAA Division II with football,52389,6242808,6242808,203185
+203845,Marietta College,OH,NCAA Division III with football,142087,3605795,3335100,89763
+204024,Miami University-Oxford,OH,NCAA Division I-FBS,1241197,38714678,38714678,1235268
+204185,University of Mount Union,OH,NCAA Division III with football,46131,4047781,4047781,245534
+204194,Mount Vernon Nazarene University,OH,NAIA Division II ,0,2863160,2274761,
+204200,Mount Saint Joseph University,OH,NCAA Division III with football,57856,3371577,3371577,103395
+204264,Muskingum University,OH,NCAA Division III with football,43751,2701736,2441092,93014
+204468,Notre Dame College,OH,NCAA Division II with football,52714,6400372,6400372,280632
+204486,University of Northwestern Ohio,OH,NAIA Division II ,37295,4726252,4726252,
+204501,Oberlin College,OH,NCAA Division III with football,77327,4188045,4188045,168455
+204617,Ohio Dominican University,OH,NCAA Division II with football,71670,5271115,5099737,137196
+204635,Ohio Northern University,OH,NCAA Division III with football,115494,4706352,4706352,46629
+204796,Ohio State University-Main Campus,OH,NCAA Division I-FBS,2862134,209102666,198624066,8555429
+204857,Ohio University-Main Campus,OH,NCAA Division I-FBS,593665,28325005,28238828,1478148
+204909,Ohio Wesleyan University,OH,NCAA Division III with football,90011,3898994,3898994,148043
+204936,Otterbein University,OH,NCAA Division III with football,62687,3435142,3435142,89438
+204945,Owens Community College,OH,NJCAA Division III ,4290,677534,676633,
+205203,University of Rio Grande,OH,NAIA Division I ,15855,3035470,3035470,
+205443,Shawnee State University,OH,NAIA Division I ,0,2176476,2025430,
+205470,Sinclair Community College,OH,NJCAA Division II ,2001,728156,728156,
+205957,Franciscan University of Steubenville,OH,NCAA Division III without football,332,1363597,1363597,
+205966,Southern State Community College,OH,USCAA,0,73825,73825,
+206048,Tiffin University,OH,NCAA Division II with football,135946,10925531,10925531,193133
+206084,University of Toledo,OH,NCAA Division I-FBS,598637,33358750,33358750,1728523
+206330,Urbana University,OH,NCAA Division II with football,59205,4431484,4431484,76478
+206349,Ursuline College,OH,NCAA Division II without football,29687,3168438,3168438,
+206437,Walsh University,OH,NCAA Division II with football,57101,9258695,8798798,188884
+206491,Wilberforce University,OH,NAIA Division II ,0,647248,647248,
+206507,Wilmington College,OH,NCAA Division III with football,23500,2248254,2248254,120445
+206525,Wittenberg University,OH,NCAA Division III with football,59673,4078882,3984580,103771
+206589,The College of Wooster,OH,NCAA Division III with football,57297,3654090,3269121,47736
+206604,Wright State University-Main Campus,OH,NCAA Division I without football,195319,12370379,12370379,
+206613,Wright State University-Lake Campus,OH,USCAA,0,225207,219725,
+206622,Xavier University,OH,NCAA Division I without football,895434,22860050,22860050,
+206695,Youngstown State University,OH,NCAA Division I-FCS,355663,16206122,16206122,760355
+206817,Bacone College,OK,NAIA Division I ,2180,1040196,976277,
+206835,Oklahoma Wesleyan University,OK,NAIA Division II ,24728,4468726,4468726,
+206862,Southern Nazarene University,OK,NCAA Division II with football,52187,7192193,7054120,173772
+206914,Cameron University,OK,NCAA Division II without football,44911,3452550,3416815,
+206923,Carl Albert State College,OK,Other ,0,458982,420866,
+206941,University of Central Oklahoma,OK,NCAA Division II with football,67761,10864230,9519719,179092
+206996,Connors State College,OK,NJCAA Division I ,0,1288130,1288130,
+207041,East Central University,OK,NCAA Division II with football,42776,3403592,3216699,138887
+207050,Eastern Oklahoma State College,OK,NJCAA Division I ,7919,1159461,1134573,
+207069,Redlands Community College,OK,Other ,300,1178051,1178051,
+207157,Randall University,OK,NCCAA Division II ,30000,473096,473096,
+207209,Langston University,OK,NAIA Division I ,0,2220898,2220898,51727
+207236,Murray State College,OK,NJCAA Division I ,15000,1025229,1025229,
+207263,Northeastern State University,OK,NCAA Division II with football,51055,5617464,5617464,288820
+207281,Northern Oklahoma College,OK,NJCAA Division I ,18326,2254750,2254750,
+207290,Northeastern Oklahoma A&M College,OK,NJCAA Division I ,0,3038717,2923844,246513
+207306,Northwestern Oklahoma State University,OK,NCAA Division II with football,85790,4566148,4393002,145269
+207324,Oklahoma Christian University,OK,NCAA Division II without football,35670,6465521,6327827,
+207351,Oklahoma Panhandle State University,OK,NAIA Division I ,68044,4104805,4102778,188286
+207388,Oklahoma State University-Main Campus,OK,NCAA Division I-FBS,1770395,91066952,90739953,4801790
+207403,Oklahoma Baptist University,OK,NCAA Division II with football,89060,9539755,9539755,202947
+207458,Oklahoma City University,OK,NAIA Division I ,3395,7268621,6370371,
+207500,University of Oklahoma-Norman Campus,OK,NCAA Division I-FBS,2757195,159286136,159138410,13840101
+207582,Oral Roberts University,OK,NCAA Division I without football,215569,13513918,12084356,
+207661,Rogers State University,OK,NCAA Division II without football,45808,4396575,4396575,
+207670,Rose State College,OK,NJCAA Division I ,0,1050555,988156,
+207722,University of Science and Arts of Oklahoma,OK,NAIA Division I ,80799,3766003,3766003,
+207740,Seminole State College,OK,NJCAA Division I ,3874,1976992,1976992,
+207847,Southeastern Oklahoma State University,OK,NCAA Division II with football,20914,4800630,4793283,173258
+207856,Southwestern Christian University,OK,NAIA Division I ,14709,2677692,2677692,
+207865,Southwestern Oklahoma State University,OK,NCAA Division II with football,54654,5336789,5336789,114621
+207971,University of Tulsa,OK,NCAA Division I-FBS,639288,42986622,42986622,1485291
+208035,Western Oklahoma State College,OK,NJCAA Division II ,15753,1226689,1218772,
+208275,Blue Mountain Community College,OR,NWAC,7941,1073204,1058075,
+208390,Chemeketa Community College,OR,NWAC,4200,572614,530668,
+208406,Clackamas Community College,OR,NWAC,11940,1158838,1103420,
+208488,Concordia University-Portland,OR,NCAA Division II without football,51036,5723125,5611941,
+208646,Eastern Oregon University,OR,NAIA Division II ,29935,4506650,4506650,138644
+208725,New Hope Christian College-Eugene,OR,NCCAA Division I ,0,204853,204853,
+208822,George Fox University,OR,NCAA Division III with football,59883,4767737,4365908,232109
+209038,Lane Community College,OR,NWAC,1384,1409326,1205301,
+209056,Lewis & Clark College,OR,NCAA Division III with football,89760,3672975,3672975,118960
+209065,Linfield College-McMinnville Campus,OR,NCAA Division III with football,100887,3890922,3683489,171160
+209074,Linn-Benton Community College,OR,NWAC,3000,534897,531336,
+209250,Mt Hood Community College,OR,NWAC,3806,880541,762625,
+209287,Multnomah University,OR,NAIA Division II ,23236,2091499,2091499,
+209409,Northwest Christian University,OR,NAIA Division II ,19357,2075319,2075319,
+209506,Oregon Institute of Technology,OR,NAIA Division II ,36477,5870508,5538098,
+209542,Oregon State University,OR,NCAA Division I-FBS,1621877,82364021,82364021,5013100
+209551,University of Oregon,OR,NCAA Division I-FBS,2284434,108500370,108235439,6153172
+209612,Pacific University,OR,NCAA Division III with football,102298,5679956,5679956,240447
+209746,Portland Community College,OR,NWAC,1000,507646,478723,
+209807,Portland State University,OR,NCAA Division I-FCS,298606,15845740,14936614,750004
+209825,University of Portland,OR,NCAA Division I without football,457661,20502131,20502131,
+209940,Rogue Community College,OR,NWAC,14561,264013,264013,
+210146,Southern Oregon University,OR,NAIA Division II ,45728,5666335,5666335,288187
+210155,Southwestern Oregon Community College,OR,Other ,5848,1690093,1690093,
+210234,Treasure Valley Community College,OR,Other ,0,1457932,1457932,
+210270,Umpqua Community College,OR,NWAC,0,574337,513281,
+210304,Warner Pacific College,OR,NAIA Division II ,1046,1802561,1802561,
+210331,Corban University,OR,NAIA Division II ,21712,7041264,7041264,
+210401,Willamette University,OR,NCAA Division III with football,58015,3764270,3764270,76075
+210429,Western Oregon University,OR,NCAA Division II with football,66523,5958471,5958471,247788
+210492,Bryn Athyn College of the New Church,PA,NCAA Division III without football,83297,1311539,1311539,
+210571,Albright College,PA,NCAA Division III with football,42771,2271644,2271644,186777
+210605,Community College of Allegheny County,PA,NJCAA Division III ,0,193634,193634,
+210669,Allegheny College,PA,NCAA Division III with football,132431,3387405,3387405,154012
+210739,DeSales University,PA,NCAA Division III without football,42217,3012521,2967505,
+210775,Alvernia University,PA,NCAA Division III with football,91424,2801403,2698093,124822
+211024,Clarks Summit University,PA,NCAA Division III without football,6023,407309,407309,
+211079,Community College of Beaver County,PA,NJCAA Division II ,0,206336,206336,
+211088,Arcadia University,PA,NCAA Division III without football,38483,2710379,2710379,
+211158,Bloomsburg University of Pennsylvania,PA,NCAA Division II with football,34661,6327444,6244774,130566
+211291,Bucknell University,PA,NCAA Division I-FCS,521245,30547725,30547725,557880
+211307,Bucks County Community College,PA,NJCAA Division III ,0,206604,206604,
+211343,Butler County Community College,PA,NJCAA Division III ,0,268574,268574,
+211352,Cabrini University,PA,NCAA Division III without football,8531,2327589,2194719,
+211361,California University of Pennsylvania,PA,NCAA Division II with football,39379,8297505,8100572,238478
+211431,Carlow University,PA,NAIA Division II ,7500,2075520,2075520,
+211440,Carnegie Mellon University,PA,NCAA Division III with football,119264,5020503,4947496,178768
+211468,Cedar Crest College,PA,NCAA Division III without football,10111,1040976,880608,
+211477,Central Penn College,PA,USCAA,0,188439,188439,
+211556,Chatham University,PA,NCAA Division III without football,68753,2160903,2151452,
+211583,Chestnut Hill College,PA,NCAA Division II without football,14503,3534030,3447094,55371
+211608,Cheyney University of Pennsylvania,PA,Independent,0,471745,471745,
+211644,Clarion University of Pennsylvania,PA,NCAA Division II with football,52638,5367155,5137713,73420
+211927,Delaware County Community College,PA,NJCAA Division III ,0,76267,76267,
+211981,Delaware Valley University,PA,NCAA Division III with football,60340,2705282,2705282,114447
+212009,Dickinson College,PA,NCAA Division III with football,75160,3541231,3167262,34566
+212054,Drexel University,PA,NCAA Division I without football,243809,23734677,23734677,
+212106,Duquesne University,PA,NCAA Division I-FCS,421114,24286682,24286682,686246
+212115,East Stroudsburg University of Pennsylvania,PA,NCAA Division II with football,55693,7281775,6854065,211258
+212133,Eastern University,PA,NCAA Division III without football,32694,2376173,2258868,
+212160,Edinboro University of Pennsylvania,PA,NCAA Division II with football,60442,6247806,6247806,106233
+212197,Elizabethtown College,PA,NCAA Division III without football,26434,2545585,2545585,
+212577,Franklin and Marshall College,PA,NCAA Division III with football,120947,6140746,6116551,81763
+212601,Gannon University,PA,NCAA Division II with football,112983,9434097,9175584,164131
+212656,Geneva College,PA,NCAA Division III with football,54451,2139883,2139883,151006
+212674,Gettysburg College,PA,NCAA Division III with football,75305,4094184,4094184,84666
+212832,Gwynedd Mercy University,PA,NCAA Division III without football,0,1290287,1290287,
+212869,Harcum College,PA,Other ,14661,2246315,2246315,
+212878,Harrisburg Area Community College,PA,NJCAA Division III ,0,194299,194299,
+212911,Haverford College,PA,NCAA Division III without football,52574,3295804,3295804,
+212984,Holy Family University,PA,NCAA Division II without football,15401,2806709,2783387,
+213011,Immaculata University,PA,NCAA Division III without football,24601,795115,743236,
+213020,Indiana University of Pennsylvania-Main Campus,PA,NCAA Division II with football,92733,8190155,7438804,276055
+213251,Juniata College,PA,NCAA Division III with football,73332,3308289,3154194,103660
+213303,Keystone College,PA,NCAA Division III without football,33594,1444796,1444796,
+213321,King's College,PA,NCAA Division III with football,72486,2662807,2662807,119126
+213349,Kutztown University of Pennsylvania,PA,NCAA Division II with football,32533,7404433,7404433,99011
+213358,La Roche College,PA,NCAA Division III without football,15613,1141818,1121775,
+213367,La Salle University,PA,NCAA Division I without football,314772,15334356,14634982,
+213376,Lackawanna College,PA,NJCAA Division II ,25391,2118439,2116516,262185
+213385,Lafayette College,PA,NCAA Division I-FCS,491088,25065828,25065828,614517
+213400,Lancaster Bible College,PA,NCAA Division III without football,5582,1384119,1384119,
+213507,Lebanon Valley College,PA,NCAA Division III with football,56917,3268746,3060907,145760
+213525,Lehigh Carbon Community College,PA,NJCAA Division III ,0,302077,291091,
+213543,Lehigh University,PA,NCAA Division I-FCS,516006,37744762,37744762,597034
+213598,Lincoln University,PA,NCAA Division II with football,27484,3107994,3107994,68270
+213613,Lock Haven University,PA,NCAA Division II with football,25979,6432877,6197532,104064
+213659,Luzerne County Community College,PA,NJCAA Division III ,0,287452,287452,
+213668,Lycoming College,PA,NCAA Division III with football,69167,3438765,3006033,74416
+213774,Manor College,PA,NJCAA Division III ,12000,357574,357574,
+213783,Mansfield University of Pennsylvania,PA,NCAA Division II without football,8127,4604290,4455294,
+213826,Marywood University,PA,NCAA Division III without football,55108,1685073,1685073,
+213987,Mercyhurst University,PA,NCAA Division II with football,131342,15565458,15565458,175145
+213996,Messiah College,PA,NCAA Division III without football,22911,2836004,2211103,
+214041,Millersville University of Pennsylvania,PA,NCAA Division II with football,44954,7205548,6674207,132115
+214069,Misericordia University,PA,NCAA Division III with football,88598,2994561,2837811,63534
+214111,Montgomery County Community College,PA,NJCAA Division III ,0,517813,462851,
+214157,Moravian College,PA,NCAA Division III with football,58862,3601935,3589484,144850
+214166,Mount Aloysius College,PA,NCAA Division III without football,22016,1213241,1213241,
+214175,Muhlenberg College,PA,NCAA Division III with football,62355,3958690,3761037,157419
+214272,Neumann University,PA,NCAA Division III without football,29060,2102920,2102920,
+214379,Northampton County Area Community College,PA,NJCAA Division III ,0,318407,318407,
+214591,Pennsylvania State University-Penn State Erie-Behrend College,PA,NCAA Division III without football,31761,1856353,1856353,
+214625,Pennsylvania State University-Penn State New Kensington,PA,USCAA,5455,427813,427813,
+214634,Pennsylvania State University-Penn State Shenango,PA,USCAA,10052,132643,122816,
+214643,Pennsylvania State University-Penn State Wilkes-Barre,PA,USCAA,279,114028,113646,
+214652,Pennsylvania State University-Penn State Worthington Scranton,PA,USCAA,0,235581,235581,
+214670,Pennsylvania State University-Penn State Lehigh Valley,PA,USCAA,0,237390,237390,
+214689,Pennsylvania State University-Penn State Altoona,PA,NCAA Division III without football,4664,1015765,1015765,
+214698,Pennsylvania State University-Penn State Beaver,PA,USCAA,6150,220222,220222,
+214704,Pennsylvania State University-Penn State Berks,PA,NCAA Division III without football,10856,844006,844006,
+214713,Pennsylvania State University-Penn State Harrisburg,PA,NCAA Division III without football,33653,2408060,2408060,
+214731,Pennsylvania State University-Penn State Brandywine,PA,USCAA,7083,498423,498423,
+214740,Pennsylvania State University-Penn State DuBois,PA,USCAA,0,421761,405058,
+214759,Pennsylvania State University-Penn State Fayette- Eberly,PA,USCAA,1600,644205,625113,
+214768,Pennsylvania State University-Penn State Hazleton,PA,USCAA,4280,239640,239640,
+214777,Pennsylvania State University-Main Campus,PA,NCAA Division I-FBS,3071338,164529325,151044038,10369006
+214786,Pennsylvania State University-Penn State Greater Allegheny,PA,USCAA,0,509947,509947,
+214795,Pennsylvania State University-Penn State Mont Alto,PA,USCAA,6469,576350,505520,
+214801,Pennsylvania State University-Penn State Abington,PA,NCAA Division III without football,1313,1645705,1645705,
+214810,Pennsylvania State University-Penn State Schuylkill,PA,Other ,0,376035,376035,
+214829,Pennsylvania State University-Penn State York,PA,USCAA,1000,232354,232354,
+215062,University of Pennsylvania,PA,NCAA Division I-FCS,819246,44246817,44246817,1149543
+215114,Cairn University-Langhorne,PA,NCAA Division III without football,10363,895538,838181,
+215132,University of the Sciences,PA,NCAA Division II without football,6000,2423467,2423467,
+215239,Community College of Philadelphia,PA,NJCAA Division III ,0,474980,474980,
+215266,University of Pittsburgh-Bradford,PA,NCAA Division III without football,22867,1576770,1576770,
+215275,University of Pittsburgh-Greensburg,PA,NCAA Division III without football,18878,559195,482488,
+215284,University of Pittsburgh-Johnstown,PA,NCAA Division II without football,8534,3051414,3051414,
+215293,University of Pittsburgh-Pittsburgh Campus,PA,NCAA Division I-FBS,2201911,98866362,98866362,5528549
+215309,University of Pittsburgh-Titusville,PA,NJCAA Division II ,1238,84651,84651,
+215442,Point Park University,PA,NAIA Division II ,26887,3236501,3227022,
+215655,Robert Morris University,PA,NCAA Division I-FCS,365002,18578176,18578176,255981
+215691,Rosemont College,PA,NCAA Division III without football,1379,738032,730420,
+215743,Saint Francis University,PA,NCAA Division I-FCS,175837,16524184,16524184,231026
+215770,Saint Joseph's University,PA,NCAA Division I without football,286839,24959690,24959690,
+215798,Saint Vincent College,PA,NCAA Division III with football,67335,3539616,3539616,294817
+215929,University of Scranton,PA,NCAA Division III without football,41394,3870918,3870918,
+215947,Seton Hill University,PA,NCAA Division II with football,58690,8421998,8421998,126821
+216010,Shippensburg University of Pennsylvania,PA,NCAA Division II with football,58790,9807728,9222590,159521
+216038,Slippery Rock University of Pennsylvania,PA,NCAA Division II with football,44336,6041889,6032965,144275
+216278,Susquehanna University,PA,NCAA Division III with football,69226,3870157,3870157,89085
+216287,Swarthmore College,PA,NCAA Division III without football,73050,4369129,3847228,
+216296,Thaddeus Stevens College of Technology,PA,NJCAA Division III ,0,257514,257514,95236
+216339,Temple University,PA,NCAA Division I-FBS,835849,60004621,60004621,4657104
+216357,Thiel College,PA,NCAA Division III with football,0,2185057,2185057,137609
+216366,Thomas Jefferson University,PA,NCAA Division II with football,24353,4392318,4389402,
+216524,Ursinus College,PA,NCAA Division III with football,42969,4547264,4547264,78956
+216542,University of Valley Forge,PA,NCAA Division III without football,368,332771,332771,
+216551,Valley Forge Military College,PA,NJCAA Division III ,1800,355223,355223,16701
+216597,Villanova University,PA,NCAA Division I-FCS,593747,51223342,51223342,971655
+216667,Washington & Jefferson College,PA,NCAA Division III with football,78338,3643718,3607049,179317
+216694,Waynesburg University,PA,NCAA Division III with football,49193,1814537,1814537,84857
+216764,West Chester University of Pennsylvania,PA,NCAA Division II with football,40749,9887988,9077136,166910
+216807,Westminster College,PA,NCAA Division III with football,65409,2823818,2823818,193955
+216825,Westmoreland County Community College,PA,NJCAA Division III ,457,313378,313378,
+216852,Widener University,PA,NCAA Division III with football,28641,3955804,3830370,101870
+216931,Wilkes University,PA,NCAA Division III with football,114383,4548476,4200738,112875
+217013,Wilson College,PA,NCAA Division III without football,39423,1108007,1108007,
+217059,York College of Pennsylvania,PA,NCAA Division III without football,29733,2901381,2741532,
+217156,Brown University,RI,NCAA Division I-FCS,825190,24228209,24228209,1057513
+217165,Bryant University,RI,NCAA Division I-FCS,359540,20032772,20032772,476552
+217235,Johnson & Wales University-Providence,RI,NCAA Division III without football,46262,3880675,3880675,
+217402,Providence College,RI,NCAA Division I without football,595752,44736095,44736095,
+217420,Rhode Island College,RI,NCAA Division III without football,18944,2720736,2718004,
+217475,Community College of Rhode Island,RI,NJCAA Division I ,0,1431374,1234250,
+217484,University of Rhode Island,RI,NCAA Division I-FCS,553723,27238526,26737600,849448
+217518,Roger Williams University,RI,NCAA Division III without football,15644,3100322,3053426,
+217536,Salve Regina University,RI,NCAA Division III with football,32764,1983056,1983056,95062
+217624,Allen University,SC,NAIA Division II ,71842,2216311,2216311,64765
+217633,Anderson University,SC,NCAA Division II without football,38520,5934302,5664268,
+217688,Charleston Southern University,SC,NCAA Division I-FCS,244169,11697835,11697835,637396
+217721,Benedict College,SC,NCAA Division II with football,21235,3808918,3696865,49778
+217749,Bob Jones University,SC,NCCAA Division II ,18030,1225092,1225092,
+217776,Southern Wesleyan University,SC,NCAA Division II without football,16393,4027315,4027315,
+217819,College of Charleston,SC,NCAA Division I without football,264236,20128281,20128281,
+217864,Citadel Military College of South Carolina,SC,NCAA Division I-FCS,250669,16201634,15978432,619941
+217873,Claflin University,SC,NCAA Division II without football,140530,2866415,2866415,
+217882,Clemson University,SC,NCAA Division I-FBS,3252334,124601614,122718610,12289563
+217891,Clinton College,SC,Other ,4720,372888,372888,
+217907,Coker College,SC,NCAA Division II without football,18473,5684444,5628723,
+217925,Columbia International University,SC,NAIA Division II ,9483,1654144,1654144,
+217934,Columbia College,SC,NAIA Division I ,4760,1689877,1677205,
+217989,Denmark Technical College,SC,NJCAA Division I ,0,109723,108424,
+217998,Erskine College,SC,NCAA Division II without football,0,4297267,4297267,
+218025,Florence-Darlington Technical College,SC,NJCAA Division I ,6046,218088,216558,
+218061,Francis Marion University,SC,NCAA Division II without football,24579,4721040,4721040,
+218070,Furman,SC,NCAA Division I-FCS,431482,29689554,29689554,559748
+218229,Lander University,SC,NCAA Division II without football,66396,7606917,6920929,
+218238,Limestone College,SC,NCAA Division II with football,99677,11809266,11809266,152224
+218399,Morris College,SC,NAIA Division I ,0,403119,403119,
+218414,Newberry College,SC,NCAA Division II with football,66881,8193936,8193936,100738
+218441,North Greenville University,SC,NCAA Division II with football,38551,7407951,6216163,167274
+218539,Presbyterian College,SC,NCAA Division I-FCS,199075,12195379,12195379,340730
+218645,University of South Carolina-Aiken,SC,NCAA Division II without football,19302,4387162,4259020,
+218654,University of South Carolina-Beaufort,SC,NAIA Division II ,4195,2908823,2907122,
+218663,University of South Carolina-Columbia,SC,NCAA Division I-FBS,2104205,140295659,140146333,3355312
+218672,University of South Carolina-Lancaster,SC,NJCAA Division I ,258,449109,449109,
+218681,University of South Carolina-Salkehatchie,SC,NJCAA Division I ,0,569732,567866,
+218690,University of South Carolina-Sumter,SC,NJCAA Division I ,4357,441347,391336,
+218706,University of South Carolina-Union,SC,NJCAA Division I ,561,534181,527168,
+218724,Coastal Carolina University,SC,NCAA Division I-FBS,732045,30017956,30017956,1333698
+218733,South Carolina State University,SC,NCAA Division I-FCS,63226,7778657,7778657,337860
+218742,University of South Carolina-Upstate,SC,NCAA Division I without football,102187,8861126,8861126,
+218821,Spartanburg Methodist College,SC,NJCAA Division I ,8083,1568091,1568091,
+218919,Voorhees College,SC,NAIA Division II ,24179,498494,498494,
+218964,Winthrop University,SC,NCAA Division I without football,187965,12923827,12923827,
+218973,Wofford College,SC,NCAA Division I-FCS,234294,21935367,21935367,579856
+219000,Augustana University,SD,NCAA Division II with football,157776,9917356,9917356,249535
+219046,Black Hills State University,SD,NCAA Division II with football,63733,4518848,4518848,126619
+219082,Dakota State University,SD,NAIA Division II ,40606,3534866,3360934,103341
+219091,Dakota Wesleyan University,SD,NAIA Division II ,52390,4084314,3506645,2831
+219198,Mount Marty College,SD,NAIA Division II ,21954,2007111,2007111,
+219259,Northern State University,SD,NCAA Division II with football,192413,6753879,6753879,200793
+219277,Oglala Lakota College,SD,Other ,0,134050,134050,
+219295,Presentation College,SD,NAIA Division II ,74886,3237429,3126775,89351
+219347,South Dakota School of Mines and Technology,SD,NCAA Division II with football,87738,4606883,4574150,291489
+219356,South Dakota State University,SD,NCAA Division I-FCS,296662,18203912,18203912,897435
+219383,University of Sioux Falls,SD,NCAA Division II with football,115623,5985275,5901324,178930
+219408,Sisseton Wahpeton College,SD,Independent,8000,340500,340500,
+219471,University of South Dakota,SD,NCAA Division I-FCS,378834,17357655,17357655,673608
+219602,Austin Peay State University,TN,NCAA Division I-FCS,350280,14697020,14697020,830830
+219709,Belmont University,TN,NCAA Division I without football,157682,17738800,17738800,
+219718,Bethel University,TN,NAIA Division I ,9336,8113981,8073570,264172
+219790,Bryan College-Dayton,TN,NAIA Division I ,13000,4089877,4089877,
+219806,Carson-Newman University,TN,NCAA Division II with football,20500,10624648,9897079,276794
+219824,Chattanooga State Community College,TN,NJCAA Division I ,1913,1140210,1140210,
+219833,Christian Brothers University,TN,NCAA Division II without football,27039,4302403,4302403,
+219879,Cleveland State Community College,TN,NJCAA Division I ,7419,1164109,1142044,
+219888,Columbia State Community College,TN,NJCAA Division I ,856,707315,707315,
+219949,Cumberland University,TN,NAIA Division I ,58458,8532337,8101407,249591
+219976,Lipscomb University,TN,NCAA Division I without football,241912,19357026,19357026,
+220057,Dyersburg State Community College,TN,NJCAA Division I ,4638,620408,620408,
+220075,East Tennessee State University,TN,NCAA Division I-FCS,294522,16894551,16894551,442633
+220181,Fisk University,TN,NAIA Division II ,11500,816402,816402,
+220206,Welch College,TN,NCCAA Division II ,0,220565,220565,
+220215,Freed-Hardeman University,TN,NAIA Division I ,0,5356637,5356637,
+220400,Jackson State Community College,TN,NJCAA Division I ,4733,702056,702056,
+220473,Johnson University,TN,NCCAA Division II ,1645,440428,439564,
+220516,King University,TN,NCAA Division II without football,41649,6152752,6152752,
+220598,Lane College,TN,NCAA Division II with football,37029,4008553,4008553,140821
+220604,Le Moyne-Owen College,TN,NCAA Division II without football,6598,705739,705739,
+220613,Lee University,TN,NCAA Division II without football,55141,7039885,7039885,
+220631,Lincoln Memorial University,TN,NCAA Division II without football,139058,8566816,8566816,
+220701,Martin Methodist College,TN,NAIA Division I ,33303,4897228,4861790,
+220710,Maryville College,TN,NCAA Division III with football,28054,2409320,2409320,110767
+220862,University of Memphis,TN,NCAA Division I-FBS,820016,55494325,55494325,1453209
+220978,Middle Tennessee State University,TN,NCAA Division I-FBS,645159,32762435,32762435,2090351
+221096,Motlow State Community College,TN,NJCAA Division I ,0,1094389,1094389,
+221351,Rhodes College,TN,NCAA Division III with football,103653,4876940,4831970,176197
+221397,Roane State Community College,TN,NJCAA Division I ,4952,1038950,1038950,
+221485,Southwest Tennessee Community College,TN,NJCAA Division I ,616,1266419,1266419,
+221519,Sewanee-The University of the South,TN,NCAA Division III with football,38322,4005856,4005856,229274
+221731,Tennessee Wesleyan University,TN,NAIA Division II ,5126,6665598,6665598,
+221740,The University of Tennessee-Chattanooga,TN,NCAA Division I-FCS,310342,18170306,18170306,437980
+221759,The University of Tennessee-Knoxville,TN,NCAA Division I-FBS,3634031,135818717,135106988,4076379
+221768,The University of Tennessee-Martin,TN,NCAA Division I-FCS,178763,12529442,12529442,545950
+221838,Tennessee State University,TN,NCAA Division I-FCS,151204,11864125,11864125,486434
+221847,Tennessee Technological University,TN,NCAA Division I-FCS,207321,13780504,13780504,528897
+221892,Trevecca Nazarene University,TN,NCAA Division II without football,59265,4565268,4565268,
+221953,Tusculum College,TN,NCAA Division II with football,82734,7693300,7693300,154675
+221971,Union University,TN,NCAA Division II without football,58904,6536348,6458502,
+221999,Vanderbilt University,TN,NCAA Division I-FBS,1831744,86186155,84191143,3152543
+222053,Volunteer State Community College,TN,NJCAA Division I ,53,564606,564606,
+222062,Walters State Community College,TN,NJCAA Division I ,8082,1262086,1262086,
+222178,Abilene Christian University,TX,NCAA Division I-FCS,384587,18406907,18406907,873570
+222567,Alvin Community College,TX,NJCAA Division I ,1547,518559,518559,
+222822,Angelina College,TX,NJCAA Division I ,11949,1329581,1329581,
+222831,Angelo State University,TX,NCAA Division II with football,115560,7488621,7192146,288767
+222877,Arlington Baptist University,TX,NCCAA Division II ,0,61716,61716,
+222983,Austin College,TX,NCAA Division III with football,32967,2384865,2384865,191250
+223232,Baylor University,TX,NCAA Division I-FBS,2063267,101243920,101243920,5460039
+223320,Coastal Bend College,TX,NJCAA Division I ,13723,1204249,1111666,
+223427,Blinn College,TX,NJCAA Division I ,30150,3422987,3416941,139638
+223524,Brookhaven College,TX,NJCAA Division III ,0,556941,556941,
+223773,Cedar Valley College,TX,NJCAA Division III ,0,553012,553012,
+223898,Cisco College,TX,NJCAA Division I ,24747,2039975,2039975,94113
+223922,Clarendon College,TX,NJCAA Division I ,20404,992612,992612,
+224004,Concordia University Texas,TX,NCAA Division III without football,19731,2268169,2268169,
+224110,North Central Texas College,TX,NJCAA Division I ,6201,1634619,1634619,
+224147,Texas A & M University-Corpus Christi,TX,NCAA Division I without football,308041,12485467,12485467,
+224226,Dallas Baptist University,TX,NCAA Division II without football,97495,9241445,9163870,
+224244,Dallas Christian College,TX,NCCAA Division II ,3021,472051,472051,
+224323,University of Dallas,TX,NCAA Division III without football,17974,2717901,2717901,
+224527,East Texas Baptist University,TX,NCAA Division III with football,98384,4464087,4464087,261261
+224545,Texas A&M University-Texarkana,TX,NAIA Division I ,35649,794009,794009,
+224554,Texas A & M University-Commerce,TX,NCAA Division II with football,113291,11232217,11138695,466560
+224572,Eastfield College,TX,NJCAA Division III ,375,532608,520569,
+224642,El Paso Community College,TX,NJCAA Division I ,4079,1291125,1287967,
+224891,Frank Phillips College,TX,NJCAA Division I ,15522,1054398,1054398,
+224961,Galveston College,TX,NJCAA Division I ,7314,594228,594228,
+225070,Grayson College,TX,NJCAA Division I ,39764,1194276,1194276,
+225247,Hardin-Simmons University,TX,NCAA Division III with football,37736,3434002,3321491,276420
+225308,Trinity Valley Community College,TX,NJCAA Division I ,93714,2729174,2711132,212993
+225371,Hill College,TX,NJCAA Division I ,12507,1393205,1375506,
+225399,Houston Baptist University,TX,NCAA Division I-FCS,337714,18058380,18058380,492332
+225502,University of Houston-Victoria,TX,NAIA Division I ,13651,1593546,1464452,
+225511,University of Houston,TX,NCAA Division I-FBS,918079,68285574,68285574,2946529
+225520,Howard College,TX,NJCAA Division I ,55444,2021533,1980058,
+225548,Howard Payne University,TX,NCAA Division III with football,63919,2736909,2570059,317213
+225575,Huston-Tillotson University,TX,NAIA Division I ,948,1520474,1520474,
+225627,University of the Incarnate Word,TX,NCAA Division I-FCS,290233,26207015,20314146,631761
+225876,Jacksonville College-Main Campus,TX,NJCAA Division I ,6204,794707,794707,
+225885,Jarvis Christian College,TX,NAIA Division I ,2629,1962044,1962044,
+226019,Kilgore College,TX,NJCAA Division I ,46647,1647304,1281571,57637
+226091,Lamar University,TX,NCAA Division I-FCS,382754,18643060,18525161,531953
+226116,Lamar State College-Port Arthur,TX,NJCAA Division I ,1392,630315,630315,
+226134,Laredo Community College,TX,NJCAA Division I ,7747,1469383,1469383,
+226152,Texas A & M International University,TX,NCAA Division II without football,104685,5123587,5123587,
+226204,Lee College,TX,NJCAA Division I ,23521,841035,841035,
+226231,LeTourneau University,TX,NCAA Division III without football,45730,2249585,2249585,
+226383,Lubbock Christian University,TX,NCAA Division II without football,41034,6096676,5842664,
+226471,University of Mary Hardin-Baylor,TX,NCAA Division III with football,68331,5188501,5188501,532393
+226578,McLennan Community College,TX,NJCAA Division I ,73633,1518540,1518540,
+226587,McMurry University,TX,NCAA Division III with football,76093,3327537,3297641,165283
+226806,Midland College,TX,NJCAA Division I ,63507,2639802,2639802,
+226833,Midwestern State University,TX,NCAA Division II with football,68333,6338006,6338006,134079
+226930,Mountain View College,TX,NJCAA Division III ,0,678886,678886,
+227146,Navarro College,TX,NJCAA Division I ,47047,2603673,2567673,112316
+227191,North Lake College,TX,NJCAA Division III ,0,369536,343036,
+227216,University of North Texas,TX,NCAA Division I-FBS,497040,40758584,39908256,2980711
+227225,Northeast Texas Community College,TX,NJCAA Division I ,10633,1157981,1157981,
+227304,Odessa College,TX,NJCAA Division I ,62304,2537728,2537728,
+227331,Our Lady of the Lake University,TX,NAIA Division I ,23482,3498721,3417702,
+227368,The University of Texas Rio Grande Valley,TX,NCAA Division I without football,176946,12920744,12920744,
+227386,Panola College,TX,Other ,31000,1547289,1507758,
+227401,Paris Junior College,TX,NJCAA Division I ,15198,1236011,1236011,
+227429,Paul Quinn College,TX,NAIA Division I ,1450,589829,589829,
+227526,Prairie View A & M University,TX,NCAA Division I-FCS,126463,13287492,13287492,470464
+227687,Ranger College,TX,NJCAA Division I ,15770,2795478,2795478,
+227757,Rice University,TX,NCAA Division I-FBS,780407,41870484,41870484,1748094
+227766,Richland College,TX,NJCAA Division III ,19296,557412,557412,
+227845,Saint Edward's University,TX,NCAA Division II without football,50507,8925498,8925498,
+227863,University of St Thomas,TX,NAIA Division I ,0,1938999,1938999,
+227881,Sam Houston State University,TX,NCAA Division I-FCS,244145,18429638,17780296,719935
+227979,San Jacinto Community College,TX,NJCAA Division I ,3002,1241878,1241878,
+228042,Schreiner University,TX,NCAA Division III without football,43214,1680150,1680150,
+228149,St. Mary's University,TX,NCAA Division II without football,49737,5780116,5706245,
+228158,South Plains College,TX,NJCAA Division I ,22691,2299008,2184401,
+228246,Southern Methodist University,TX,NCAA Division I-FBS,1504559,70501474,70501474,3480874
+228316,Southwest Texas Junior College,TX,Other ,0,284483,284483,
+228325,Southwestern Assemblies of God University,TX,NAIA Division I ,14211,2955896,2880718,100499
+228343,Southwestern University,TX,NCAA Division III with football,100894,4896289,4711045,246521
+228431,Stephen F Austin State University,TX,NCAA Division I-FCS,424735,17493553,17493553,736905
+228459,Texas State University,TX,NCAA Division I-FBS,483080,36634363,36634363,2393689
+228468,Southwestern Adventist University,TX,NCCAA Division II ,0,103991,96398,
+228486,Southwestern Christian College,TX,NJCAA Division I ,3000,266128,266128,
+228501,Sul Ross State University,TX,NCAA Division III with football,15100,1712767,1630717,88602
+228529,Tarleton State University,TX,NCAA Division II with football,119791,8942863,8714700,228722
+228608,Temple College,TX,NJCAA Division I ,12523,1327617,1293771,
+228705,Texas A & M University-Kingsville,TX,NCAA Division II with football,106850,8958290,8958290,356648
+228723,Texas A & M University-College Station,TX,NCAA Division I-FBS,3169122,160101611,145678287,6119780
+228769,The University of Texas at Arlington,TX,NCAA Division I without football,214531,16977211,16977211,
+228778,The University of Texas at Austin,TX,NCAA Division I-FBS,2764622,215829101,175172054,3128272
+228787,The University of Texas at Dallas,TX,NCAA Division III without football,22989,2692465,2517810,
+228796,The University of Texas at El Paso,TX,NCAA Division I-FBS,636479,33740768,33313800,2238588
+228802,The University of Texas at Tyler,TX,NCAA Division III without football,65488,3661215,3661215,
+228875,Texas Christian University,TX,NCAA Division I-FBS,1881541,118496653,118496653,7263838
+228884,Texas College,TX,NAIA Division I ,0,1492536,1492536,116336
+228981,Texas Lutheran University,TX,NCAA Division III with football,22433,3412066,3281882,94946
+229018,The University of Texas of the Permian Basin,TX,NCAA Division II with football,172380,4684605,4684605,279264
+229027,The University of Texas at San Antonio,TX,NCAA Division I-FBS,783333,31155038,31155038,4022397
+229063,Texas Southern University,TX,NCAA Division I-FCS,99645,12321561,12321561,242849
+229115,Texas Tech University,TX,NCAA Division I-FBS,2521867,86442709,83701980,4358359
+229160,Texas Wesleyan University,TX,NAIA Division I ,25243,8079782,7699993,259261
+229179,Texas Woman's University,TX,NCAA Division II without football,52994,3562952,2969906,
+229267,Trinity University,TX,NCAA Division III with football,0,5013383,5004698,335849
+229355,Tyler Junior College,TX,NJCAA Division I ,31726,4206439,4206439,84109
+229504,Vernon College,TX,NJCAA Division I ,4192,1318034,1318034,
+229780,Wayland Baptist University,TX,NAIA Division I ,0,6629636,6166643,206047
+229799,Weatherford College,TX,NJCAA Division I ,26425,2068667,1981927,
+229814,West Texas A & M University,TX,NCAA Division II with football,151422,10665677,10665677,375296
+229832,Western Texas College,TX,NJCAA Division I ,75640,3321671,3176538,
+229841,Wharton County Junior College,TX,NJCAA Division I ,4768,804387,804387,
+229887,Wiley College,TX,NAIA Division I ,2200,1520938,1520938,
+230038,Brigham Young University-Provo,UT,NCAA Division I-FBS,1064510,72622845,72622845,3696436
+230171,Dixie State University,UT,NCAA Division II with football,78008,8507073,8507073,287259
+230597,Snow College,UT,NJCAA Division I ,10475,2629641,2629641,349728
+230603,Southern Utah University,UT,NCAA Division I-FCS,221354,15883488,15883488,842450
+230728,Utah State University,UT,NCAA Division I-FBS,559764,34564538,34564538,1717965
+230737,Utah Valley University,UT,NCAA Division I without football,252687,14975358,14975358,
+230746,Salt Lake Community College,UT,NJCAA Division I ,15906,2865232,2865232,
+230764,University of Utah,UT,NCAA Division I-FBS,1975183,94177912,86281327,5991870
+230782,Weber State University,UT,NCAA Division I-FCS,242674,14959164,14931955,887127
+230807,Westminster College,UT,NCAA Division II without football,22202,4224823,3993976,
+230834,Castleton University,VT,NCAA Division III with football,24378,3378788,3210237,122371
+230913,Johnson State College,VT,NCAA Division III without football,27380,2153804,2129469,
+230959,Middlebury College,VT,NCAA Division III with football,97983,6405782,6405782,94417
+230995,Norwich University,VT,NCAA Division III with football,119068,4107858,4107858,116247
+231059,Saint Michael's College,VT,NCAA Division II without football,33728,4375332,4375332,
+231165,Vermont Technical College,VT,USCAA,0,363202,351215,
+231174,University of Vermont,VT,NCAA Division I without football,255672,20509064,20509064,
+231420,Averett University,VA,NCAA Division III with football,61277,2704792,2704792,131453
+231554,Bluefield College,VA,NAIA Division I ,45072,5521310,5521310,79882
+231581,Bridgewater College,VA,NCAA Division III with football,82693,3966165,3966165,99012
+231624,College of William and Mary,VA,NCAA Division I-FCS,505534,31120022,30977402,901580
+231651,Regent University,VA,NCCAA Division I ,1855,851818,851818,
+231712,Christopher Newport University,VA,NCAA Division III with football,35577,10442485,10073569,217103
+231785,Bryant & Stratton College-Virginia Beach,VA,NJCAA Division II ,23606,1687953,1687953,
+232025,Emory & Henry College,VA,NCAA Division III with football,54780,3265894,3265894,118507
+232043,Eastern Mennonite University,VA,NCAA Division III without football,20565,1928615,1928615,
+232089,Ferrum College,VA,NCAA Division III with football,82858,3628479,3628479,123283
+232186,George Mason University,VA,NCAA Division I without football,399690,23842181,23842181,
+232256,Hampden-Sydney College,VA,NCAA Division III with football,75757,3394228,3394228,104728
+232265,Hampton University,VA,NCAA Division I-FCS,293838,15148066,15148066,332374
+232423,James Madison University,VA,NCAA Division I-FCS,485136,46161434,46161434,2734601
+232557,Liberty University,VA,NCAA Division I-FBS,1185133,50593390,50593390,1468210
+232566,Longwood University,VA,NCAA Division I without football,126813,11230847,10881109,
+232609,University of Lynchburg,VA,NCAA Division III without football,44664,3538399,3538399,
+232672,Mary Baldwin University,VA,NCAA Division III without football,22542,1287126,1287126,
+232681,University of Mary Washington,VA,NCAA Division III without football,29305,4267262,4046174,
+232706,Marymount University,VA,NCAA Division III without football,30100,3114718,3114718,
+232937,Norfolk State University,VA,NCAA Division I-FCS,97324,13709708,13709708,455982
+232946,Northern Virginia Community College,VA,NJCAA Division II ,0,332950,332950,
+232982,Old Dominion University,VA,NCAA Division I-FBS,841406,43996643,43996643,2336879
+233019,Patrick Henry Community College,VA,NJCAA Division II ,5600,307403,241755,
+233037,Paul D Camp Community College,VA,NJCAA Division II ,0,182805,107824,
+233277,Radford University,VA,NCAA Division I without football,137194,13010283,13010283,
+233295,Randolph-Macon College,VA,NCAA Division III with football,59784,3757911,3586613,136810
+233301,Randolph College,VA,NCAA Division III without football,33438,1726720,1659191,
+233338,Richard Bland College of William and Mary,VA,NJCAA Division I ,4171,1034919,1034919,
+233374,University of Richmond,VA,NCAA Division I-FCS,477303,31513971,31160558,1030298
+233426,Roanoke College,VA,NCAA Division III without football,46739,3030212,3030212,
+233541,Shenandoah University,VA,NCAA Division III with football,78910,4154450,4154450,97154
+233611,Southern Virginia University,VA,NCAA Division III with football,61166,2742319,2742319,180182
+233754,Thomas Nelson Community College,VA,NJCAA Division III ,0,51037,51037,
+233897,The University of Virginia's College at Wise,VA,NCAA Division II with football,83093,4842175,4842175,167009
+233921,Virginia Polytechnic Institute and State University,VA,NCAA Division I-FBS,1620845,83767722,82486221,5353051
+234030,Virginia Commonwealth University,VA,NCAA Division I without football,615915,31623796,31348794,
+234076,University of Virginia-Main Campus,VA,NCAA Division I-FBS,1902541,108854006,108854006,5250316
+234085,Virginia Military Institute,VA,NCAA Division I-FCS,182585,14812966,13924452,292048
+234137,Virginia University of Lynchburg,VA,NCCAA Division I ,4800,2797600,1106602,121238
+234155,Virginia State University,VA,NCAA Division II with football,5179,6149071,6149071,303435
+234164,Virginia Union University,VA,NCAA Division II with football,77017,4321343,4266709,150455
+234173,Virginia Wesleyan University,VA,NCAA Division III without football,41257,2711323,2711323,
+234207,Washington and Lee University,VA,NCAA Division III with football,95580,5647716,5516571,79903
+234669,Bellevue College,WA,NWAC,0,1186231,1155088,
+234711,Big Bend Community College,WA,NWAC,0,694678,694678,
+234827,Central Washington University,WA,NCAA Division II with football,79942,7444424,7238985,298072
+234845,Centralia College,WA,NWAC,1750,631413,562599,
+234933,Clark College,WA,NWAC,0,969899,931821,
+234979,Columbia Basin College,WA,NWAC,6900,969695,969695,
+235097,Eastern Washington University,WA,NCAA Division I-FCS,253391,18164694,18098740,2722149
+235103,Edmonds Community College,WA,NWAC,1728,709445,709445,
+235149,Everett Community College,WA,NWAC,0,822403,822403,
+235167,The Evergreen State College,WA,NAIA Division II ,5149,1025072,1025072,
+235237,Pierce College-Fort Steilacoom,WA,NWAC,3910,864611,809828,
+235316,Gonzaga University,WA,NCAA Division I without football,903582,35916621,29571827,
+235334,Grays Harbor College,WA,NWAC,10332,769582,769582,
+235343,Green River College,WA,NWAC,0,398354,398354,
+235431,Highline College,WA,NWAC,0,1089457,774882,
+235750,Lower Columbia College,WA,NWAC,2760,652773,584471,
+236133,Northwest University,WA,NAIA Division II ,8409,2516341,2516341,
+236188,Olympic College,WA,NWAC,8231,345597,345597,
+236230,Pacific Lutheran University,WA,NCAA Division III with football,45266,4681190,4528800,170522
+236258,Peninsula College,WA,NWAC,22873,487225,487225,
+236328,University of Puget Sound,WA,NCAA Division III with football,60634,3525982,3525982,142391
+236452,Saint Martin's University,WA,NCAA Division II without football,34595,4108318,4108318,
+236577,Seattle Pacific University,WA,NCAA Division II without football,49484,8089074,8055347,
+236595,Seattle University,WA,NCAA Division I without football,277607,16145450,16145450,
+236610,Shoreline Community College,WA,NWAC,0,525428,525428,
+236638,Skagit Valley College,WA,NWAC,7853,663324,663324,
+236656,South Puget Sound Community College,WA,NWAC,12333,739110,695122,
+236708,Spokane Falls Community College,WA,NWAC,35578,1347299,1300642,
+236753,Tacoma Community College,WA,NWAC,3000,451256,451256,
+236887,Walla Walla Community College,WA,NWAC,16500,1147925,1147925,
+236896,Walla Walla University,WA,NAIA Division II ,0,704122,704122,
+236939,Washington State University,WA,NCAA Division I-FBS,1362747,75957792,75957792,3120061
+236948,University of Washington-Seattle Campus,WA,NCAA Division I-FBS,1830974,133792677,116048869,10505336
+236975,Wenatchee Valley College,WA,NWAC,10029,707094,595034,
+237011,Western Washington University,WA,NCAA Division II without football,51926,6904777,6904777,
+237039,Whatcom Community College,WA,NWAC,0,426903,426903,
+237057,Whitman College,WA,NCAA Division III without football,51659,3443250,3342680,
+237066,Whitworth University,WA,NCAA Division III with football,56143,4120214,3962433,162910
+237109,Yakima Valley College,WA,Other ,1743,691911,691911,
+237118,Alderson Broaddus University,WV,NCAA Division II with football,135329,8033492,7944279,167944
+237136,Appalachian Bible College,WV,NCCAA Division II ,0,85466,85466,
+237181,Bethany College,WV,NCAA Division III with football,0,1864948,1864948,114586
+237215,Bluefield State College,WV,NCAA Division II without football,9123,1261335,1202520,
+237312,University of Charleston,WV,NCAA Division II with football,116092,9329142,8951311,149992
+237330,Concord University,WV,NCAA Division II with football,34781,4117947,4117947,29588
+237358,Davis & Elkins College,WV,NCAA Division II without football,24118,4349837,4325238,
+237367,Fairmont State University,WV,NCAA Division II with football,22160,5135163,5121669,118952
+237385,Glenville State College,WV,NCAA Division II with football,65897,3710614,3595272,137629
+237525,Marshall University,WV,NCAA Division I-FBS,672639,31987939,31987939,1919646
+237640,Ohio Valley University,WV,NCAA Division II without football,15669,5453166,3886300,
+237701,Potomac State College of West Virginia University,WV,NJCAA Division II ,8648,1022200,1022200,
+237783,Salem International University,WV,NCAA Division II without football,75403,4741092,4735067,
+237792,Shepherd University,WV,NCAA Division II with football,49670,4330131,4330131,201169
+237899,West Virginia State University,WV,NCAA Division II with football,46400,3544458,3544458,129963
+237932,West Liberty University,WV,NCAA Division II with football,29611,4405313,4405313,144939
+237950,West Virginia University Institute of Technology,WV,NAIA Division II ,8513,4481935,4481935,
+237969,West Virginia Wesleyan College,WV,NCAA Division II with football,50146,5925891,5925891,156203
+238032,West Virginia University,WV,NCAA Division I-FBS,1833633,101095223,101095223,5079272
+238078,Wheeling Jesuit University,WV,NCAA Division II without football,49391,5807540,5775741,93973
+238263,Madison Area Technical College,WI,NJCAA Division III ,5372,984257,970844,
+238333,Beloit College,WI,NCAA Division III with football,47479,2276006,2276006,80101
+238430,Cardinal Stritch University,WI,NAIA Division II ,7060,2815344,2815344,
+238458,Carroll University,WI,NCAA Division III with football,35935,2924884,2862903,59405
+238476,Carthage College,WI,NCAA Division III with football,152674,4989470,4989470,155577
+238616,Concordia University-Wisconsin,WI,NCAA Division III with football,124585,3509628,3423564,102001
+238661,Edgewood College,WI,NCAA Division III without football,21486,1947478,1947478,
+238980,Lakeland University,WI,NCAA Division III with football,76775,2382673,2297291,120117
+239017,Lawrence University,WI,NCAA Division III with football,63007,2871293,2803876,95472
+239071,Maranatha Baptist University,WI,NCAA Division III without football,5717,664907,620102,
+239080,Marian University,WI,NCAA Division III without football,72289,1914279,1846306,
+239105,Marquette University,WI,NCAA Division I without football,1261735,40722217,40722217,
+239248,Milwaukee Area Technical College,WI,NJCAA Division II ,5368,944879,944879,
+239318,Milwaukee School of Engineering,WI,NCAA Division III without football,23441,1907776,1814508,
+239512,Northland College,WI,NCAA Division III without football,58600,1562922,1560205,
+239628,Ripon College,WI,NCAA Division III with football,52300,2100134,1845329,81082
+239716,Saint Norbert College,WI,NCAA Division III with football,65963,3773270,3773270,130619
+239743,Silver Lake College of the Holy Family,WI,NAIA Division II ,14200,354774,354774,
+239910,Southwest Wisconsin Technical College,WI,NJCAA Division III ,0,8480,8480,
+240107,Viterbo University,WI,NAIA Division II ,20743,2223857,2210249,
+240170,Western Technical College,WI,NJCAA Division III ,0,184247,184247,
+240189,University of Wisconsin-Whitewater,WI,NCAA Division III with football,14990,4809217,4755208,156582
+240268,University of Wisconsin-Eau Claire,WI,NCAA Division III with football,47661,4112779,3870766,112355
+240277,University of Wisconsin-Green Bay,WI,NCAA Division I without football,159366,9494870,9494870,
+240329,University of Wisconsin-La Crosse,WI,NCAA Division III with football,39786,4789793,4648407,50573
+240338,Wisconsin Lutheran College,WI,NCAA Division III with football,53060,2799112,2541558,101609
+240365,University of Wisconsin-Oshkosh,WI,NCAA Division III with football,44565,4466078,4456054,114950
+240374,University of Wisconsin-Parkside,WI,NCAA Division II without football,17687,4482059,4473595,
+240417,University of Wisconsin-Stout,WI,NCAA Division III with football,81827,3344136,3278507,77390
+240426,University of Wisconsin-Superior,WI,NCAA Division III without football,27653,2343367,2343367,
+240444,University of Wisconsin-Madison,WI,NCAA Division I-FBS,1438122,151369153,140536659,5700270
+240453,University of Wisconsin-Milwaukee,WI,NCAA Division I without football,181470,13774505,13774505,
+240462,University of Wisconsin-Platteville,WI,NCAA Division III with football,54175,3823777,3778909,135933
+240471,University of Wisconsin-River Falls,WI,NCAA Division III with football,45113,2571674,2571674,90017
+240480,University of Wisconsin-Stevens Point,WI,NCAA Division III with football,47452,3844090,3844090,149047
+240505,Casper College,WY,NJCAA Division I ,12378,1639570,1639570,
+240514,Central Wyoming College,WY,NJCAA Division I ,14666,1001490,1001490,
+240596,Eastern Wyoming College,WY,NJCAA Division I ,11176,1116160,1116160,
+240620,Laramie County Community College,WY,NJCAA Division I ,20050,2442472,2442472,
+240657,Northwest College,WY,NJCAA Division I ,23476,1710269,1421781,
+240666,Sheridan College,WY,NJCAA Division I ,56064,3125191,3125191,
+240693,Western Wyoming Community College,WY,NJCAA Division I ,11650,1613834,1613834,
+240727,University of Wyoming,WY,NCAA Division I-FBS,908077,41252831,41252831,1216307
+241100,American University of Puerto Rico,PR,Other ,0,261399,261399,
+241225,Universidad Central de Bayamon,PR,Other ,0,341622,341622,
+241377,Caribbean University-Bayamon,PR,Other ,0,846150,846150,
+241410,Pontifical Catholic University of Puerto Rico-Ponce,PR,Other ,0,1222934,1222934,
+241739,Universidad Metropolitana,PR,Other ,0,956644,956644,
+242617,Inter American University of Puerto Rico-San German,PR,Other ,0,3022659,3022659,
+243106,University of Puerto Rico-Aguadilla,PR,Other ,0,66484,66484,
+243115,University of Puerto Rico-Arecibo,PR,Other ,0,395758,395758,
+243133,University of Puerto Rico-Bayamon,PR,NCAA Division II with football,0,441561,441561,
+243142,University of Puerto Rico-Carolina,PR,Other ,0,588016,588016,
+243151,University of Puerto Rico-Cayey,PR,Other ,0,515911,515911,
+243179,University of Puerto Rico-Humacao,PR,Other ,0,491733,491733,
+243188,University of Puerto Rico-Utuado,PR,Other ,1400,330524,330524,
+243197,University of Puerto Rico-Mayaguez,PR,NCAA Division II without football,250,1502668,1502668,
+243212,University of Puerto Rico-Ponce,PR,Other ,0,385238,385238,
+243221,University of Puerto Rico-Rio Piedras,PR,NCAA Division II without football,0,1309732,1309732,
+243346,Universidad del Este,PR,Other ,0,751195,751195,
+243443,Universidad del Sagrado Corazon,PR,Other ,0,877209,877209,
+243577,Universidad Politecnica de Puerto Rico,PR,Other ,0,461944,461944,
+243601,Universidad del Turabo,PR,Other ,0,1415684,1415684,
+243665,University of the Virgin Islands,VI,NAIA Division II ,28279,1116880,1116880,
+243744,Stanford University,CA,NCAA Division I-FBS,1721765,139390932,139390932,4272181
+243780,Purdue University-Main Campus,IN,NCAA Division I-FBS,1881065,110844907,90417639,5042644
+245953,Mid-America Christian University,OK,NAIA Division I ,19735,2611308,2611308,
+247603,Sussex County Community College,NJ,NJCAA Division III ,1459,549347,549347,
+247834,Collin County Community College District,TX,NJCAA Division I ,8261,697199,697199,
+251260,Southern Union State Community College,AL,NJCAA Division I ,5879,1501196,1501196,
+262031,St Charles Community College,MO,NJCAA Division I ,0,594227,556373,
+363633,Luna Community College,NM,NJCAA Division I ,7353,589770,589770,
+364016,Paradise Valley Community College,AZ,Other ,0,923596,849778,
+364025,Chandler-Gilbert Community College,AZ,NJCAA Division II ,0,1317501,1097716,
+366252,Pennsylvania College of Technology,PA,NCAA Division III without football,34839,1462049,1462049,
+366395,Suffolk County Community College,NY,NJCAA Division III ,0,1462558,1437228,
+366401,Las Positas College,CA,CCCAA,14500,478418,440480,
+366711,California State University-San Marcos,CA,NCAA Division II without football,20515,7771750,7524004,
+369905,Bryant & Stratton College-Solon,OH,NJCAA Division II ,873,378275,378275,
+380368,Fond du Lac Tribal and Community College,MN,NJCAA Division III ,0,159026,159026,30138
+380377,Northwest Indian College,WA,Independent,2819,72912,72912,
+384333,Estrella Mountain Community College,AZ,NJCAA Division I ,0,103239,75805,
+384342,Heartland Community College,IL,NJCAA Division II ,627,940979,940979,
+395362,Copper Mountain Community College,CA,CCCAA,0,212639,212639,
+399212,Santiago Canyon College,CA,CCCAA,0,911084,911084,
+399911,Soka University of America,CA,NAIA Division II ,29141,1398119,1398119,
+403469,Frontier Community College,IL,NJCAA Division I ,786,459656,439775,
+403478,Lincoln Trail College,IL,NJCAA Division I ,3135,1018854,1004279,
+403487,Wabash Valley College,IL,NJCAA Division I ,11945,1187249,1167766,
+404994,ASA College,NY,NJCAA Division I ,24630,2303943,2303943,276406
+408844,Florida National University-Main Campus,FL,NAIA Division I ,24500,2997304,2414614,
+409698,California State University-Monterey Bay,CA,NCAA Division II without football,68681,5177555,5177555,
+413626,Leech Lake Tribal College,MN,Independent,0,50467,50467,
+414823,Johnson & Wales University-North Miami,FL,NAIA Division II ,18174,1696420,1696420,
+414911,Pennsylvania Highlands Community College,PA,NJCAA Division III ,918,62280,62280,
+433660,Florida Gulf Coast University,FL,NCAA Division I without football,314897,14289265,14289265,
+434016,Little Priest Tribal College,NE,NJCAA Division II ,4226,269283,269283,
+434672,Community College of Baltimore County,MD,NJCAA Division II ,0,2522886,2085593,
+436827,University of Connecticut-Avery Point,CT,NJCAA Division III ,0,355543,355543,
+437103,Baton Rouge Community College,LA,NJCAA Division I ,10267,765720,765720,
+439288,Johnson & Wales University-Denver,CO,NCAA Division III without football,15699,1587697,1587697,
+442781,Tohono O'Odham Community College,AZ,NJCAA Division II ,5000,435538,435538,
+442930,University of Antelope Valley,CA,NAIA Division II ,9763,3051639,2987472,
+444219,Folsom Lake College,CA,CCCAA,5000,1686499,1686499,
+445188,University of California-Merced,CA,NAIA Division II ,5913,1689611,1626259,
+445708,Johnson & Wales University-Charlotte,NC,USCAA,5337,902051,902051,
+446048,Ave Maria University,FL,NAIA Division II ,49805,5477712,5255152,228372
+446233,Ecclesia College,AR,NCCAA Division I ,26506,567771,567771,
+446640,Harrisburg University of Science and Technology,PA,Other ,0,1218396,1218396,
+447689,Georgia Gwinnett College,GA,NAIA Division I ,16246,4085587,4031362,
+448594,West Hills College-Lemoore,CA,CCCAA,0,871691,819399,
+451750,Bryant & Stratton College-Wauwatosa,WI,NJCAA Division II ,19310,1977831,1977831,
+454184,The King's College,NY,USCAA,0,122406,122406,
+455770,Providence Christian College,CA,NAIA Division I ,4201,2038750,2038750,
+460464,Norco College,CA,CCCAA,0,136588,133867,
+461759,Simmons College of Kentucky,KY,NCCAA Division II ,4232,170095,170095,
+464226,Ottawa University-Surprise,AZ,NAIA Division I ,54587,10181624,10181624,275966
+480189,Mercyhurst University-North East Campus,PA,NJCAA Division II ,10162,2190138,2158542,
+482149,Augusta University,GA,NCAA Division II without football,35176,5233829,5233829,
+482158,Middle Georgia State University,GA,NAIA Division I ,4520,2019793,2019793,
+482680,University of North Georgia,GA,NCAA Division II without football,27150,6201817,5626525,
+482699,South Georgia State College,GA,NJCAA Division I ,5000,632139,632139,
+483045,Central Georgia Technical College,GA,NJCAA Division I ,1590,526021,526021,
+485111,Georgia Military College,GA,NJCAA Division I ,17800,2250376,2250376,148970
+486840,Kennesaw State University,GA,NCAA Division I-FCS,298359,23560697,22653278,898164
+486901,Milligan College,TN,NAIA Division II ,30483,5501770,5458939,
+487092,Emory University-Oxford College,GA,NJCAA Division III ,12543,556170,556170,
+487524,Husson University,ME,NCAA Division III with football,35568,2955721,2955721,190200
+488785,University of Saint Katherine,CA,NCCAA Division I ,9935,2701639,2701639,
+489201,Clovis Community College,CA,CCCAA,0,495657,495657,
+489937,Piedmont International University,NC,NCCAA Division I ,10000,2169500,2169500,
+490805,Purdue University Northwest,IN,NCAA Division II without football,40996,3560693,3560693,
+492069,Champion Christian College,AR,NCCAA Division II ,425,93483,93483,
+800001,Simon Fraser University,,NCAA Division II with football,107663,8684391,8684391,300791
